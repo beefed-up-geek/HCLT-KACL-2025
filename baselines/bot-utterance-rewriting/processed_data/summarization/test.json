@@ -6,14 +6,8 @@
       "Food"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000044",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000045",
-        "name": "name1"
-      }
+      "speaker1": "SD2000044",
+      "speaker2": "SD2000045"
     },
     "output": ""
   },
@@ -26,14 +20,8 @@
       "Lunar New Year"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000044",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000045",
-        "name": "name1"
-      }
+      "speaker1": "SD2000044",
+      "speaker2": "SD2000045"
     },
     "output": ""
   },
@@ -44,14 +32,8 @@
       "Perfume"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000044",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000045",
-        "name": "name1"
-      }
+      "speaker1": "SD2000044",
+      "speaker2": "SD2000045"
     },
     "output": ""
   },
@@ -63,14 +45,8 @@
       "Handmade"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000045",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000044",
-        "name": "name2"
-      }
+      "speaker1": "SD2000045",
+      "speaker2": "SD2000044"
     },
     "output": ""
   },
@@ -81,14 +57,8 @@
       "Event"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000044",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000045",
-        "name": "name1"
-      }
+      "speaker1": "SD2000044",
+      "speaker2": "SD2000045"
     },
     "output": ""
   },
@@ -99,14 +69,8 @@
       "Dream"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000046",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000048",
-        "name": "name2"
-      }
+      "speaker1": "SD2000046",
+      "speaker2": "SD2000048"
     },
     "output": ""
   },
@@ -119,14 +83,8 @@
       "Friend"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000048",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000046",
-        "name": "name2"
-      }
+      "speaker1": "SD2000048",
+      "speaker2": "SD2000046"
     },
     "output": ""
   },
@@ -138,14 +96,8 @@
       "Virgin"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000049",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000050",
-        "name": "name1"
-      }
+      "speaker1": "SD2000049",
+      "speaker2": "SD2000050"
     },
     "output": ""
   },
@@ -158,14 +110,8 @@
       "Subject"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000052",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000053",
-        "name": "name1"
-      }
+      "speaker1": "SD2000052",
+      "speaker2": "SD2000053"
     },
     "output": ""
   },
@@ -178,14 +124,8 @@
       "Language Study"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000053",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000052",
-        "name": "name2"
-      }
+      "speaker1": "SD2000053",
+      "speaker2": "SD2000052"
     },
     "output": ""
   },
@@ -198,14 +138,8 @@
       "Effort"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000054",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000055",
-        "name": "name2"
-      }
+      "speaker1": "SD2000054",
+      "speaker2": "SD2000055"
     },
     "output": ""
   },
@@ -218,14 +152,8 @@
       "Self-Management"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000054",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000055",
-        "name": "name2"
-      }
+      "speaker1": "SD2000054",
+      "speaker2": "SD2000055"
     },
     "output": ""
   },
@@ -237,14 +165,8 @@
       "Memories"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000056",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000057",
-        "name": "name2"
-      }
+      "speaker1": "SD2000056",
+      "speaker2": "SD2000057"
     },
     "output": ""
   },
@@ -256,14 +178,8 @@
       "Cats"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000057",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000056",
-        "name": "name2"
-      }
+      "speaker1": "SD2000057",
+      "speaker2": "SD2000056"
     },
     "output": ""
   },
@@ -275,14 +191,8 @@
       "Health"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000058",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000059",
-        "name": "name2"
-      }
+      "speaker1": "SD2000058",
+      "speaker2": "SD2000059"
     },
     "output": ""
   },
@@ -294,14 +204,8 @@
       "COVID Vaccine"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000059",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000058",
-        "name": "name2"
-      }
+      "speaker1": "SD2000059",
+      "speaker2": "SD2000058"
     },
     "output": ""
   },
@@ -314,14 +218,8 @@
       "Happiness"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000060",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000061",
-        "name": "name2"
-      }
+      "speaker1": "SD2000060",
+      "speaker2": "SD2000061"
     },
     "output": ""
   },
@@ -333,14 +231,8 @@
       "Cats"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000060",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000061",
-        "name": "name2"
-      }
+      "speaker1": "SD2000060",
+      "speaker2": "SD2000061"
     },
     "output": ""
   },
@@ -352,14 +244,8 @@
       "Experience"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000060",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000061",
-        "name": "name2"
-      }
+      "speaker1": "SD2000060",
+      "speaker2": "SD2000061"
     },
     "output": ""
   },
@@ -373,14 +259,8 @@
       "Career"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000062",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000063",
-        "name": "name2"
-      }
+      "speaker1": "SD2000062",
+      "speaker2": "SD2000063"
     },
     "output": ""
   },
@@ -393,14 +273,8 @@
       "Interest"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000062",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000063",
-        "name": "name2"
-      }
+      "speaker1": "SD2000062",
+      "speaker2": "SD2000063"
     },
     "output": ""
   },
@@ -413,14 +287,8 @@
       "Memory"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000062",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000063",
-        "name": "name2"
-      }
+      "speaker1": "SD2000062",
+      "speaker2": "SD2000063"
     },
     "output": ""
   },
@@ -434,14 +302,8 @@
       "Romance"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000064",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000065",
-        "name": "name1"
-      }
+      "speaker1": "SD2000064",
+      "speaker2": "SD2000065"
     },
     "output": ""
   },
@@ -453,14 +315,8 @@
       "Criteria"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000064",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000065",
-        "name": "name1"
-      }
+      "speaker1": "SD2000064",
+      "speaker2": "SD2000065"
     },
     "output": ""
   },
@@ -471,14 +327,8 @@
       "Dating"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000066",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000067",
-        "name": "name2"
-      }
+      "speaker1": "SD2000066",
+      "speaker2": "SD2000067"
     },
     "output": ""
   },
@@ -490,14 +340,8 @@
       "Boyfriend"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000067",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000066",
-        "name": "name1"
-      }
+      "speaker1": "SD2000067",
+      "speaker2": "SD2000066"
     },
     "output": ""
   },
@@ -510,14 +354,8 @@
       "Marriage"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000067",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000066",
-        "name": "name1"
-      }
+      "speaker1": "SD2000067",
+      "speaker2": "SD2000066"
     },
     "output": ""
   },
@@ -528,14 +366,8 @@
       "Goal"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000066",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000067",
-        "name": "name1"
-      }
+      "speaker1": "SD2000066",
+      "speaker2": "SD2000067"
     },
     "output": ""
   },
@@ -548,14 +380,8 @@
       "Connection"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000067",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000066",
-        "name": "name2"
-      }
+      "speaker1": "SD2000067",
+      "speaker2": "SD2000066"
     },
     "output": ""
   },
@@ -567,14 +393,8 @@
       "Lifespan"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000068",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000069",
-        "name": "name2"
-      }
+      "speaker1": "SD2000068",
+      "speaker2": "SD2000069"
     },
     "output": ""
   },
@@ -585,14 +405,8 @@
       "Pets"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000068",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000069",
-        "name": "name2"
-      }
+      "speaker1": "SD2000068",
+      "speaker2": "SD2000069"
     },
     "output": ""
   },
@@ -604,14 +418,8 @@
       "Puppy"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000069",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000068",
-        "name": "name2"
-      }
+      "speaker1": "SD2000069",
+      "speaker2": "SD2000068"
     },
     "output": ""
   },
@@ -625,14 +433,8 @@
       "Power Outage"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000068",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000069",
-        "name": "name2"
-      }
+      "speaker1": "SD2000068",
+      "speaker2": "SD2000069"
     },
     "output": ""
   },
@@ -645,14 +447,8 @@
       "Mosquito"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000068",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000069",
-        "name": "name2"
-      }
+      "speaker1": "SD2000068",
+      "speaker2": "SD2000069"
     },
     "output": ""
   },
@@ -665,14 +461,8 @@
       "Genre"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000070",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000071",
-        "name": "name2"
-      }
+      "speaker1": "SD2000070",
+      "speaker2": "SD2000071"
     },
     "output": ""
   },
@@ -685,14 +475,8 @@
       "Criteria"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000070",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000071",
-        "name": "name2"
-      }
+      "speaker1": "SD2000070",
+      "speaker2": "SD2000071"
     },
     "output": ""
   },
@@ -703,14 +487,8 @@
       "Law"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000077",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000078",
-        "name": "name2"
-      }
+      "speaker1": "SD2000077",
+      "speaker2": "SD2000078"
     },
     "output": ""
   },
@@ -723,14 +501,8 @@
       "SNS"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000077",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000078",
-        "name": "name2"
-      }
+      "speaker1": "SD2000077",
+      "speaker2": "SD2000078"
     },
     "output": ""
   },
@@ -742,14 +514,8 @@
       "Bong Joon-ho"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000079",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000080",
-        "name": "name2"
-      }
+      "speaker1": "SD2000079",
+      "speaker2": "SD2000080"
     },
     "output": ""
   },
@@ -760,14 +526,8 @@
       "Genre"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000080",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000079",
-        "name": "name2"
-      }
+      "speaker1": "SD2000080",
+      "speaker2": "SD2000079"
     },
     "output": ""
   },
@@ -778,14 +538,8 @@
       "Crowded Place"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000080",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000079",
-        "name": "name2"
-      }
+      "speaker1": "SD2000080",
+      "speaker2": "SD2000079"
     },
     "output": ""
   },
@@ -798,14 +552,8 @@
       "COVID"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000083",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000084",
-        "name": "name2"
-      }
+      "speaker1": "SD2000083",
+      "speaker2": "SD2000084"
     },
     "output": ""
   },
@@ -817,14 +565,8 @@
       "Global Warming"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000084",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000083",
-        "name": "name2"
-      }
+      "speaker1": "SD2000084",
+      "speaker2": "SD2000083"
     },
     "output": ""
   },
@@ -836,14 +578,8 @@
       "Actor"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000087",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000088",
-        "name": "name2"
-      }
+      "speaker1": "SD2000087",
+      "speaker2": "SD2000088"
     },
     "output": ""
   },
@@ -854,14 +590,8 @@
       "Family"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000091",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000092",
-        "name": "name2"
-      }
+      "speaker1": "SD2000091",
+      "speaker2": "SD2000092"
     },
     "output": ""
   },
@@ -872,14 +602,8 @@
       "Family"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000091",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000092",
-        "name": "name2"
-      }
+      "speaker1": "SD2000091",
+      "speaker2": "SD2000092"
     },
     "output": ""
   },
@@ -891,14 +615,8 @@
       "Same-Sex Love"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000097",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000098",
-        "name": "name2"
-      }
+      "speaker1": "SD2000097",
+      "speaker2": "SD2000098"
     },
     "output": ""
   },
@@ -910,14 +628,8 @@
       "Date Location"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000097",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000098",
-        "name": "name2"
-      }
+      "speaker1": "SD2000097",
+      "speaker2": "SD2000098"
     },
     "output": ""
   },
@@ -928,14 +640,8 @@
       "Boyfriend"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000098",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000097",
-        "name": "name1"
-      }
+      "speaker1": "SD2000098",
+      "speaker2": "SD2000097"
     },
     "output": ""
   },
@@ -949,14 +655,8 @@
       "Season"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000099",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000100",
-        "name": "name1"
-      }
+      "speaker1": "SD2000099",
+      "speaker2": "SD2000100"
     },
     "output": ""
   },
@@ -967,14 +667,8 @@
       "Weather"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000099",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000100",
-        "name": "name1"
-      }
+      "speaker1": "SD2000099",
+      "speaker2": "SD2000100"
     },
     "output": ""
   },
@@ -985,14 +679,8 @@
       "Celebrity"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000101",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000100",
-        "name": "name1"
-      }
+      "speaker1": "SD2000101",
+      "speaker2": "SD2000100"
     },
     "output": ""
   },
@@ -1004,14 +692,8 @@
       "Long-term Entertainment"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000101",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000100",
-        "name": "name1"
-      }
+      "speaker1": "SD2000101",
+      "speaker2": "SD2000100"
     },
     "output": ""
   },
@@ -1023,14 +705,8 @@
       "Conversion"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000101",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000100",
-        "name": "name1"
-      }
+      "speaker1": "SD2000101",
+      "speaker2": "SD2000100"
     },
     "output": ""
   },
@@ -1042,14 +718,8 @@
       "Singer"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000102",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000103",
-        "name": "name2"
-      }
+      "speaker1": "SD2000102",
+      "speaker2": "SD2000103"
     },
     "output": ""
   },
@@ -1060,14 +730,8 @@
       "Program"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000102",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000103",
-        "name": "name2"
-      }
+      "speaker1": "SD2000102",
+      "speaker2": "SD2000103"
     },
     "output": ""
   },
@@ -1079,14 +743,8 @@
       "Marriage"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000104",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000105",
-        "name": "name2"
-      }
+      "speaker1": "SD2000104",
+      "speaker2": "SD2000105"
     },
     "output": ""
   },
@@ -1099,14 +757,8 @@
       "Dating"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000104",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000105",
-        "name": "name2"
-      }
+      "speaker1": "SD2000104",
+      "speaker2": "SD2000105"
     },
     "output": ""
   },
@@ -1119,14 +771,8 @@
       "Experience"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000106",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000107",
-        "name": "name1"
-      }
+      "speaker1": "SD2000106",
+      "speaker2": "SD2000107"
     },
     "output": ""
   },
@@ -1137,14 +783,8 @@
       "Part-time Job"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000108",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000109",
-        "name": "name2"
-      }
+      "speaker1": "SD2000108",
+      "speaker2": "SD2000109"
     },
     "output": ""
   },
@@ -1156,14 +796,8 @@
       "Experience"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000108",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000109",
-        "name": "name2"
-      }
+      "speaker1": "SD2000108",
+      "speaker2": "SD2000109"
     },
     "output": ""
   },
@@ -1174,14 +808,8 @@
       "Honey Job"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000108",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000109",
-        "name": "name2"
-      }
+      "speaker1": "SD2000108",
+      "speaker2": "SD2000109"
     },
     "output": ""
   },
@@ -1194,14 +822,8 @@
       "Fruit"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000110",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000111",
-        "name": "name2"
-      }
+      "speaker1": "SD2000110",
+      "speaker2": "SD2000111"
     },
     "output": ""
   },
@@ -1213,14 +835,8 @@
       "Program"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000110",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000111",
-        "name": "name2"
-      }
+      "speaker1": "SD2000110",
+      "speaker2": "SD2000111"
     },
     "output": ""
   },
@@ -1231,14 +847,8 @@
       "Travel Destination"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000111",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000112",
-        "name": "name2"
-      }
+      "speaker1": "SD2000111",
+      "speaker2": "SD2000112"
     },
     "output": ""
   },
@@ -1249,14 +859,8 @@
       "Overseas Destinations"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000111",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000112",
-        "name": "name2"
-      }
+      "speaker1": "SD2000111",
+      "speaker2": "SD2000112"
     },
     "output": ""
   },
@@ -1267,14 +871,8 @@
       "Travel Style"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000111",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000112",
-        "name": "name2"
-      }
+      "speaker1": "SD2000111",
+      "speaker2": "SD2000112"
     },
     "output": ""
   },
@@ -1285,14 +883,8 @@
       "Disposition"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000113",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000114",
-        "name": "name2"
-      }
+      "speaker1": "SD2000113",
+      "speaker2": "SD2000114"
     },
     "output": ""
   },
@@ -1306,14 +898,8 @@
       "Environment"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000113",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000114",
-        "name": "name2"
-      }
+      "speaker1": "SD2000113",
+      "speaker2": "SD2000114"
     },
     "output": ""
   },
@@ -1325,14 +911,8 @@
       "Genre"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000115",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000116",
-        "name": "name2"
-      }
+      "speaker1": "SD2000115",
+      "speaker2": "SD2000116"
     },
     "output": ""
   },
@@ -1344,14 +924,8 @@
       "Genre"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000115",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000116",
-        "name": "name2"
-      }
+      "speaker1": "SD2000115",
+      "speaker2": "SD2000116"
     },
     "output": ""
   },
@@ -1362,14 +936,8 @@
       "Personality"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000117",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000116",
-        "name": "name2"
-      }
+      "speaker1": "SD2000117",
+      "speaker2": "SD2000116"
     },
     "output": ""
   },
@@ -1380,14 +948,8 @@
       "Hobbies"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000116",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000117",
-        "name": "name2"
-      }
+      "speaker1": "SD2000116",
+      "speaker2": "SD2000117"
     },
     "output": ""
   },
@@ -1399,14 +961,8 @@
       "Economic Concept"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000116",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000117",
-        "name": "name2"
-      }
+      "speaker1": "SD2000116",
+      "speaker2": "SD2000117"
     },
     "output": ""
   },
@@ -1418,14 +974,8 @@
       "Spouse"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000117",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000115",
-        "name": "name2"
-      }
+      "speaker1": "SD2000117",
+      "speaker2": "SD2000115"
     },
     "output": ""
   },
@@ -1437,14 +987,8 @@
       "Date"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000117",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000115",
-        "name": "name2"
-      }
+      "speaker1": "SD2000117",
+      "speaker2": "SD2000115"
     },
     "output": ""
   },
@@ -1455,14 +999,8 @@
       "Travel"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000128",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000129",
-        "name": "name2"
-      }
+      "speaker1": "SD2000128",
+      "speaker2": "SD2000129"
     },
     "output": ""
   },
@@ -1473,14 +1011,8 @@
       "Travel Destination"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000129",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000128",
-        "name": "name2"
-      }
+      "speaker1": "SD2000129",
+      "speaker2": "SD2000128"
     },
     "output": ""
   },
@@ -1491,14 +1023,8 @@
       "Part-time Job"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000132",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000133",
-        "name": "name2"
-      }
+      "speaker1": "SD2000132",
+      "speaker2": "SD2000133"
     },
     "output": ""
   },
@@ -1511,14 +1037,8 @@
       "Unique Part-time Job"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000132",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000133",
-        "name": "name2"
-      }
+      "speaker1": "SD2000132",
+      "speaker2": "SD2000133"
     },
     "output": ""
   },
@@ -1530,14 +1050,8 @@
       "Noodles"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000134",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000135",
-        "name": "name2"
-      }
+      "speaker1": "SD2000134",
+      "speaker2": "SD2000135"
     },
     "output": ""
   },
@@ -1549,14 +1063,8 @@
       "Food"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000135",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000134",
-        "name": "name2"
-      }
+      "speaker1": "SD2000135",
+      "speaker2": "SD2000134"
     },
     "output": ""
   },
@@ -1567,14 +1075,8 @@
       "Food"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000135",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000134",
-        "name": "name2"
-      }
+      "speaker1": "SD2000135",
+      "speaker2": "SD2000134"
     },
     "output": ""
   },
@@ -1588,14 +1090,8 @@
       "Season"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000136",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000137",
-        "name": "name1"
-      }
+      "speaker1": "SD2000136",
+      "speaker2": "SD2000137"
     },
     "output": ""
   },
@@ -1606,14 +1102,8 @@
       "Weather"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000137",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000136",
-        "name": "name2"
-      }
+      "speaker1": "SD2000137",
+      "speaker2": "SD2000136"
     },
     "output": ""
   },
@@ -1624,14 +1114,8 @@
       "Part-time Job"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000137",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000138",
-        "name": "name1"
-      }
+      "speaker1": "SD2000137",
+      "speaker2": "SD2000138"
     },
     "output": ""
   },
@@ -1643,14 +1127,8 @@
       "Consumption"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000137",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000138",
-        "name": "name1"
-      }
+      "speaker1": "SD2000137",
+      "speaker2": "SD2000138"
     },
     "output": ""
   },
@@ -1662,14 +1140,8 @@
       "Date"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000139",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000140",
-        "name": "name2"
-      }
+      "speaker1": "SD2000139",
+      "speaker2": "SD2000140"
     },
     "output": ""
   },
@@ -1680,14 +1152,8 @@
       "Ideal Type"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000139",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000140",
-        "name": "name2"
-      }
+      "speaker1": "SD2000139",
+      "speaker2": "SD2000140"
     },
     "output": ""
   },
@@ -1699,14 +1165,8 @@
       "Date Costs"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000139",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000140",
-        "name": "name2"
-      }
+      "speaker1": "SD2000139",
+      "speaker2": "SD2000140"
     },
     "output": ""
   },
@@ -1719,14 +1179,8 @@
       "Teacher"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000140",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000139",
-        "name": "name2"
-      }
+      "speaker1": "SD2000140",
+      "speaker2": "SD2000139"
     },
     "output": ""
   },
@@ -1737,14 +1191,8 @@
       "University"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000139",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000140",
-        "name": "name2"
-      }
+      "speaker1": "SD2000139",
+      "speaker2": "SD2000140"
     },
     "output": ""
   },
@@ -1757,14 +1205,8 @@
       "Family"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002208",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002209",
-        "name": "name2"
-      }
+      "speaker1": "SD2002208",
+      "speaker2": "SD2002209"
     },
     "output": ""
   },
@@ -1775,14 +1217,8 @@
       "Education"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002208",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002209",
-        "name": "name2"
-      }
+      "speaker1": "SD2002208",
+      "speaker2": "SD2002209"
     },
     "output": ""
   },
@@ -1793,14 +1229,8 @@
       "Sports"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000145",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000146",
-        "name": "name1"
-      }
+      "speaker1": "SD2000145",
+      "speaker2": "SD2000146"
     },
     "output": ""
   },
@@ -1811,14 +1241,8 @@
       "Swimming"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000145",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000146",
-        "name": "name1"
-      }
+      "speaker1": "SD2000145",
+      "speaker2": "SD2000146"
     },
     "output": ""
   },
@@ -1829,14 +1253,8 @@
       "Elementary School"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000147",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000148",
-        "name": "name2"
-      }
+      "speaker1": "SD2000147",
+      "speaker2": "SD2000148"
     },
     "output": ""
   },
@@ -1847,14 +1265,8 @@
       "Middle School"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000147",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000148",
-        "name": "name2"
-      }
+      "speaker1": "SD2000147",
+      "speaker2": "SD2000148"
     },
     "output": ""
   },
@@ -1869,14 +1281,8 @@
       "Uniform"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000147",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000148",
-        "name": "name2"
-      }
+      "speaker1": "SD2000147",
+      "speaker2": "SD2000148"
     },
     "output": ""
   },
@@ -1887,14 +1293,8 @@
       "Future Aspirations"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000151",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000152",
-        "name": "name2"
-      }
+      "speaker1": "SD2000151",
+      "speaker2": "SD2000152"
     },
     "output": ""
   },
@@ -1907,14 +1307,8 @@
       "University"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000151",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000152",
-        "name": "name2"
-      }
+      "speaker1": "SD2000151",
+      "speaker2": "SD2000152"
     },
     "output": ""
   },
@@ -1925,14 +1319,8 @@
       "Marriage"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000151",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000152",
-        "name": "name2"
-      }
+      "speaker1": "SD2000151",
+      "speaker2": "SD2000152"
     },
     "output": ""
   },
@@ -1943,14 +1331,8 @@
       "Travel"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000155",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000156",
-        "name": "name2"
-      }
+      "speaker1": "SD2000155",
+      "speaker2": "SD2000156"
     },
     "output": ""
   },
@@ -1962,14 +1344,8 @@
       "Travel"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000156",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000155",
-        "name": "name2"
-      }
+      "speaker1": "SD2000156",
+      "speaker2": "SD2000155"
     },
     "output": ""
   },
@@ -1981,14 +1357,8 @@
       "Recommendation"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000155",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000156",
-        "name": "name2"
-      }
+      "speaker1": "SD2000155",
+      "speaker2": "SD2000156"
     },
     "output": ""
   },
@@ -2001,14 +1371,8 @@
       "Actor"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000155",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000157",
-        "name": "name2"
-      }
+      "speaker1": "SD2000155",
+      "speaker2": "SD2000157"
     },
     "output": ""
   },
@@ -2020,14 +1384,8 @@
       "Movie"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000155",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000157",
-        "name": "name2"
-      }
+      "speaker1": "SD2000155",
+      "speaker2": "SD2000157"
     },
     "output": ""
   },
@@ -2038,14 +1396,8 @@
       "Actor"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000155",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000157",
-        "name": "name2"
-      }
+      "speaker1": "SD2000155",
+      "speaker2": "SD2000157"
     },
     "output": ""
   },
@@ -2057,14 +1409,8 @@
       "Cooking"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000158",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000159",
-        "name": "name2"
-      }
+      "speaker1": "SD2000158",
+      "speaker2": "SD2000159"
     },
     "output": ""
   },
@@ -2075,14 +1421,8 @@
       "Preference"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000159",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000158",
-        "name": "name2"
-      }
+      "speaker1": "SD2000159",
+      "speaker2": "SD2000158"
     },
     "output": ""
   },
@@ -2095,14 +1435,8 @@
       "Restaurants"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000158",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000159",
-        "name": "name2"
-      }
+      "speaker1": "SD2000158",
+      "speaker2": "SD2000159"
     },
     "output": ""
   },
@@ -2114,14 +1448,8 @@
       "Ruins"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000160",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000161",
-        "name": "name2"
-      }
+      "speaker1": "SD2000160",
+      "speaker2": "SD2000161"
     },
     "output": ""
   },
@@ -2132,14 +1460,8 @@
       "Travel"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000161",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000160",
-        "name": "name2"
-      }
+      "speaker1": "SD2000161",
+      "speaker2": "SD2000160"
     },
     "output": ""
   },
@@ -2150,14 +1472,8 @@
       "Travel Destination"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000160",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000161",
-        "name": "name2"
-      }
+      "speaker1": "SD2000160",
+      "speaker2": "SD2000161"
     },
     "output": ""
   },
@@ -2170,14 +1486,8 @@
       "Memories"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000162",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000163",
-        "name": "name2"
-      }
+      "speaker1": "SD2000162",
+      "speaker2": "SD2000163"
     },
     "output": ""
   },
@@ -2188,14 +1498,8 @@
       "Food"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000162",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000163",
-        "name": "name2"
-      }
+      "speaker1": "SD2000162",
+      "speaker2": "SD2000163"
     },
     "output": ""
   },
@@ -2209,14 +1513,8 @@
       "Memory"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000162",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000163",
-        "name": "name2"
-      }
+      "speaker1": "SD2000162",
+      "speaker2": "SD2000163"
     },
     "output": ""
   },
@@ -2228,14 +1526,8 @@
       "Birthday"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002206",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2002207",
-        "name": "name1"
-      }
+      "speaker1": "SD2002206",
+      "speaker2": "SD2002207"
     },
     "output": ""
   },
@@ -2247,14 +1539,8 @@
       "Cake"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002207",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002206",
-        "name": "name2"
-      }
+      "speaker1": "SD2002207",
+      "speaker2": "SD2002206"
     },
     "output": ""
   },
@@ -2265,14 +1551,8 @@
       "Ideal Type"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000164",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000165",
-        "name": "name2"
-      }
+      "speaker1": "SD2000164",
+      "speaker2": "SD2000165"
     },
     "output": ""
   },
@@ -2285,14 +1565,8 @@
       "Separation"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000165",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000164",
-        "name": "name2"
-      }
+      "speaker1": "SD2000165",
+      "speaker2": "SD2000164"
     },
     "output": ""
   },
@@ -2305,14 +1579,8 @@
       "Child Planning"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000164",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000165",
-        "name": "name2"
-      }
+      "speaker1": "SD2000164",
+      "speaker2": "SD2000165"
     },
     "output": ""
   },
@@ -2324,14 +1592,8 @@
       "Liberal Arts"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000166",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000167",
-        "name": "name2"
-      }
+      "speaker1": "SD2000166",
+      "speaker2": "SD2000167"
     },
     "output": ""
   },
@@ -2343,14 +1605,8 @@
       "College Life"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000166",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000167",
-        "name": "name2"
-      }
+      "speaker1": "SD2000166",
+      "speaker2": "SD2000167"
     },
     "output": ""
   },
@@ -2362,14 +1618,8 @@
       "First Love"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002375",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002376",
-        "name": "name2"
-      }
+      "speaker1": "SD2002375",
+      "speaker2": "SD2002376"
     },
     "output": ""
   },
@@ -2380,14 +1630,8 @@
       "Dating Style"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002376",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002375",
-        "name": "name2"
-      }
+      "speaker1": "SD2002376",
+      "speaker2": "SD2002375"
     },
     "output": ""
   },
@@ -2398,14 +1642,8 @@
       "Program"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000174",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000175",
-        "name": "name2"
-      }
+      "speaker1": "SD2000174",
+      "speaker2": "SD2000175"
     },
     "output": ""
   },
@@ -2416,14 +1654,8 @@
       "Drama"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000174",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000175",
-        "name": "name2"
-      }
+      "speaker1": "SD2000174",
+      "speaker2": "SD2000175"
     },
     "output": ""
   },
@@ -2434,14 +1666,8 @@
       "Game of Thrones"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000175",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000174",
-        "name": "name2"
-      }
+      "speaker1": "SD2000175",
+      "speaker2": "SD2000174"
     },
     "output": ""
   },
@@ -2452,14 +1678,8 @@
       "Movie"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000174",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000175",
-        "name": "name2"
-      }
+      "speaker1": "SD2000174",
+      "speaker2": "SD2000175"
     },
     "output": ""
   },
@@ -2471,14 +1691,8 @@
       "Director"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000174",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000175",
-        "name": "name2"
-      }
+      "speaker1": "SD2000174",
+      "speaker2": "SD2000175"
     },
     "output": ""
   },
@@ -2489,14 +1703,8 @@
       "Horror Movie"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000175",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000174",
-        "name": "name2"
-      }
+      "speaker1": "SD2000175",
+      "speaker2": "SD2000174"
     },
     "output": ""
   },
@@ -2507,14 +1715,8 @@
       "Restaurant"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000176",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000177",
-        "name": "name2"
-      }
+      "speaker1": "SD2000176",
+      "speaker2": "SD2000177"
     },
     "output": ""
   },
@@ -2525,14 +1727,8 @@
       "Cooking"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000176",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000177",
-        "name": "name2"
-      }
+      "speaker1": "SD2000176",
+      "speaker2": "SD2000177"
     },
     "output": ""
   },
@@ -2543,14 +1739,8 @@
       "Food"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000177",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000176",
-        "name": "name2"
-      }
+      "speaker1": "SD2000177",
+      "speaker2": "SD2000176"
     },
     "output": ""
   },
@@ -2561,14 +1751,8 @@
       "Friend"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000177",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000178",
-        "name": "name2"
-      }
+      "speaker1": "SD2000177",
+      "speaker2": "SD2000178"
     },
     "output": ""
   },
@@ -2579,14 +1763,8 @@
       "Teacher"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000177",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000178",
-        "name": "name2"
-      }
+      "speaker1": "SD2000177",
+      "speaker2": "SD2000178"
     },
     "output": ""
   },
@@ -2597,14 +1775,8 @@
       "Overseas Travel"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000179",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000180",
-        "name": "name1"
-      }
+      "speaker1": "SD2000179",
+      "speaker2": "SD2000180"
     },
     "output": ""
   },
@@ -2616,14 +1788,8 @@
       "Domestic"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000180",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000179",
-        "name": "name2"
-      }
+      "speaker1": "SD2000180",
+      "speaker2": "SD2000179"
     },
     "output": ""
   },
@@ -2634,14 +1800,8 @@
       "Travel"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000180",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000179",
-        "name": "name2"
-      }
+      "speaker1": "SD2000180",
+      "speaker2": "SD2000179"
     },
     "output": ""
   },
@@ -2652,14 +1812,8 @@
       "Graduation Trip"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002206",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002207",
-        "name": "name2"
-      }
+      "speaker1": "SD2002206",
+      "speaker2": "SD2002207"
     },
     "output": ""
   },
@@ -2670,14 +1824,8 @@
       "School Life"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002207",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2002206",
-        "name": "name1"
-      }
+      "speaker1": "SD2002207",
+      "speaker2": "SD2002206"
     },
     "output": ""
   },
@@ -2688,14 +1836,8 @@
       "Part-time Job"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000183",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000184",
-        "name": "name2"
-      }
+      "speaker1": "SD2000183",
+      "speaker2": "SD2000184"
     },
     "output": ""
   },
@@ -2708,14 +1850,8 @@
       "Selection Criteria"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000183",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000184",
-        "name": "name2"
-      }
+      "speaker1": "SD2000183",
+      "speaker2": "SD2000184"
     },
     "output": ""
   },
@@ -2726,14 +1862,8 @@
       "Exercise"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000185",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000186",
-        "name": "name2"
-      }
+      "speaker1": "SD2000185",
+      "speaker2": "SD2000186"
     },
     "output": ""
   },
@@ -2744,14 +1874,8 @@
       "Athlete"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000186",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000185",
-        "name": "name2"
-      }
+      "speaker1": "SD2000186",
+      "speaker2": "SD2000185"
     },
     "output": ""
   },
@@ -2762,14 +1886,8 @@
       "Part-time Job"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000187",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000188",
-        "name": "name2"
-      }
+      "speaker1": "SD2000187",
+      "speaker2": "SD2000188"
     },
     "output": ""
   },
@@ -2780,14 +1898,8 @@
       "Part-time Job"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000187",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000188",
-        "name": "name2"
-      }
+      "speaker1": "SD2000187",
+      "speaker2": "SD2000188"
     },
     "output": ""
   },
@@ -2798,14 +1910,8 @@
       "Dating"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002377",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2002378",
-        "name": "name1"
-      }
+      "speaker1": "SD2002377",
+      "speaker2": "SD2002378"
     },
     "output": ""
   },
@@ -2816,14 +1922,8 @@
       "First Love"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002378",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2002377",
-        "name": "name1"
-      }
+      "speaker1": "SD2002378",
+      "speaker2": "SD2002377"
     },
     "output": ""
   },
@@ -2834,14 +1934,8 @@
       "Wind"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002377",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002378",
-        "name": "name2"
-      }
+      "speaker1": "SD2002377",
+      "speaker2": "SD2002378"
     },
     "output": ""
   },
@@ -2852,14 +1946,8 @@
       "Dining Out"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000190",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000191",
-        "name": "name2"
-      }
+      "speaker1": "SD2000190",
+      "speaker2": "SD2000191"
     },
     "output": ""
   },
@@ -2870,14 +1958,8 @@
       "Holiday Food"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000191",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000190",
-        "name": "name2"
-      }
+      "speaker1": "SD2000191",
+      "speaker2": "SD2000190"
     },
     "output": ""
   },
@@ -2888,14 +1970,8 @@
       "Food"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000190",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000191",
-        "name": "name2"
-      }
+      "speaker1": "SD2000190",
+      "speaker2": "SD2000191"
     },
     "output": ""
   },
@@ -2906,14 +1982,8 @@
       "Gift"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000192",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000193",
-        "name": "name2"
-      }
+      "speaker1": "SD2000192",
+      "speaker2": "SD2000193"
     },
     "output": ""
   },
@@ -2924,14 +1994,8 @@
       "Gift"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000193",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000192",
-        "name": "name2"
-      }
+      "speaker1": "SD2000193",
+      "speaker2": "SD2000192"
     },
     "output": ""
   },
@@ -2942,14 +2006,8 @@
       "Small Happiness"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000193",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000192",
-        "name": "name2"
-      }
+      "speaker1": "SD2000193",
+      "speaker2": "SD2000192"
     },
     "output": ""
   },
@@ -2962,14 +2020,8 @@
       "Gift"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000194",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000195",
-        "name": "name2"
-      }
+      "speaker1": "SD2000194",
+      "speaker2": "SD2000195"
     },
     "output": ""
   },
@@ -2980,14 +2032,8 @@
       "Birthday Gift"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000195",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000194",
-        "name": "name2"
-      }
+      "speaker1": "SD2000195",
+      "speaker2": "SD2000194"
     },
     "output": ""
   },
@@ -2998,14 +2044,8 @@
       "Gift"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000195",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000194",
-        "name": "name1"
-      }
+      "speaker1": "SD2000195",
+      "speaker2": "SD2000194"
     },
     "output": ""
   },
@@ -3016,14 +2056,8 @@
       "Family Relations"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000198",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000199",
-        "name": "name2"
-      }
+      "speaker1": "SD2000198",
+      "speaker2": "SD2000199"
     },
     "output": ""
   },
@@ -3034,14 +2068,8 @@
       "Family"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000198",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000199",
-        "name": "name2"
-      }
+      "speaker1": "SD2000198",
+      "speaker2": "SD2000199"
     },
     "output": ""
   },
@@ -3052,14 +2080,8 @@
       "Evening Primrose"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000204",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000205",
-        "name": "name2"
-      }
+      "speaker1": "SD2000204",
+      "speaker2": "SD2000205"
     },
     "output": ""
   },
@@ -3070,14 +2092,8 @@
       "Exercise"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000205",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000204",
-        "name": "name2"
-      }
+      "speaker1": "SD2000205",
+      "speaker2": "SD2000204"
     },
     "output": ""
   },
@@ -3088,14 +2104,8 @@
       "Menopause"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000204",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000205",
-        "name": "name2"
-      }
+      "speaker1": "SD2000204",
+      "speaker2": "SD2000205"
     },
     "output": ""
   },
@@ -3107,14 +2117,8 @@
       "Food"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000206",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000204",
-        "name": "name2"
-      }
+      "speaker1": "SD2000206",
+      "speaker2": "SD2000204"
     },
     "output": ""
   },
@@ -3127,14 +2131,8 @@
       "Cafe"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000206",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000204",
-        "name": "name2"
-      }
+      "speaker1": "SD2000206",
+      "speaker2": "SD2000204"
     },
     "output": ""
   },
@@ -3145,14 +2143,8 @@
       "Tteokbokki"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000204",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000206",
-        "name": "name2"
-      }
+      "speaker1": "SD2000204",
+      "speaker2": "SD2000206"
     },
     "output": ""
   },
@@ -3163,14 +2155,8 @@
       "Dating"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002371",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2002372",
-        "name": "name1"
-      }
+      "speaker1": "SD2002371",
+      "speaker2": "SD2002372"
     },
     "output": ""
   },
@@ -3181,14 +2167,8 @@
       "Husband"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002372",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002371",
-        "name": "name2"
-      }
+      "speaker1": "SD2002372",
+      "speaker2": "SD2002371"
     },
     "output": ""
   },
@@ -3199,14 +2179,8 @@
       "Aging"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002372",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002371",
-        "name": "name2"
-      }
+      "speaker1": "SD2002372",
+      "speaker2": "SD2002371"
     },
     "output": ""
   },
@@ -3217,14 +2191,8 @@
       "Teacher"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000210",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000211",
-        "name": "name2"
-      }
+      "speaker1": "SD2000210",
+      "speaker2": "SD2000211"
     },
     "output": ""
   },
@@ -3235,14 +2203,8 @@
       "School Trip"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000210",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000211",
-        "name": "name2"
-      }
+      "speaker1": "SD2000210",
+      "speaker2": "SD2000211"
     },
     "output": ""
   },
@@ -3254,14 +2216,8 @@
       "Memory"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002365",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002366",
-        "name": "name2"
-      }
+      "speaker1": "SD2002365",
+      "speaker2": "SD2002366"
     },
     "output": ""
   },
@@ -3272,14 +2228,8 @@
       "Alumni Association"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002365",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002366",
-        "name": "name2"
-      }
+      "speaker1": "SD2002365",
+      "speaker2": "SD2002366"
     },
     "output": ""
   },
@@ -3291,14 +2241,8 @@
       "Customer"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000216",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000217",
-        "name": "name1"
-      }
+      "speaker1": "SD2000216",
+      "speaker2": "SD2000217"
     },
     "output": ""
   },
@@ -3310,14 +2254,8 @@
       "Contract"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000216",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000217",
-        "name": "name1"
-      }
+      "speaker1": "SD2000216",
+      "speaker2": "SD2000217"
     },
     "output": ""
   },
@@ -3328,14 +2266,8 @@
       "Part-time Job"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000216",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000217",
-        "name": "name1"
-      }
+      "speaker1": "SD2000216",
+      "speaker2": "SD2000217"
     },
     "output": ""
   },
@@ -3346,14 +2278,8 @@
       "Teacher"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000225",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000226",
-        "name": "name2"
-      }
+      "speaker1": "SD2000225",
+      "speaker2": "SD2000226"
     },
     "output": ""
   },
@@ -3365,14 +2291,8 @@
       "Employment"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000225",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000226",
-        "name": "name2"
-      }
+      "speaker1": "SD2000225",
+      "speaker2": "SD2000226"
     },
     "output": ""
   },
@@ -3385,14 +2305,8 @@
       "Gwangju"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000234",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000232",
-        "name": "name2"
-      }
+      "speaker1": "SD2000234",
+      "speaker2": "SD2000232"
     },
     "output": ""
   },
@@ -3404,14 +2318,8 @@
       "Jeju Island"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000232",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000234",
-        "name": "name2"
-      }
+      "speaker1": "SD2000232",
+      "speaker2": "SD2000234"
     },
     "output": ""
   },
@@ -3423,14 +2331,8 @@
       "Weather"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000234",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000232",
-        "name": "name2"
-      }
+      "speaker1": "SD2000234",
+      "speaker2": "SD2000232"
     },
     "output": ""
   },
@@ -3441,14 +2343,8 @@
       "Family"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000237",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000238",
-        "name": "name2"
-      }
+      "speaker1": "SD2000237",
+      "speaker2": "SD2000238"
     },
     "output": ""
   },
@@ -3460,14 +2356,8 @@
       "Brother"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000237",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000238",
-        "name": "name2"
-      }
+      "speaker1": "SD2000237",
+      "speaker2": "SD2000238"
     },
     "output": ""
   },
@@ -3478,14 +2368,8 @@
       "Home"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000238",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000237",
-        "name": "name2"
-      }
+      "speaker1": "SD2000238",
+      "speaker2": "SD2000237"
     },
     "output": ""
   },
@@ -3496,14 +2380,8 @@
       "Health Management"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000239",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000240",
-        "name": "name2"
-      }
+      "speaker1": "SD2000239",
+      "speaker2": "SD2000240"
     },
     "output": ""
   },
@@ -3514,14 +2392,8 @@
       "Exercise"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000240",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000239",
-        "name": "name2"
-      }
+      "speaker1": "SD2000240",
+      "speaker2": "SD2000239"
     },
     "output": ""
   },
@@ -3532,14 +2404,8 @@
       "Part-time Job"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000239",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000240",
-        "name": "name2"
-      }
+      "speaker1": "SD2000239",
+      "speaker2": "SD2000240"
     },
     "output": ""
   },
@@ -3551,14 +2417,8 @@
       "Memory"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000240",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000239",
-        "name": "name2"
-      }
+      "speaker1": "SD2000240",
+      "speaker2": "SD2000239"
     },
     "output": ""
   },
@@ -3569,14 +2429,8 @@
       "Family Relations"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000247",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000248",
-        "name": "name2"
-      }
+      "speaker1": "SD2000247",
+      "speaker2": "SD2000248"
     },
     "output": ""
   },
@@ -3587,14 +2441,8 @@
       "Marriage"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000248",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000247",
-        "name": "name2"
-      }
+      "speaker1": "SD2000248",
+      "speaker2": "SD2000247"
     },
     "output": ""
   },
@@ -3605,14 +2453,8 @@
       "Pets"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002365",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002366",
-        "name": "name2"
-      }
+      "speaker1": "SD2002365",
+      "speaker2": "SD2002366"
     },
     "output": ""
   },
@@ -3625,14 +2467,8 @@
       "Pets"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002365",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002366",
-        "name": "name2"
-      }
+      "speaker1": "SD2002365",
+      "speaker2": "SD2002366"
     },
     "output": ""
   },
@@ -3643,14 +2479,8 @@
       "Food"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000253",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000254",
-        "name": "name2"
-      }
+      "speaker1": "SD2000253",
+      "speaker2": "SD2000254"
     },
     "output": ""
   },
@@ -3661,14 +2491,8 @@
       "Korean Cuisine"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000253",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000254",
-        "name": "name2"
-      }
+      "speaker1": "SD2000253",
+      "speaker2": "SD2000254"
     },
     "output": ""
   },
@@ -3682,14 +2506,8 @@
       "Adult Diseases"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000253",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000254",
-        "name": "name2"
-      }
+      "speaker1": "SD2000253",
+      "speaker2": "SD2000254"
     },
     "output": ""
   },
@@ -3702,14 +2520,8 @@
       "Dementia"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000253",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000254",
-        "name": "name2"
-      }
+      "speaker1": "SD2000253",
+      "speaker2": "SD2000254"
     },
     "output": ""
   },
@@ -3720,14 +2532,8 @@
       "Family"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000257",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000258",
-        "name": "name1"
-      }
+      "speaker1": "SD2000257",
+      "speaker2": "SD2000258"
     },
     "output": ""
   },
@@ -3738,14 +2544,8 @@
       "Family Relations"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000257",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000258",
-        "name": "name1"
-      }
+      "speaker1": "SD2000257",
+      "speaker2": "SD2000258"
     },
     "output": ""
   },
@@ -3757,14 +2557,8 @@
       "Meaning"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000259",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000260",
-        "name": "name2"
-      }
+      "speaker1": "SD2000259",
+      "speaker2": "SD2000260"
     },
     "output": ""
   },
@@ -3776,14 +2570,8 @@
       "Family"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000260",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000259",
-        "name": "name1"
-      }
+      "speaker1": "SD2000260",
+      "speaker2": "SD2000259"
     },
     "output": ""
   },
@@ -3797,14 +2585,8 @@
       "Advantages"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000261",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000263",
-        "name": "name1"
-      }
+      "speaker1": "SD2000261",
+      "speaker2": "SD2000263"
     },
     "output": ""
   },
@@ -3815,14 +2597,8 @@
       "Coronavirus"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000261",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000263",
-        "name": "name1"
-      }
+      "speaker1": "SD2000261",
+      "speaker2": "SD2000263"
     },
     "output": ""
   },
@@ -3833,14 +2609,8 @@
       "Teacher"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000261",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000263",
-        "name": "name1"
-      }
+      "speaker1": "SD2000261",
+      "speaker2": "SD2000263"
     },
     "output": ""
   },
@@ -3851,14 +2621,8 @@
       "Health Food"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2001141",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2001142",
-        "name": "name2"
-      }
+      "speaker1": "SD2001141",
+      "speaker2": "SD2001142"
     },
     "output": ""
   },
@@ -3869,14 +2633,8 @@
       "Health Management"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2001142",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2001141",
-        "name": "name2"
-      }
+      "speaker1": "SD2001142",
+      "speaker2": "SD2001141"
     },
     "output": ""
   },
@@ -3887,14 +2645,8 @@
       "Part-time Job"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000267",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000266",
-        "name": "name2"
-      }
+      "speaker1": "SD2000267",
+      "speaker2": "SD2000266"
     },
     "output": ""
   },
@@ -3907,14 +2659,8 @@
       "App"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000267",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000266",
-        "name": "name2"
-      }
+      "speaker1": "SD2000267",
+      "speaker2": "SD2000266"
     },
     "output": ""
   },
@@ -3926,14 +2672,8 @@
       "Know-how"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000267",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000266",
-        "name": "name2"
-      }
+      "speaker1": "SD2000267",
+      "speaker2": "SD2000266"
     },
     "output": ""
   },
@@ -3946,14 +2686,8 @@
       "Child Planning"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000268",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000266",
-        "name": "name2"
-      }
+      "speaker1": "SD2000268",
+      "speaker2": "SD2000266"
     },
     "output": ""
   },
@@ -3968,14 +2702,8 @@
       "Parents"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000268",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000266",
-        "name": "name2"
-      }
+      "speaker1": "SD2000268",
+      "speaker2": "SD2000266"
     },
     "output": ""
   },
@@ -3986,14 +2714,8 @@
       "Hobby"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2001647",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2001648",
-        "name": "name2"
-      }
+      "speaker1": "SD2001647",
+      "speaker2": "SD2001648"
     },
     "output": ""
   },
@@ -4004,14 +2726,8 @@
       "Part-time Job"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002204",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002205",
-        "name": "name2"
-      }
+      "speaker1": "SD2002204",
+      "speaker2": "SD2002205"
     },
     "output": ""
   },
@@ -4022,14 +2738,8 @@
       "Labor"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002204",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002205",
-        "name": "name2"
-      }
+      "speaker1": "SD2002204",
+      "speaker2": "SD2002205"
     },
     "output": ""
   },
@@ -4040,14 +2750,8 @@
       "Season"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000274",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000275",
-        "name": "name2"
-      }
+      "speaker1": "SD2000274",
+      "speaker2": "SD2000275"
     },
     "output": ""
   },
@@ -4059,14 +2763,8 @@
       "Season"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000274",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000275",
-        "name": "name2"
-      }
+      "speaker1": "SD2000274",
+      "speaker2": "SD2000275"
     },
     "output": ""
   },
@@ -4078,14 +2776,8 @@
       "Life Movie"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002200",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002201",
-        "name": "name2"
-      }
+      "speaker1": "SD2002200",
+      "speaker2": "SD2002201"
     },
     "output": ""
   },
@@ -4096,14 +2788,8 @@
       "Actor"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002201",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002200",
-        "name": "name2"
-      }
+      "speaker1": "SD2002201",
+      "speaker2": "SD2002200"
     },
     "output": ""
   },
@@ -4114,14 +2800,8 @@
       "Food"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000282",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000283",
-        "name": "name2"
-      }
+      "speaker1": "SD2000282",
+      "speaker2": "SD2000283"
     },
     "output": ""
   },
@@ -4134,14 +2814,8 @@
       "School Days"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000287",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000288",
-        "name": "name1"
-      }
+      "speaker1": "SD2000287",
+      "speaker2": "SD2000288"
     },
     "output": ""
   },
@@ -4153,14 +2827,8 @@
       "Alumni"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000288",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000287",
-        "name": "name2"
-      }
+      "speaker1": "SD2000288",
+      "speaker2": "SD2000287"
     },
     "output": ""
   },
@@ -4171,14 +2839,8 @@
       "Sports"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000288",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000289",
-        "name": "name1"
-      }
+      "speaker1": "SD2000288",
+      "speaker2": "SD2000289"
     },
     "output": ""
   },
@@ -4189,14 +2851,8 @@
       "Gangwon FC"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000289",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000288",
-        "name": "name2"
-      }
+      "speaker1": "SD2000289",
+      "speaker2": "SD2000288"
     },
     "output": ""
   },
@@ -4207,14 +2863,8 @@
       "Complex"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000298",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000299",
-        "name": "name2"
-      }
+      "speaker1": "SD2000298",
+      "speaker2": "SD2000299"
     },
     "output": ""
   },
@@ -4225,14 +2875,8 @@
       "Management"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000298",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000299",
-        "name": "name2"
-      }
+      "speaker1": "SD2000298",
+      "speaker2": "SD2000299"
     },
     "output": ""
   },
@@ -4243,14 +2887,8 @@
       "Complex"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000300",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000301",
-        "name": "name2"
-      }
+      "speaker1": "SD2000300",
+      "speaker2": "SD2000301"
     },
     "output": ""
   },
@@ -4262,14 +2900,8 @@
       "Overcome"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000300",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000301",
-        "name": "name2"
-      }
+      "speaker1": "SD2000300",
+      "speaker2": "SD2000301"
     },
     "output": ""
   },
@@ -4280,14 +2912,8 @@
       "Hobby"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000305",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000306",
-        "name": "name2"
-      }
+      "speaker1": "SD2000305",
+      "speaker2": "SD2000306"
     },
     "output": ""
   },
@@ -4299,14 +2925,8 @@
       "Personality"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000307",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000308",
-        "name": "name2"
-      }
+      "speaker1": "SD2000307",
+      "speaker2": "SD2000308"
     },
     "output": ""
   },
@@ -4317,14 +2937,8 @@
       "Personality"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000308",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000307",
-        "name": "name2"
-      }
+      "speaker1": "SD2000308",
+      "speaker2": "SD2000307"
     },
     "output": ""
   },
@@ -4336,14 +2950,8 @@
       "Romance"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000311",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000312",
-        "name": "name2"
-      }
+      "speaker1": "SD2000311",
+      "speaker2": "SD2000312"
     },
     "output": ""
   },
@@ -4354,14 +2962,8 @@
       "Marriage"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000311",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000312",
-        "name": "name2"
-      }
+      "speaker1": "SD2000311",
+      "speaker2": "SD2000312"
     },
     "output": ""
   },
@@ -4373,14 +2975,8 @@
       "Festival"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000320",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000319",
-        "name": "name2"
-      }
+      "speaker1": "SD2000320",
+      "speaker2": "SD2000319"
     },
     "output": ""
   },
@@ -4392,14 +2988,8 @@
       "Travel"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000319",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000320",
-        "name": "name2"
-      }
+      "speaker1": "SD2000319",
+      "speaker2": "SD2000320"
     },
     "output": ""
   },
@@ -4410,14 +3000,8 @@
       "Exercise"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000319",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000320",
-        "name": "name2"
-      }
+      "speaker1": "SD2000319",
+      "speaker2": "SD2000320"
     },
     "output": ""
   },
@@ -4429,14 +3013,8 @@
       "Game"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000320",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000319",
-        "name": "name2"
-      }
+      "speaker1": "SD2000320",
+      "speaker2": "SD2000319"
     },
     "output": ""
   },
@@ -4448,14 +3026,8 @@
       "Dating"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000323",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000324",
-        "name": "name2"
-      }
+      "speaker1": "SD2000323",
+      "speaker2": "SD2000324"
     },
     "output": ""
   },
@@ -4466,14 +3038,8 @@
       "Marriage"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000323",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000324",
-        "name": "name2"
-      }
+      "speaker1": "SD2000323",
+      "speaker2": "SD2000324"
     },
     "output": ""
   },
@@ -4484,14 +3050,8 @@
       "Dream"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000325",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000326",
-        "name": "name1"
-      }
+      "speaker1": "SD2000325",
+      "speaker2": "SD2000326"
     },
     "output": ""
   },
@@ -4503,14 +3063,8 @@
       "Bucket List"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000325",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000326",
-        "name": "name2"
-      }
+      "speaker1": "SD2000325",
+      "speaker2": "SD2000326"
     },
     "output": ""
   },
@@ -4523,14 +3077,8 @@
       "Summer"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000327",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000329",
-        "name": "name2"
-      }
+      "speaker1": "SD2000327",
+      "speaker2": "SD2000329"
     },
     "output": ""
   },
@@ -4543,14 +3091,8 @@
       "Winter"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000329",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000327",
-        "name": "name2"
-      }
+      "speaker1": "SD2000329",
+      "speaker2": "SD2000327"
     },
     "output": ""
   },
@@ -4562,14 +3104,8 @@
       "Masterpiece"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000330",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000331",
-        "name": "name2"
-      }
+      "speaker1": "SD2000330",
+      "speaker2": "SD2000331"
     },
     "output": ""
   },
@@ -4581,14 +3117,8 @@
       "Actor"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000330",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000331",
-        "name": "name2"
-      }
+      "speaker1": "SD2000330",
+      "speaker2": "SD2000331"
     },
     "output": ""
   },
@@ -4599,14 +3129,8 @@
       "Weather"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000332",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000330",
-        "name": "name2"
-      }
+      "speaker1": "SD2000332",
+      "speaker2": "SD2000330"
     },
     "output": ""
   },
@@ -4619,14 +3143,8 @@
       "Weather"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000332",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000330",
-        "name": "name2"
-      }
+      "speaker1": "SD2000332",
+      "speaker2": "SD2000330"
     },
     "output": ""
   },
@@ -4639,14 +3157,8 @@
       "Family Motto"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000333",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000334",
-        "name": "name2"
-      }
+      "speaker1": "SD2000333",
+      "speaker2": "SD2000334"
     },
     "output": ""
   },
@@ -4657,14 +3169,8 @@
       "Broadcast Program"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000337",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000338",
-        "name": "name2"
-      }
+      "speaker1": "SD2000337",
+      "speaker2": "SD2000338"
     },
     "output": ""
   },
@@ -4676,14 +3182,8 @@
       "Marriage"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000338",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000337",
-        "name": "name2"
-      }
+      "speaker1": "SD2000338",
+      "speaker2": "SD2000337"
     },
     "output": ""
   },
@@ -4694,14 +3194,8 @@
       "Friendship"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002734",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000340",
-        "name": "name2"
-      }
+      "speaker1": "SD2002734",
+      "speaker2": "SD2000340"
     },
     "output": ""
   },
@@ -4713,14 +3207,8 @@
       "Backbiting"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002734",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000340",
-        "name": "name2"
-      }
+      "speaker1": "SD2002734",
+      "speaker2": "SD2000340"
     },
     "output": ""
   },
@@ -4732,14 +3220,8 @@
       "Fulfillment"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002299",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002300",
-        "name": "name2"
-      }
+      "speaker1": "SD2002299",
+      "speaker2": "SD2002300"
     },
     "output": ""
   },
@@ -4750,14 +3232,8 @@
       "Part-time Job"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002299",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002300",
-        "name": "name2"
-      }
+      "speaker1": "SD2002299",
+      "speaker2": "SD2002300"
     },
     "output": ""
   },
@@ -4768,14 +3244,8 @@
       "Part-time Job"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002303",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002304",
-        "name": "name2"
-      }
+      "speaker1": "SD2002303",
+      "speaker2": "SD2002304"
     },
     "output": ""
   },
@@ -4786,14 +3256,8 @@
       "Part-time Job Location"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002303",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002304",
-        "name": "name2"
-      }
+      "speaker1": "SD2002303",
+      "speaker2": "SD2002304"
     },
     "output": ""
   },
@@ -4805,14 +3269,8 @@
       "Event"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000344",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000345",
-        "name": "name2"
-      }
+      "speaker1": "SD2000344",
+      "speaker2": "SD2000345"
     },
     "output": ""
   },
@@ -4824,14 +3282,8 @@
       "Tip"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000344",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000345",
-        "name": "name2"
-      }
+      "speaker1": "SD2000344",
+      "speaker2": "SD2000345"
     },
     "output": ""
   },
@@ -4842,14 +3294,8 @@
       "Pets"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000344",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000346",
-        "name": "name2"
-      }
+      "speaker1": "SD2000344",
+      "speaker2": "SD2000346"
     },
     "output": ""
   },
@@ -4860,14 +3306,8 @@
       "Animals"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000344",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000346",
-        "name": "name2"
-      }
+      "speaker1": "SD2000344",
+      "speaker2": "SD2000346"
     },
     "output": ""
   },
@@ -4880,14 +3320,8 @@
       "Event"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000351",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000350",
-        "name": "name2"
-      }
+      "speaker1": "SD2000351",
+      "speaker2": "SD2000350"
     },
     "output": ""
   },
@@ -4899,14 +3333,8 @@
       "Gift"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000351",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000350",
-        "name": "name2"
-      }
+      "speaker1": "SD2000351",
+      "speaker2": "SD2000350"
     },
     "output": ""
   },
@@ -4918,14 +3346,8 @@
       "Date Location"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000352",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000353",
-        "name": "name2"
-      }
+      "speaker1": "SD2000352",
+      "speaker2": "SD2000353"
     },
     "output": ""
   },
@@ -4938,14 +3360,8 @@
       "Values"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000352",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000353",
-        "name": "name2"
-      }
+      "speaker1": "SD2000352",
+      "speaker2": "SD2000353"
     },
     "output": ""
   },
@@ -4957,14 +3373,8 @@
       "Job Policy"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2001643",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2001644",
-        "name": "name2"
-      }
+      "speaker1": "SD2001643",
+      "speaker2": "SD2001644"
     },
     "output": ""
   },
@@ -4976,14 +3386,8 @@
       "Measures"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2001643",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2001644",
-        "name": "name2"
-      }
+      "speaker1": "SD2001643",
+      "speaker2": "SD2001644"
     },
     "output": ""
   },
@@ -4995,14 +3399,8 @@
       "Episode"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000437",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000438",
-        "name": "name2"
-      }
+      "speaker1": "SD2000437",
+      "speaker2": "SD2000438"
     },
     "output": ""
   },
@@ -5013,14 +3411,8 @@
       "Know-how"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000437",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000438",
-        "name": "name2"
-      }
+      "speaker1": "SD2000437",
+      "speaker2": "SD2000438"
     },
     "output": ""
   },
@@ -5033,14 +3425,8 @@
       "Attraction"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000439",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000440",
-        "name": "name2"
-      }
+      "speaker1": "SD2000439",
+      "speaker2": "SD2000440"
     },
     "output": ""
   },
@@ -5053,14 +3439,8 @@
       "Travel Method"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000439",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000440",
-        "name": "name2"
-      }
+      "speaker1": "SD2000439",
+      "speaker2": "SD2000440"
     },
     "output": ""
   },
@@ -5071,14 +3451,8 @@
       "Travel"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002124",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2001519",
-        "name": "name1"
-      }
+      "speaker1": "SD2002124",
+      "speaker2": "SD2001519"
     },
     "output": ""
   },
@@ -5090,14 +3464,8 @@
       "Family Travel"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002124",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2001519",
-        "name": "name1"
-      }
+      "speaker1": "SD2002124",
+      "speaker2": "SD2001519"
     },
     "output": ""
   },
@@ -5109,14 +3477,8 @@
       "Medicine"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000455",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000453",
-        "name": "name2"
-      }
+      "speaker1": "SD2000455",
+      "speaker2": "SD2000453"
     },
     "output": ""
   },
@@ -5128,14 +3490,8 @@
       "Health"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000453",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000455",
-        "name": "name2"
-      }
+      "speaker1": "SD2000453",
+      "speaker2": "SD2000455"
     },
     "output": ""
   },
@@ -5147,14 +3503,8 @@
       "Blood Type"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000454",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000455",
-        "name": "name2"
-      }
+      "speaker1": "SD2000454",
+      "speaker2": "SD2000455"
     },
     "output": ""
   },
@@ -5165,14 +3515,8 @@
       "Dream"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000456",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000457",
-        "name": "name2"
-      }
+      "speaker1": "SD2000456",
+      "speaker2": "SD2000457"
     },
     "output": ""
   },
@@ -5184,14 +3528,8 @@
       "Effort"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000456",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000457",
-        "name": "name2"
-      }
+      "speaker1": "SD2000456",
+      "speaker2": "SD2000457"
     },
     "output": ""
   },
@@ -5202,14 +3540,8 @@
       "Family Relations"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000456",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000457",
-        "name": "name2"
-      }
+      "speaker1": "SD2000456",
+      "speaker2": "SD2000457"
     },
     "output": ""
   },
@@ -5221,14 +3553,8 @@
       "Exercise"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000458",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000459",
-        "name": "name1"
-      }
+      "speaker1": "SD2000458",
+      "speaker2": "SD2000459"
     },
     "output": ""
   },
@@ -5240,14 +3566,8 @@
       "Olympics"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000458",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000459",
-        "name": "name1"
-      }
+      "speaker1": "SD2000458",
+      "speaker2": "SD2000459"
     },
     "output": ""
   },
@@ -5258,14 +3578,8 @@
       "Exercise"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000461",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000462",
-        "name": "name2"
-      }
+      "speaker1": "SD2000461",
+      "speaker2": "SD2000462"
     },
     "output": ""
   },
@@ -5278,14 +3592,8 @@
       "Surfing"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000461",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000462",
-        "name": "name2"
-      }
+      "speaker1": "SD2000461",
+      "speaker2": "SD2000462"
     },
     "output": ""
   },
@@ -5298,14 +3606,8 @@
       "Rights"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2001639",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2001640",
-        "name": "name2"
-      }
+      "speaker1": "SD2001639",
+      "speaker2": "SD2001640"
     },
     "output": ""
   },
@@ -5316,14 +3618,8 @@
       "Damage"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2001639",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2001640",
-        "name": "name2"
-      }
+      "speaker1": "SD2001639",
+      "speaker2": "SD2001640"
     },
     "output": ""
   },
@@ -5334,14 +3630,8 @@
       "Travel"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000466",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000467",
-        "name": "name2"
-      }
+      "speaker1": "SD2000466",
+      "speaker2": "SD2000467"
     },
     "output": ""
   },
@@ -5352,14 +3642,8 @@
       "Travel Destination"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000466",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000467",
-        "name": "name2"
-      }
+      "speaker1": "SD2000466",
+      "speaker2": "SD2000467"
     },
     "output": ""
   },
@@ -5370,14 +3654,8 @@
       "Part-time Job"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000466",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000468",
-        "name": "name2"
-      }
+      "speaker1": "SD2000466",
+      "speaker2": "SD2000468"
     },
     "output": ""
   },
@@ -5389,14 +3667,8 @@
       "Know-how"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000468",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000466",
-        "name": "name2"
-      }
+      "speaker1": "SD2000468",
+      "speaker2": "SD2000466"
     },
     "output": ""
   },
@@ -5408,14 +3680,8 @@
       "Dream"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2001637",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2001638",
-        "name": "name1"
-      }
+      "speaker1": "SD2001637",
+      "speaker2": "SD2001638"
     },
     "output": ""
   },
@@ -5426,14 +3692,8 @@
       "Goal"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2001637",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2001638",
-        "name": "name1"
-      }
+      "speaker1": "SD2001637",
+      "speaker2": "SD2001638"
     },
     "output": ""
   },
@@ -5444,14 +3704,8 @@
       "Movie"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000473",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000474",
-        "name": "name2"
-      }
+      "speaker1": "SD2000473",
+      "speaker2": "SD2000474"
     },
     "output": ""
   },
@@ -5462,14 +3716,8 @@
       "Movie"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000474",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000473",
-        "name": "name2"
-      }
+      "speaker1": "SD2000474",
+      "speaker2": "SD2000473"
     },
     "output": ""
   },
@@ -5480,14 +3728,8 @@
       "School Days"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000473",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000474",
-        "name": "name2"
-      }
+      "speaker1": "SD2000473",
+      "speaker2": "SD2000474"
     },
     "output": ""
   },
@@ -5499,14 +3741,8 @@
       "CSAT"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000474",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000473",
-        "name": "name2"
-      }
+      "speaker1": "SD2000474",
+      "speaker2": "SD2000473"
     },
     "output": ""
   },
@@ -5518,14 +3754,8 @@
       "MBTI"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000475",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000476",
-        "name": "name2"
-      }
+      "speaker1": "SD2000475",
+      "speaker2": "SD2000476"
     },
     "output": ""
   },
@@ -5536,14 +3766,8 @@
       "Personality"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000476",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000475",
-        "name": "name2"
-      }
+      "speaker1": "SD2000476",
+      "speaker2": "SD2000475"
     },
     "output": ""
   },
@@ -5554,14 +3778,8 @@
       "Health"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000475",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000476",
-        "name": "name2"
-      }
+      "speaker1": "SD2000475",
+      "speaker2": "SD2000476"
     },
     "output": ""
   },
@@ -5572,14 +3790,8 @@
       "Exercise Posture"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000475",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000476",
-        "name": "name2"
-      }
+      "speaker1": "SD2000475",
+      "speaker2": "SD2000476"
     },
     "output": ""
   },
@@ -5590,14 +3802,8 @@
       "Travel Destination"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000477",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000478",
-        "name": "name2"
-      }
+      "speaker1": "SD2000477",
+      "speaker2": "SD2000478"
     },
     "output": ""
   },
@@ -5608,14 +3814,8 @@
       "Jeju Island"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000478",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000477",
-        "name": "name2"
-      }
+      "speaker1": "SD2000478",
+      "speaker2": "SD2000477"
     },
     "output": ""
   },
@@ -5627,14 +3827,8 @@
       "Winter"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000479",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000480",
-        "name": "name2"
-      }
+      "speaker1": "SD2000479",
+      "speaker2": "SD2000480"
     },
     "output": ""
   },
@@ -5646,14 +3840,8 @@
       "Spring"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000479",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000480",
-        "name": "name2"
-      }
+      "speaker1": "SD2000479",
+      "speaker2": "SD2000480"
     },
     "output": ""
   },
@@ -5664,14 +3852,8 @@
       "Restaurant"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000481",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000482",
-        "name": "name1"
-      }
+      "speaker1": "SD2000481",
+      "speaker2": "SD2000482"
     },
     "output": ""
   },
@@ -5682,14 +3864,8 @@
       "Coffee"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000481",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000482",
-        "name": "name1"
-      }
+      "speaker1": "SD2000481",
+      "speaker2": "SD2000482"
     },
     "output": ""
   },
@@ -5701,14 +3877,8 @@
       "YouTuber"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000481",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000483",
-        "name": "name2"
-      }
+      "speaker1": "SD2000481",
+      "speaker2": "SD2000483"
     },
     "output": ""
   },
@@ -5720,14 +3890,8 @@
       "Variety"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000483",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000481",
-        "name": "name2"
-      }
+      "speaker1": "SD2000483",
+      "speaker2": "SD2000481"
     },
     "output": ""
   },
@@ -5738,14 +3902,8 @@
       "Dream"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002405",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002406",
-        "name": "name2"
-      }
+      "speaker1": "SD2002405",
+      "speaker2": "SD2002406"
     },
     "output": ""
   },
@@ -5756,14 +3914,8 @@
       "Challenge"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002405",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002406",
-        "name": "name2"
-      }
+      "speaker1": "SD2002405",
+      "speaker2": "SD2002406"
     },
     "output": ""
   },
@@ -5774,14 +3926,8 @@
       "School"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000489",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000490",
-        "name": "name2"
-      }
+      "speaker1": "SD2000489",
+      "speaker2": "SD2000490"
     },
     "output": ""
   },
@@ -5792,14 +3938,8 @@
       "Incident"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000489",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000490",
-        "name": "name2"
-      }
+      "speaker1": "SD2000489",
+      "speaker2": "SD2000490"
     },
     "output": ""
   },
@@ -5810,14 +3950,8 @@
       "Part-time Job"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000489",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000491",
-        "name": "name2"
-      }
+      "speaker1": "SD2000489",
+      "speaker2": "SD2000491"
     },
     "output": ""
   },
@@ -5828,14 +3962,8 @@
       "Part-time Job"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000489",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000491",
-        "name": "name2"
-      }
+      "speaker1": "SD2000489",
+      "speaker2": "SD2000491"
     },
     "output": ""
   },
@@ -5846,14 +3974,8 @@
       "Pets"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000492",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000493",
-        "name": "name2"
-      }
+      "speaker1": "SD2000492",
+      "speaker2": "SD2000493"
     },
     "output": ""
   },
@@ -5864,14 +3986,8 @@
       "Pets"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000492",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000493",
-        "name": "name2"
-      }
+      "speaker1": "SD2000492",
+      "speaker2": "SD2000493"
     },
     "output": ""
   },
@@ -5883,14 +3999,8 @@
       "Family"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000494",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000493",
-        "name": "name2"
-      }
+      "speaker1": "SD2000494",
+      "speaker2": "SD2000493"
     },
     "output": ""
   },
@@ -5902,14 +4012,8 @@
       "Cohabitation"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000493",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000494",
-        "name": "name2"
-      }
+      "speaker1": "SD2000493",
+      "speaker2": "SD2000494"
     },
     "output": ""
   },
@@ -5920,14 +4024,8 @@
       "Gift"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000494",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000492",
-        "name": "name2"
-      }
+      "speaker1": "SD2000494",
+      "speaker2": "SD2000492"
     },
     "output": ""
   },
@@ -5938,14 +4036,8 @@
       "Gift"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000494",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000492",
-        "name": "name2"
-      }
+      "speaker1": "SD2000494",
+      "speaker2": "SD2000492"
     },
     "output": ""
   },
@@ -5956,14 +4048,8 @@
       "Gift"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000495",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000496",
-        "name": "name1"
-      }
+      "speaker1": "SD2000495",
+      "speaker2": "SD2000496"
     },
     "output": ""
   },
@@ -5974,14 +4060,8 @@
       "Gift"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000495",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000496",
-        "name": "name1"
-      }
+      "speaker1": "SD2000495",
+      "speaker2": "SD2000496"
     },
     "output": ""
   },
@@ -5992,14 +4072,8 @@
       "Pets"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000497",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000498",
-        "name": "name2"
-      }
+      "speaker1": "SD2000497",
+      "speaker2": "SD2000498"
     },
     "output": ""
   },
@@ -6012,14 +4086,8 @@
       "Adoption"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000497",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000498",
-        "name": "name2"
-      }
+      "speaker1": "SD2000497",
+      "speaker2": "SD2000498"
     },
     "output": ""
   },
@@ -6030,14 +4098,8 @@
       "Travel Destination"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000499",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000500",
-        "name": "name2"
-      }
+      "speaker1": "SD2000499",
+      "speaker2": "SD2000500"
     },
     "output": ""
   },
@@ -6048,14 +4110,8 @@
       "Travel"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000500",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000499",
-        "name": "name2"
-      }
+      "speaker1": "SD2000500",
+      "speaker2": "SD2000499"
     },
     "output": ""
   },
@@ -6067,14 +4123,8 @@
       "Movie Genre"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000499",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000501",
-        "name": "name2"
-      }
+      "speaker1": "SD2000499",
+      "speaker2": "SD2000501"
     },
     "output": ""
   },
@@ -6086,14 +4136,8 @@
       "Korean Film"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000499",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000501",
-        "name": "name2"
-      }
+      "speaker1": "SD2000499",
+      "speaker2": "SD2000501"
     },
     "output": ""
   },
@@ -6105,14 +4149,8 @@
       "Drama"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002384",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002385",
-        "name": "name2"
-      }
+      "speaker1": "SD2002384",
+      "speaker2": "SD2002385"
     },
     "output": ""
   },
@@ -6123,14 +4161,8 @@
       "Concert"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002384",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002385",
-        "name": "name2"
-      }
+      "speaker1": "SD2002384",
+      "speaker2": "SD2002385"
     },
     "output": ""
   },
@@ -6141,14 +4173,8 @@
       "MBTI"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002384",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002385",
-        "name": "name2"
-      }
+      "speaker1": "SD2002384",
+      "speaker2": "SD2002385"
     },
     "output": ""
   },
@@ -6159,14 +4185,8 @@
       "Movie"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000506",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000507",
-        "name": "name2"
-      }
+      "speaker1": "SD2000506",
+      "speaker2": "SD2000507"
     },
     "output": ""
   },
@@ -6179,14 +4199,8 @@
       "Actor"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000506",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000507",
-        "name": "name2"
-      }
+      "speaker1": "SD2000506",
+      "speaker2": "SD2000507"
     },
     "output": ""
   },
@@ -6197,14 +4211,8 @@
       "Season"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000506",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000507",
-        "name": "name2"
-      }
+      "speaker1": "SD2000506",
+      "speaker2": "SD2000507"
     },
     "output": ""
   },
@@ -6216,14 +4224,8 @@
       "Snow"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000507",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000506",
-        "name": "name2"
-      }
+      "speaker1": "SD2000507",
+      "speaker2": "SD2000506"
     },
     "output": ""
   },
@@ -6234,14 +4236,8 @@
       "Movie"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002386",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002387",
-        "name": "name2"
-      }
+      "speaker1": "SD2002386",
+      "speaker2": "SD2002387"
     },
     "output": ""
   },
@@ -6252,14 +4248,8 @@
       "Movie"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002386",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002387",
-        "name": "name2"
-      }
+      "speaker1": "SD2002386",
+      "speaker2": "SD2002387"
     },
     "output": ""
   },
@@ -6270,14 +4260,8 @@
       "Dream"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002390",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002391",
-        "name": "name2"
-      }
+      "speaker1": "SD2002390",
+      "speaker2": "SD2002391"
     },
     "output": ""
   },
@@ -6288,14 +4272,8 @@
       "Dream"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002391",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002390",
-        "name": "name2"
-      }
+      "speaker1": "SD2002391",
+      "speaker2": "SD2002390"
     },
     "output": ""
   },
@@ -6309,14 +4287,8 @@
       "Food"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000515",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000516",
-        "name": "name1"
-      }
+      "speaker1": "SD2000515",
+      "speaker2": "SD2000516"
     },
     "output": ""
   },
@@ -6327,14 +4299,8 @@
       "Alcohol"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000516",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000515",
-        "name": "name2"
-      }
+      "speaker1": "SD2000516",
+      "speaker2": "SD2000515"
     },
     "output": ""
   },
@@ -6346,14 +4312,8 @@
       "Memory"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000516",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000517",
-        "name": "name1"
-      }
+      "speaker1": "SD2000516",
+      "speaker2": "SD2000517"
     },
     "output": ""
   },
@@ -6364,14 +4324,8 @@
       "Work Life"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000516",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000517",
-        "name": "name1"
-      }
+      "speaker1": "SD2000516",
+      "speaker2": "SD2000517"
     },
     "output": ""
   },
@@ -6383,14 +4337,8 @@
       "Cat"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002390",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002391",
-        "name": "name2"
-      }
+      "speaker1": "SD2002390",
+      "speaker2": "SD2002391"
     },
     "output": ""
   },
@@ -6401,14 +4349,8 @@
       "Drama"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000524",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000525",
-        "name": "name2"
-      }
+      "speaker1": "SD2000524",
+      "speaker2": "SD2000525"
     },
     "output": ""
   },
@@ -6419,14 +4361,8 @@
       "Dream"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002392",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002393",
-        "name": "name2"
-      }
+      "speaker1": "SD2002392",
+      "speaker2": "SD2002393"
     },
     "output": ""
   },
@@ -6438,14 +4374,8 @@
       "University"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2002392",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2002393",
-        "name": "name2"
-      }
+      "speaker1": "SD2002392",
+      "speaker2": "SD2002393"
     },
     "output": ""
   },
@@ -6457,14 +4387,8 @@
       "Domestic Travel"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000541",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000542",
-        "name": "name2"
-      }
+      "speaker1": "SD2000541",
+      "speaker2": "SD2000542"
     },
     "output": ""
   },
@@ -6475,14 +4399,8 @@
       "Overseas"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000541",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000542",
-        "name": "name2"
-      }
+      "speaker1": "SD2000541",
+      "speaker2": "SD2000542"
     },
     "output": ""
   },
@@ -6495,14 +4413,8 @@
       "Soccer"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000544",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000545",
-        "name": "name2"
-      }
+      "speaker1": "SD2000544",
+      "speaker2": "SD2000545"
     },
     "output": ""
   },
@@ -6515,14 +4427,8 @@
       "Injury"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000544",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000545",
-        "name": "name2"
-      }
+      "speaker1": "SD2000544",
+      "speaker2": "SD2000545"
     },
     "output": ""
   },
@@ -6533,14 +4439,8 @@
       "Family Trip"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000544",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000545",
-        "name": "name2"
-      }
+      "speaker1": "SD2000544",
+      "speaker2": "SD2000545"
     },
     "output": ""
   },
@@ -6551,14 +4451,8 @@
       "Travel"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000545",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000544",
-        "name": "name2"
-      }
+      "speaker1": "SD2000545",
+      "speaker2": "SD2000544"
     },
     "output": ""
   },
@@ -6570,14 +4464,8 @@
       "Jeju"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000546",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000547",
-        "name": "name2"
-      }
+      "speaker1": "SD2000546",
+      "speaker2": "SD2000547"
     },
     "output": ""
   },
@@ -6588,14 +4476,8 @@
       "Cooking"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000547",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000546",
-        "name": "name2"
-      }
+      "speaker1": "SD2000547",
+      "speaker2": "SD2000546"
     },
     "output": ""
   },
@@ -6606,14 +4488,8 @@
       "Travel Destination"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000550",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000551",
-        "name": "name2"
-      }
+      "speaker1": "SD2000550",
+      "speaker2": "SD2000551"
     },
     "output": ""
   },
@@ -6625,14 +4501,8 @@
       "Travel"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000551",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000550",
-        "name": "name2"
-      }
+      "speaker1": "SD2000551",
+      "speaker2": "SD2000550"
     },
     "output": ""
   },
@@ -6644,14 +4514,8 @@
       "Restaurants"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000552",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000553",
-        "name": "name2"
-      }
+      "speaker1": "SD2000552",
+      "speaker2": "SD2000553"
     },
     "output": ""
   },
@@ -6663,14 +4527,8 @@
       "Cafe"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000553",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000552",
-        "name": "name2"
-      }
+      "speaker1": "SD2000553",
+      "speaker2": "SD2000552"
     },
     "output": ""
   },
@@ -6682,14 +4540,8 @@
       "Future Aspirations"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000558",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000559",
-        "name": "name2"
-      }
+      "speaker1": "SD2000558",
+      "speaker2": "SD2000559"
     },
     "output": ""
   },
@@ -6701,14 +4553,8 @@
       "Dream"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000558",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000559",
-        "name": "name2"
-      }
+      "speaker1": "SD2000558",
+      "speaker2": "SD2000559"
     },
     "output": ""
   },
@@ -6719,14 +4565,8 @@
       "Pets"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000562",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000563",
-        "name": "name2"
-      }
+      "speaker1": "SD2000562",
+      "speaker2": "SD2000563"
     },
     "output": ""
   },
@@ -6737,14 +4577,8 @@
       "Pets"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000563",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000562",
-        "name": "name2"
-      }
+      "speaker1": "SD2000563",
+      "speaker2": "SD2000562"
     },
     "output": ""
   },
@@ -6755,14 +4589,8 @@
       "Travel"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000564",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000565",
-        "name": "name2"
-      }
+      "speaker1": "SD2000564",
+      "speaker2": "SD2000565"
     },
     "output": ""
   },
@@ -6774,14 +4602,8 @@
       "Honeymoon"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000564",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000565",
-        "name": "name2"
-      }
+      "speaker1": "SD2000564",
+      "speaker2": "SD2000565"
     },
     "output": ""
   },
@@ -6794,14 +4616,8 @@
       "Experience"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000566",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000567",
-        "name": "name2"
-      }
+      "speaker1": "SD2000566",
+      "speaker2": "SD2000567"
     },
     "output": ""
   },
@@ -6812,14 +4628,8 @@
       "Travel"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000566",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000567",
-        "name": "name2"
-      }
+      "speaker1": "SD2000566",
+      "speaker2": "SD2000567"
     },
     "output": ""
   },
@@ -6831,14 +4641,8 @@
       "Overseas"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000568",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000569",
-        "name": "name1"
-      }
+      "speaker1": "SD2000568",
+      "speaker2": "SD2000569"
     },
     "output": ""
   },
@@ -6850,14 +4654,8 @@
       "Travel"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000568",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000569",
-        "name": "name1"
-      }
+      "speaker1": "SD2000568",
+      "speaker2": "SD2000569"
     },
     "output": ""
   },
@@ -6868,14 +4666,8 @@
       "Dream"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000583",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000584",
-        "name": "name2"
-      }
+      "speaker1": "SD2000583",
+      "speaker2": "SD2000584"
     },
     "output": ""
   },
@@ -6887,14 +4679,8 @@
       "Damage"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000584",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000583",
-        "name": "name2"
-      }
+      "speaker1": "SD2000584",
+      "speaker2": "SD2000583"
     },
     "output": ""
   },
@@ -6907,14 +4693,8 @@
       "View on Love"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000590",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000591",
-        "name": "name2"
-      }
+      "speaker1": "SD2000590",
+      "speaker2": "SD2000591"
     },
     "output": ""
   },
@@ -6926,14 +4706,8 @@
       "Family Planning"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000591",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000590",
-        "name": "name2"
-      }
+      "speaker1": "SD2000591",
+      "speaker2": "SD2000590"
     },
     "output": ""
   },
@@ -6945,14 +4719,8 @@
       "Season"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000595",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000596",
-        "name": "name2"
-      }
+      "speaker1": "SD2000595",
+      "speaker2": "SD2000596"
     },
     "output": ""
   },
@@ -6965,14 +4733,8 @@
       "Restaurant"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000603",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000604",
-        "name": "name2"
-      }
+      "speaker1": "SD2000603",
+      "speaker2": "SD2000604"
     },
     "output": ""
   },
@@ -6983,14 +4745,8 @@
       "Food"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000603",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000604",
-        "name": "name2"
-      }
+      "speaker1": "SD2000603",
+      "speaker2": "SD2000604"
     },
     "output": ""
   },
@@ -7001,14 +4757,8 @@
       "Gift"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000611",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000610",
-        "name": "name2"
-      }
+      "speaker1": "SD2000611",
+      "speaker2": "SD2000610"
     },
     "output": ""
   },
@@ -7020,14 +4770,8 @@
       "Event"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000610",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000611",
-        "name": "name2"
-      }
+      "speaker1": "SD2000610",
+      "speaker2": "SD2000611"
     },
     "output": ""
   },
@@ -7039,14 +4783,8 @@
       "Foreign"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000052",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000053",
-        "name": "name2"
-      }
+      "speaker1": "SD2000052",
+      "speaker2": "SD2000053"
     },
     "output": ""
   },
@@ -7057,14 +4795,8 @@
       "Personality"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000626",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000627",
-        "name": "name2"
-      }
+      "speaker1": "SD2000626",
+      "speaker2": "SD2000627"
     },
     "output": ""
   },
@@ -7076,14 +4808,8 @@
       "Blood Type"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000626",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000627",
-        "name": "name2"
-      }
+      "speaker1": "SD2000626",
+      "speaker2": "SD2000627"
     },
     "output": ""
   },
@@ -7095,14 +4821,8 @@
       "Children"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000631",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000632",
-        "name": "name2"
-      }
+      "speaker1": "SD2000631",
+      "speaker2": "SD2000632"
     },
     "output": ""
   },
@@ -7114,14 +4834,8 @@
       "Meeting"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000631",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000632",
-        "name": "name2"
-      }
+      "speaker1": "SD2000631",
+      "speaker2": "SD2000632"
     },
     "output": ""
   },
@@ -7132,14 +4846,8 @@
       "Travel"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000636",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000637",
-        "name": "name2"
-      }
+      "speaker1": "SD2000636",
+      "speaker2": "SD2000637"
     },
     "output": ""
   },
@@ -7151,14 +4859,8 @@
       "Spain"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000636",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000637",
-        "name": "name2"
-      }
+      "speaker1": "SD2000636",
+      "speaker2": "SD2000637"
     },
     "output": ""
   },
@@ -7169,14 +4871,8 @@
       "Pets"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000645",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000646",
-        "name": "name2"
-      }
+      "speaker1": "SD2000645",
+      "speaker2": "SD2000646"
     },
     "output": ""
   },
@@ -7189,14 +4885,8 @@
       "Zoo"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000645",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000646",
-        "name": "name2"
-      }
+      "speaker1": "SD2000645",
+      "speaker2": "SD2000646"
     },
     "output": ""
   },
@@ -7208,14 +4898,8 @@
       "Difficult Customer"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000645",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000646",
-        "name": "name2"
-      }
+      "speaker1": "SD2000645",
+      "speaker2": "SD2000646"
     },
     "output": ""
   },
@@ -7227,14 +4911,8 @@
       "Partner"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000645",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000646",
-        "name": "name2"
-      }
+      "speaker1": "SD2000645",
+      "speaker2": "SD2000646"
     },
     "output": ""
   },
@@ -7245,14 +4923,8 @@
       "Health"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000647",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000649",
-        "name": "name2"
-      }
+      "speaker1": "SD2000647",
+      "speaker2": "SD2000649"
     },
     "output": ""
   },
@@ -7263,14 +4935,8 @@
       "Health"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000647",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000649",
-        "name": "name2"
-      }
+      "speaker1": "SD2000647",
+      "speaker2": "SD2000649"
     },
     "output": ""
   },
@@ -7283,14 +4949,8 @@
       "International"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000657",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000659",
-        "name": "name2"
-      }
+      "speaker1": "SD2000657",
+      "speaker2": "SD2000659"
     },
     "output": ""
   },
@@ -7303,14 +4963,8 @@
       "Memories"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000659",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000657",
-        "name": "name2"
-      }
+      "speaker1": "SD2000659",
+      "speaker2": "SD2000657"
     },
     "output": ""
   },
@@ -7321,14 +4975,8 @@
       "Season"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000658",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000659",
-        "name": "name2"
-      }
+      "speaker1": "SD2000658",
+      "speaker2": "SD2000659"
     },
     "output": ""
   },
@@ -7339,14 +4987,8 @@
       "Weather"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000658",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000659",
-        "name": "name2"
-      }
+      "speaker1": "SD2000658",
+      "speaker2": "SD2000659"
     },
     "output": ""
   },
@@ -7358,14 +5000,8 @@
       "Travel Destination"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000660",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000661",
-        "name": "name2"
-      }
+      "speaker1": "SD2000660",
+      "speaker2": "SD2000661"
     },
     "output": ""
   },
@@ -7376,14 +5012,8 @@
       "Travel Destination"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000661",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000660",
-        "name": "name2"
-      }
+      "speaker1": "SD2000661",
+      "speaker2": "SD2000660"
     },
     "output": ""
   },
@@ -7394,14 +5024,8 @@
       "Health"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000665",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000666",
-        "name": "name2"
-      }
+      "speaker1": "SD2000665",
+      "speaker2": "SD2000666"
     },
     "output": ""
   },
@@ -7412,14 +5036,8 @@
       "Food"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000665",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000666",
-        "name": "name2"
-      }
+      "speaker1": "SD2000665",
+      "speaker2": "SD2000666"
     },
     "output": ""
   },
@@ -7431,14 +5049,8 @@
       "Restaurants"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000670",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000671",
-        "name": "name2"
-      }
+      "speaker1": "SD2000670",
+      "speaker2": "SD2000671"
     },
     "output": ""
   },
@@ -7449,14 +5061,8 @@
       "Drinks Snack"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000671",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000670",
-        "name": "name2"
-      }
+      "speaker1": "SD2000671",
+      "speaker2": "SD2000670"
     },
     "output": ""
   },
@@ -7468,14 +5074,8 @@
       "Diet Plan"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000672",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000673",
-        "name": "name2"
-      }
+      "speaker1": "SD2000672",
+      "speaker2": "SD2000673"
     },
     "output": ""
   },
@@ -7487,14 +5087,8 @@
       "YouTube"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000673",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000672",
-        "name": "name2"
-      }
+      "speaker1": "SD2000673",
+      "speaker2": "SD2000672"
     },
     "output": ""
   },
@@ -7505,14 +5099,8 @@
       "Travel Destination"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000675",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000676",
-        "name": "name2"
-      }
+      "speaker1": "SD2000675",
+      "speaker2": "SD2000676"
     },
     "output": ""
   },
@@ -7523,14 +5111,8 @@
       "Travel Episode"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000675",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000676",
-        "name": "name2"
-      }
+      "speaker1": "SD2000675",
+      "speaker2": "SD2000676"
     },
     "output": ""
   },
@@ -7541,14 +5123,8 @@
       "Food"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000681",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000683",
-        "name": "name2"
-      }
+      "speaker1": "SD2000681",
+      "speaker2": "SD2000683"
     },
     "output": ""
   },
@@ -7559,14 +5135,8 @@
       "Food"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000681",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000683",
-        "name": "name2"
-      }
+      "speaker1": "SD2000681",
+      "speaker2": "SD2000683"
     },
     "output": ""
   },
@@ -7577,14 +5147,8 @@
       "Jeju Island"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000689",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000690",
-        "name": "name2"
-      }
+      "speaker1": "SD2000689",
+      "speaker2": "SD2000690"
     },
     "output": ""
   },
@@ -7595,14 +5159,8 @@
       "Tourist Attraction"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000690",
-        "name": "name1"
-      },
-      "speaker2": {
-        "id": "SD2000689",
-        "name": "name2"
-      }
+      "speaker1": "SD2000690",
+      "speaker2": "SD2000689"
     },
     "output": ""
   },
@@ -7614,14 +5172,8 @@
       "Exercise"
     ],
     "speaker_map": {
-      "speaker1": {
-        "id": "SD2000691",
-        "name": "name2"
-      },
-      "speaker2": {
-        "id": "SD2000692",
-        "name": "name1"
-      }
+      "speaker1": "SD2000691",
+      "speaker2": "SD2000692"
     },
     "output": ""
   }
