@@ -29,9 +29,9 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 동호회활동 참여하는 거 있으신가요?",
+          "utterance": "화자2님은 동호회활동 참여하는 거 있으신가요?",
           "utterance_id": "MDRW2100007084.1.5",
-          "translated_utterance": "Do you participate in any club activities, name2?"
+          "translated_utterance": "Do you participate in any club activities, 화자2?"
         },
         {
           "speaker": 2,
@@ -917,9 +917,9 @@
         },
         {
           "speaker": 2,
-          "utterance": "네, name1님도 직장인이신가요?",
+          "utterance": "네, 화자1님도 직장인이신가요?",
           "utterance_id": "MDRW2100032128.1.2",
-          "translated_utterance": "Are you also a working professional, name1?"
+          "translated_utterance": "Are you also a working professional, 화자1?"
         },
         {
           "speaker": 1,
@@ -935,9 +935,9 @@
         },
         {
           "speaker": 2,
-          "utterance": "일 한지는 이제 6년되었어요! name1님은요?",
+          "utterance": "일 한지는 이제 6년되었어요! 화자1님은요?",
           "utterance_id": "MDRW2100032128.1.5",
-          "translated_utterance": "How about you, name1?"
+          "translated_utterance": "How about you, 화자1?"
         },
         {
           "speaker": 1,
@@ -2645,9 +2645,9 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 적립금 없던가요?",
+          "utterance": "화자2님은 적립금 없던가요?",
           "utterance_id": "MDRW2100008272.1.12",
-          "translated_utterance": "Don't you have any reward points, name2?"
+          "translated_utterance": "Don't you have any reward points, 화자2?"
         },
         {
           "speaker": 1,
@@ -7928,9 +7928,9 @@
       "conversation": [
         {
           "speaker": 2,
-          "utterance": "name1님은 반려동물 키우세요?",
+          "utterance": "화자1님은 반려동물 키우세요?",
           "utterance_id": "MDRW2100000941.1.1",
-          "translated_utterance": "Do you have any pets, name1?"
+          "translated_utterance": "Do you have any pets, 화자1?"
         },
         {
           "speaker": 1,
@@ -8060,7 +8060,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "그래도 name2님 댁에서 하늘나라간 아이들은 복받았네요 좋은곳에서 편히 잘 있다가게되니~",
+          "utterance": "그래도 화자2님 댁에서 하늘나라간 아이들은 복받았네요 좋은곳에서 편히 잘 있다가게되니~",
           "utterance_id": "MDRW2100000941.1.23",
           "translated_utterance": "Still, the pets that went to heaven from your home are lucky; they get to be in a good place and rest comfortably."
         }
@@ -8085,9 +8085,9 @@
       "conversation": [
         {
           "speaker": 2,
-          "utterance": "name1님은 반려동물 키우세요?",
+          "utterance": "화자1님은 반려동물 키우세요?",
           "utterance_id": "MDRW2100000941.1.1",
-          "translated_utterance": "Do you have any pets, name1?"
+          "translated_utterance": "Do you have any pets, 화자1?"
         },
         {
           "speaker": 1,
@@ -8217,7 +8217,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "그래도 name2님 댁에서 하늘나라간 아이들은 복받았네요 좋은곳에서 편히 잘 있다가게되니~",
+          "utterance": "그래도 화자2님 댁에서 하늘나라간 아이들은 복받았네요 좋은곳에서 편히 잘 있다가게되니~",
           "utterance_id": "MDRW2100000941.1.23",
           "translated_utterance": "Still, the pets that went to heaven from your home are lucky; they get to be in a good place and rest comfortably."
         }
@@ -8242,9 +8242,9 @@
       "conversation": [
         {
           "speaker": 2,
-          "utterance": "name1님은 반려동물 키우세요?",
+          "utterance": "화자1님은 반려동물 키우세요?",
           "utterance_id": "MDRW2100000941.1.1",
-          "translated_utterance": "Do you have any pets, name1?"
+          "translated_utterance": "Do you have any pets, 화자1?"
         },
         {
           "speaker": 1,
@@ -8374,7 +8374,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "그래도 name2님 댁에서 하늘나라간 아이들은 복받았네요 좋은곳에서 편히 잘 있다가게되니~",
+          "utterance": "그래도 화자2님 댁에서 하늘나라간 아이들은 복받았네요 좋은곳에서 편히 잘 있다가게되니~",
           "utterance_id": "MDRW2100000941.1.23",
           "translated_utterance": "Still, the pets that went to heaven from your home are lucky; they get to be in a good place and rest comfortably."
         }
@@ -8399,9 +8399,9 @@
       "conversation": [
         {
           "speaker": 2,
-          "utterance": "name1님은 반려동물 키우세요?",
+          "utterance": "화자1님은 반려동물 키우세요?",
           "utterance_id": "MDRW2100000941.1.1",
-          "translated_utterance": "Do you have any pets, name1?"
+          "translated_utterance": "Do you have any pets, 화자1?"
         },
         {
           "speaker": 1,
@@ -8531,7 +8531,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "그래도 name2님 댁에서 하늘나라간 아이들은 복받았네요 좋은곳에서 편히 잘 있다가게되니~",
+          "utterance": "그래도 화자2님 댁에서 하늘나라간 아이들은 복받았네요 좋은곳에서 편히 잘 있다가게되니~",
           "utterance_id": "MDRW2100000941.1.23",
           "translated_utterance": "Still, the pets that went to heaven from your home are lucky; they get to be in a good place and rest comfortably."
         }
@@ -8556,9 +8556,9 @@
       "conversation": [
         {
           "speaker": 2,
-          "utterance": "name1님은 반려동물 키우세요?",
+          "utterance": "화자1님은 반려동물 키우세요?",
           "utterance_id": "MDRW2100000941.1.1",
-          "translated_utterance": "Do you have any pets, name1?"
+          "translated_utterance": "Do you have any pets, 화자1?"
         },
         {
           "speaker": 1,
@@ -8688,7 +8688,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "그래도 name2님 댁에서 하늘나라간 아이들은 복받았네요 좋은곳에서 편히 잘 있다가게되니~",
+          "utterance": "그래도 화자2님 댁에서 하늘나라간 아이들은 복받았네요 좋은곳에서 편히 잘 있다가게되니~",
           "utterance_id": "MDRW2100000941.1.23",
           "translated_utterance": "Still, the pets that went to heaven from your home are lucky; they get to be in a good place and rest comfortably."
         }
@@ -10883,9 +10883,9 @@
         },
         {
           "speaker": 1,
-          "utterance": "네 name2님 저녁뭐드실거에요?",
+          "utterance": "네 화자2님 저녁뭐드실거에요?",
           "utterance_id": "MDRW2100036130.1.2",
-          "translated_utterance": "What are you going to have for dinner, name2?"
+          "translated_utterance": "What are you going to have for dinner, 화자2?"
         },
         {
           "speaker": 2,
@@ -10895,9 +10895,9 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은요?",
+          "utterance": "화자1님은요?",
           "utterance_id": "MDRW2100036130.1.4",
-          "translated_utterance": "What about you, name1?"
+          "translated_utterance": "What about you, 화자1?"
         },
         {
           "speaker": 1,
@@ -11041,9 +11041,9 @@
         },
         {
           "speaker": 1,
-          "utterance": "네 name2님 저녁뭐드실거에요?",
+          "utterance": "네 화자2님 저녁뭐드실거에요?",
           "utterance_id": "MDRW2100036130.1.2",
-          "translated_utterance": "What are you going to have for dinner, name2?"
+          "translated_utterance": "What are you going to have for dinner, 화자2?"
         },
         {
           "speaker": 2,
@@ -11053,9 +11053,9 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은요?",
+          "utterance": "화자1님은요?",
           "utterance_id": "MDRW2100036130.1.4",
-          "translated_utterance": "What about you, name1?"
+          "translated_utterance": "What about you, 화자1?"
         },
         {
           "speaker": 1,
@@ -11199,9 +11199,9 @@
         },
         {
           "speaker": 1,
-          "utterance": "네 name2님 저녁뭐드실거에요?",
+          "utterance": "네 화자2님 저녁뭐드실거에요?",
           "utterance_id": "MDRW2100036130.1.2",
-          "translated_utterance": "What are you going to have for dinner, name2?"
+          "translated_utterance": "What are you going to have for dinner, 화자2?"
         },
         {
           "speaker": 2,
@@ -11211,9 +11211,9 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은요?",
+          "utterance": "화자1님은요?",
           "utterance_id": "MDRW2100036130.1.4",
-          "translated_utterance": "What about you, name1?"
+          "translated_utterance": "What about you, 화자1?"
         },
         {
           "speaker": 1,
@@ -11357,9 +11357,9 @@
         },
         {
           "speaker": 1,
-          "utterance": "네 name2님 저녁뭐드실거에요?",
+          "utterance": "네 화자2님 저녁뭐드실거에요?",
           "utterance_id": "MDRW2100036130.1.2",
-          "translated_utterance": "What are you going to have for dinner, name2?"
+          "translated_utterance": "What are you going to have for dinner, 화자2?"
         },
         {
           "speaker": 2,
@@ -11369,9 +11369,9 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은요?",
+          "utterance": "화자1님은요?",
           "utterance_id": "MDRW2100036130.1.4",
-          "translated_utterance": "What about you, name1?"
+          "translated_utterance": "What about you, 화자1?"
         },
         {
           "speaker": 1,
@@ -11515,9 +11515,9 @@
         },
         {
           "speaker": 1,
-          "utterance": "네 name2님 저녁뭐드실거에요?",
+          "utterance": "네 화자2님 저녁뭐드실거에요?",
           "utterance_id": "MDRW2100036130.1.2",
-          "translated_utterance": "What are you going to have for dinner, name2?"
+          "translated_utterance": "What are you going to have for dinner, 화자2?"
         },
         {
           "speaker": 2,
@@ -11527,9 +11527,9 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은요?",
+          "utterance": "화자1님은요?",
           "utterance_id": "MDRW2100036130.1.4",
-          "translated_utterance": "What about you, name1?"
+          "translated_utterance": "What about you, 화자1?"
         },
         {
           "speaker": 1,
@@ -11691,9 +11691,9 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1 어떤일을 하시나요?",
+          "utterance": "화자1 어떤일을 하시나요?",
           "utterance_id": "MDRW2100013842.1.5",
-          "translated_utterance": "What kind of work do you do, name1?"
+          "translated_utterance": "What kind of work do you do, 화자1?"
         },
         {
           "speaker": 1,
@@ -11819,9 +11819,9 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1 어떤일을 하시나요?",
+          "utterance": "화자1 어떤일을 하시나요?",
           "utterance_id": "MDRW2100013842.1.5",
-          "translated_utterance": "What do you do for a living, name1?"
+          "translated_utterance": "What do you do for a living, 화자1?"
         },
         {
           "speaker": 1,
@@ -11947,9 +11947,9 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1 어떤일을 하시나요?",
+          "utterance": "화자1 어떤일을 하시나요?",
           "utterance_id": "MDRW2100013842.1.5",
-          "translated_utterance": "What kind of work do you do, name1?"
+          "translated_utterance": "What kind of work do you do, 화자1?"
         },
         {
           "speaker": 1,
@@ -12074,9 +12074,9 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1 어떤일을 하시나요?",
+          "utterance": "화자1 어떤일을 하시나요?",
           "utterance_id": "MDRW2100013842.1.5",
-          "translated_utterance": "What do you do, name1?"
+          "translated_utterance": "What do you do, 화자1?"
         },
         {
           "speaker": 1,
@@ -12201,9 +12201,9 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1 어떤일을 하시나요?",
+          "utterance": "화자1 어떤일을 하시나요?",
           "utterance_id": "MDRW2100013842.1.5",
-          "translated_utterance": "What do you do, name1?"
+          "translated_utterance": "What do you do, 화자1?"
         },
         {
           "speaker": 1,
@@ -13065,15 +13065,15 @@
         },
         {
           "speaker": 2,
-          "utterance": "네네.\n저는 name2입니다.ㅎ",
+          "utterance": "네네.\n저는 화자2입니다.ㅎ",
           "utterance_id": "MDRW2100047120.1.3",
-          "translated_utterance": "Yes, yes. I'm name2. Haha."
+          "translated_utterance": "Yes, yes. I'm 화자2. Haha."
         },
         {
           "speaker": 1,
-          "utterance": "저는 name1입니다~",
+          "utterance": "저는 화자1입니다~",
           "utterance_id": "MDRW2100047120.1.4",
-          "translated_utterance": "I am name1~"
+          "translated_utterance": "I am 화자1~"
         },
         {
           "speaker": 2,
@@ -13222,15 +13222,15 @@
         },
         {
           "speaker": 2,
-          "utterance": "네네.\n저는 name2입니다.ㅎ",
+          "utterance": "네네.\n저는 화자2입니다.ㅎ",
           "utterance_id": "MDRW2100047120.1.3",
-          "translated_utterance": "Yes, yes. I'm name2. Haha."
+          "translated_utterance": "Yes, yes. I'm 화자2. Haha."
         },
         {
           "speaker": 1,
-          "utterance": "저는 name1입니다~",
+          "utterance": "저는 화자1입니다~",
           "utterance_id": "MDRW2100047120.1.4",
-          "translated_utterance": "I am name1~"
+          "translated_utterance": "I am 화자1~"
         },
         {
           "speaker": 2,
@@ -13379,15 +13379,15 @@
         },
         {
           "speaker": 2,
-          "utterance": "네네.\n저는 name2입니다.ㅎ",
+          "utterance": "네네.\n저는 화자2입니다.ㅎ",
           "utterance_id": "MDRW2100047120.1.3",
-          "translated_utterance": "Yes, yes. I'm name2. Haha."
+          "translated_utterance": "Yes, yes. I'm 화자2. Haha."
         },
         {
           "speaker": 1,
-          "utterance": "저는 name1입니다~",
+          "utterance": "저는 화자1입니다~",
           "utterance_id": "MDRW2100047120.1.4",
-          "translated_utterance": "I am name1~"
+          "translated_utterance": "I am 화자1~"
         },
         {
           "speaker": 2,
@@ -13536,15 +13536,15 @@
         },
         {
           "speaker": 2,
-          "utterance": "네네.\n저는 name2입니다.ㅎ",
+          "utterance": "네네.\n저는 화자2입니다.ㅎ",
           "utterance_id": "MDRW2100047120.1.3",
-          "translated_utterance": "Yes, yes. I'm name2. Haha."
+          "translated_utterance": "Yes, yes. I'm 화자2. Haha."
         },
         {
           "speaker": 1,
-          "utterance": "저는 name1입니다~",
+          "utterance": "저는 화자1입니다~",
           "utterance_id": "MDRW2100047120.1.4",
-          "translated_utterance": "I am name1~"
+          "translated_utterance": "I am 화자1~"
         },
         {
           "speaker": 2,
@@ -13693,15 +13693,15 @@
         },
         {
           "speaker": 2,
-          "utterance": "네네.\n저는 name2입니다.ㅎ",
+          "utterance": "네네.\n저는 화자2입니다.ㅎ",
           "utterance_id": "MDRW2100047120.1.3",
-          "translated_utterance": "Yes, yes. I'm name2. Haha."
+          "translated_utterance": "Yes, yes. I'm 화자2. Haha."
         },
         {
           "speaker": 1,
-          "utterance": "저는 name1입니다~",
+          "utterance": "저는 화자1입니다~",
           "utterance_id": "MDRW2100047120.1.4",
-          "translated_utterance": "I am name1~"
+          "translated_utterance": "I am 화자1~"
         },
         {
           "speaker": 2,
@@ -13838,7 +13838,7 @@
       "conversation": [
         {
           "speaker": 1,
-          "utterance": "name2님은 최근에 사고 싶은 거 있으세요?",
+          "utterance": "화자2님은 최근에 사고 싶은 거 있으세요?",
           "utterance_id": "MDRW2100007769.1.1",
           "translated_utterance": "Is there anything you want to buy recently?"
         },
@@ -13850,9 +13850,9 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은 최근에 구매하고 싶은 거 있으세요~?",
+          "utterance": "화자1님은 최근에 구매하고 싶은 거 있으세요~?",
           "utterance_id": "MDRW2100007769.1.3",
-          "translated_utterance": "Is there anything you want to buy recently, name1?"
+          "translated_utterance": "Is there anything you want to buy recently, 화자1?"
         },
         {
           "speaker": 1,
@@ -14001,7 +14001,7 @@
       "conversation": [
         {
           "speaker": 1,
-          "utterance": "name2님은 최근에 사고 싶은 거 있으세요?",
+          "utterance": "화자2님은 최근에 사고 싶은 거 있으세요?",
           "utterance_id": "MDRW2100007769.1.1",
           "translated_utterance": "Is there anything you want to buy recently?"
         },
@@ -14013,9 +14013,9 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은 최근에 구매하고 싶은 거 있으세요~?",
+          "utterance": "화자1님은 최근에 구매하고 싶은 거 있으세요~?",
           "utterance_id": "MDRW2100007769.1.3",
-          "translated_utterance": "Is there anything you want to buy recently, name1?"
+          "translated_utterance": "Is there anything you want to buy recently, 화자1?"
         },
         {
           "speaker": 1,
@@ -14164,9 +14164,9 @@
       "conversation": [
         {
           "speaker": 1,
-          "utterance": "name2님은 최근에 사고 싶은 거 있으세요?",
+          "utterance": "화자2님은 최근에 사고 싶은 거 있으세요?",
           "utterance_id": "MDRW2100007769.1.1",
-          "translated_utterance": "Is there anything you want to buy recently, name2?"
+          "translated_utterance": "Is there anything you want to buy recently, 화자2?"
         },
         {
           "speaker": 2,
@@ -14176,9 +14176,9 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은 최근에 구매하고 싶은 거 있으세요~?",
+          "utterance": "화자1님은 최근에 구매하고 싶은 거 있으세요~?",
           "utterance_id": "MDRW2100007769.1.3",
-          "translated_utterance": "Is there anything you want to buy recently, name1?"
+          "translated_utterance": "Is there anything you want to buy recently, 화자1?"
         },
         {
           "speaker": 1,
@@ -14327,7 +14327,7 @@
       "conversation": [
         {
           "speaker": 1,
-          "utterance": "name2님은 최근에 사고 싶은 거 있으세요?",
+          "utterance": "화자2님은 최근에 사고 싶은 거 있으세요?",
           "utterance_id": "MDRW2100007769.1.1",
           "translated_utterance": "Is there anything you want to buy recently?"
         },
@@ -14339,9 +14339,9 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은 최근에 구매하고 싶은 거 있으세요~?",
+          "utterance": "화자1님은 최근에 구매하고 싶은 거 있으세요~?",
           "utterance_id": "MDRW2100007769.1.3",
-          "translated_utterance": "Is there anything you want to buy recently, name1?"
+          "translated_utterance": "Is there anything you want to buy recently, 화자1?"
         },
         {
           "speaker": 1,
@@ -14490,9 +14490,9 @@
       "conversation": [
         {
           "speaker": 1,
-          "utterance": "name2님은 최근에 사고 싶은 거 있으세요?",
+          "utterance": "화자2님은 최근에 사고 싶은 거 있으세요?",
           "utterance_id": "MDRW2100007769.1.1",
-          "translated_utterance": "Is there anything you want to buy recently, name2?"
+          "translated_utterance": "Is there anything you want to buy recently, 화자2?"
         },
         {
           "speaker": 2,
@@ -14502,9 +14502,9 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은 최근에 구매하고 싶은 거 있으세요~?",
+          "utterance": "화자1님은 최근에 구매하고 싶은 거 있으세요~?",
           "utterance_id": "MDRW2100007769.1.3",
-          "translated_utterance": "Is there anything you want to buy recently, name1?"
+          "translated_utterance": "Is there anything you want to buy recently, 화자1?"
         },
         {
           "speaker": 1,
@@ -16072,9 +16072,9 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 어떤 커뮤니티에서 활동하시나요?",
+          "utterance": "화자2님은 어떤 커뮤니티에서 활동하시나요?",
           "utterance_id": "MDRW2100003244.1.5",
-          "translated_utterance": "What community do you participate in, name2?"
+          "translated_utterance": "What community do you participate in, 화자2?"
         },
         {
           "speaker": 2,
@@ -16272,9 +16272,9 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 어떤 커뮤니티에서 활동하시나요?",
+          "utterance": "화자2님은 어떤 커뮤니티에서 활동하시나요?",
           "utterance_id": "MDRW2100003244.1.5",
-          "translated_utterance": "What communities do you participate in, name2?"
+          "translated_utterance": "What communities do you participate in, 화자2?"
         },
         {
           "speaker": 2,
@@ -16472,9 +16472,9 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 어떤 커뮤니티에서 활동하시나요?",
+          "utterance": "화자2님은 어떤 커뮤니티에서 활동하시나요?",
           "utterance_id": "MDRW2100003244.1.5",
-          "translated_utterance": "What communities do you participate in, name2?"
+          "translated_utterance": "What communities do you participate in, 화자2?"
         },
         {
           "speaker": 2,
@@ -16672,9 +16672,9 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 어떤 커뮤니티에서 활동하시나요?",
+          "utterance": "화자2님은 어떤 커뮤니티에서 활동하시나요?",
           "utterance_id": "MDRW2100003244.1.5",
-          "translated_utterance": "What communities do you participate in, name2?"
+          "translated_utterance": "What communities do you participate in, 화자2?"
         },
         {
           "speaker": 2,
@@ -16872,9 +16872,9 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 어떤 커뮤니티에서 활동하시나요?",
+          "utterance": "화자2님은 어떤 커뮤니티에서 활동하시나요?",
           "utterance_id": "MDRW2100003244.1.5",
-          "translated_utterance": "What communities do you participate in, name2?"
+          "translated_utterance": "What communities do you participate in, 화자2?"
         },
         {
           "speaker": 2,
@@ -18599,9 +18599,9 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은 자취나 동거 경험 있으신가요??",
+          "utterance": "화자1님은 자취나 동거 경험 있으신가요??",
           "utterance_id": "MDRW2100015001.1.7",
-          "translated_utterance": "Have you ever lived alone or cohabited, name1?"
+          "translated_utterance": "Have you ever lived alone or cohabited, 화자1?"
         },
         {
           "speaker": 1,
@@ -18708,9 +18708,9 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은 자취나 동거 경험 있으신가요??",
+          "utterance": "화자1님은 자취나 동거 경험 있으신가요??",
           "utterance_id": "MDRW2100015001.1.7",
-          "translated_utterance": "Have you ever lived alone or cohabited, name1?"
+          "translated_utterance": "Have you ever lived alone or cohabited, 화자1?"
         },
         {
           "speaker": 1,
@@ -18817,9 +18817,9 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은 자취나 동거 경험 있으신가요??",
+          "utterance": "화자1님은 자취나 동거 경험 있으신가요??",
           "utterance_id": "MDRW2100015001.1.7",
-          "translated_utterance": "Have you ever lived alone or cohabited, name1?"
+          "translated_utterance": "Have you ever lived alone or cohabited, 화자1?"
         },
         {
           "speaker": 1,
@@ -18926,9 +18926,9 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은 자취나 동거 경험 있으신가요??",
+          "utterance": "화자1님은 자취나 동거 경험 있으신가요??",
           "utterance_id": "MDRW2100015001.1.7",
-          "translated_utterance": "Have you ever lived alone or cohabited, name1?"
+          "translated_utterance": "Have you ever lived alone or cohabited, 화자1?"
         },
         {
           "speaker": 1,
@@ -19035,9 +19035,9 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은 자취나 동거 경험 있으신가요??",
+          "utterance": "화자1님은 자취나 동거 경험 있으신가요??",
           "utterance_id": "MDRW2100015001.1.7",
-          "translated_utterance": "Have you ever lived alone or cohabited, name1?"
+          "translated_utterance": "Have you ever lived alone or cohabited, 화자1?"
         },
         {
           "speaker": 1,

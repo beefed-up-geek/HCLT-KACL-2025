@@ -3,7 +3,7 @@ nikluge-2025-대화 맥락 추론-dev-000001,"speaker 1: Hello! Haha
 speaker 2: Hello!
 speaker 2: Are you involved in any club activities?
 speaker 1: I enjoy drinking tea, so I sometimes attend tea gatherings with people who also like tea.
-speaker 1: Do you participate in any club activities, name2?
+speaker 1: Do you participate in any club activities, 화자2?
 speaker 2: Oh wow!
 speaker 2: No, I don't have any. Haha.
 speaker 2: I haven't tried it yet because I don't enjoy meeting new people, like in clubs!
@@ -419,7 +419,7 @@ speaker 2: You made a good deal.
 speaker 1: I was thinking of buying some sundae with a little money, haha.
 speaker 1: I felt like I was just wasting money, so I passed.
 speaker 2: You did well.
-speaker 1: Don't you have any reward points, name2?
+speaker 1: Don't you have any reward points, 화자2?
 speaker 1: They said they would give you 3,000.
 speaker 2: I didn't have any.
 speaker 2: Maybe it's because they gave it to me last month.
@@ -1719,7 +1719,7 @@ speaker 2: I hope everything gets back to normal soon so that everyone can regai
 B. Speaker 2 will inform about the canceled travel destination.
 C. Speaker 2 will share stories about the trip they took last year.",inference_2,A,inference_1,X
 nikluge-2025-대화 맥락 추론-dev-000077,"speaker 2: It's already dinner time.
-speaker 1: What are you going to have for dinner, name2?
+speaker 1: What are you going to have for dinner, 화자2?
 speaker 2: I ordered pizza!
 speaker 2: What about you, name1?
 speaker 1: I had jajangmyeon at 4 o'clock, and I'm still full.
@@ -1744,7 +1744,7 @@ speaker 2: The classic is the best~~",원인,Select the option that best explain
 B. Speaker 2 prefers pizza menus with few toppings.
 C. Speaker 2 prefers pizza options with less cheese.",inference_2,B,inference_2,O
 nikluge-2025-대화 맥락 추론-dev-000078,"speaker 2: It's already dinner time.
-speaker 1: What are you going to have for dinner, name2?
+speaker 1: What are you going to have for dinner, 화자2?
 speaker 2: I ordered pizza!
 speaker 2: What about you, name1?
 speaker 1: I had jajangmyeon at 4 o'clock, and I'm still full.
@@ -1769,7 +1769,7 @@ speaker 2: The classic is the best~~",동기,"Based on the dialogue, select the 
 B. Speaker 2 hopes that Speaker 1 will try the sweet potato pizza from Pizza Maru.
 C. Speaker 2 hopes that Speaker 1 will try the cheese pizza from Pizza Maru.",inference_3,C,inference_3,O
 nikluge-2025-대화 맥락 추론-dev-000079,"speaker 2: It's already dinner time.
-speaker 1: What are you going to have for dinner, name2?
+speaker 1: What are you going to have for dinner, 화자2?
 speaker 2: I ordered pizza!
 speaker 2: What about you, name1?
 speaker 1: I had jjajangmyeon at 4 o'clock, and I'm still full.
@@ -1794,7 +1794,7 @@ speaker 2: The classic is the best~~",전제,What condition must be in place fir
 B. Speaker 2 has only tried the cheese pizza from Pizza Maru.
 C. Speaker 2 knows about the menu of Pizza Maru.",inference_3,C,inference_3,O
 nikluge-2025-대화 맥락 추론-dev-000080,"speaker 2: It's already dinner time.
-speaker 1: What are you going to have for dinner, name2?
+speaker 1: What are you going to have for dinner, 화자2?
 speaker 2: I ordered pizza!
 speaker 2: What about you, name1?
 speaker 1: I had jajangmyeon at 4 o'clock, and I'm still full.
@@ -1819,7 +1819,7 @@ speaker 2: The classic is the best~~",반응,Select the emotional state the spea
 B. Speaker 1 is curious about the taste of the cheese pizza recommended by Speaker 2.
 C. Speaker 1 is curious about the taste of cheese pizza that Speaker 2 dislikes.",inference_2,B,inference_2,O
 nikluge-2025-대화 맥락 추론-dev-000081,"speaker 2: It's already dinner time.
-speaker 1: What are you going to have for dinner, name2?
+speaker 1: What are you going to have for dinner, 화자2?
 speaker 2: I ordered pizza!
 speaker 2: What about you, name1?
 speaker 1: I had jajangmyeon at 4 o'clock, and I'm still full.
@@ -2065,7 +2065,7 @@ B. Speaker 2 will ask to see Speaker 1's pet.
 C. Speaker 2 will ask Speaker 1 if they have ever had a pet.",inference_3,C,inference_3,O
 nikluge-2025-대화 맥락 추론-dev-000091,"speaker 1: Hello^^
 speaker 1: Is it okay to just come in like this?
-speaker 2: Yes, yes. I'm name2. Haha.
+speaker 2: Yes, yes. I'm 화자2. Haha.
 speaker 1: I am name1~
 speaker 2: I don't have a son, so I'm not very familiar with the military, but I think there should be military points.
 speaker 1: I guess so~
@@ -2090,7 +2090,7 @@ B. There has been a lot of news recently regarding military bonuses given to sol
 C. There have been many news reports recently about abuse occurring in the military.",inference_3,C,inference_3,O
 nikluge-2025-대화 맥락 추론-dev-000092,"speaker 1: Hello^^
 speaker 1: Is it okay to just come in like this?
-speaker 2: Yes, yes. I'm name2. Haha.
+speaker 2: Yes, yes. I'm 화자2. Haha.
 speaker 1: I am name1~
 speaker 2: I don't have a son, so I'm not very familiar with the military, but I think there should be military points.
 speaker 1: I guess so.
@@ -2115,7 +2115,7 @@ B. Speaker 1 does not want to send his son to the military.
 C. Speaker 1 wants to send his son to the military.",inference_2,B,inference_2,O
 nikluge-2025-대화 맥락 추론-dev-000093,"speaker 1: Hello^^
 speaker 1: Is it okay to just come in like this?
-speaker 2: Yes, yes. I'm name2. Haha.
+speaker 2: Yes, yes. I'm 화자2. Haha.
 speaker 1: I am name1~
 speaker 2: I don't have a son, so I'm not very familiar with the military, but I think there should be military points.
 speaker 1: I guess so~
@@ -2140,7 +2140,7 @@ B. Speaker 1 has committed acts of abuse in the military.
 C. Speaker 1 has heard about the abuses in the military.",inference_3,C,inference_3,O
 nikluge-2025-대화 맥락 추론-dev-000094,"speaker 1: Hello^^
 speaker 1: Is it okay to just come in like this?
-speaker 2: Yes, yes. I'm name2. Haha.
+speaker 2: Yes, yes. I'm 화자2. Haha.
 speaker 1: I am name1~
 speaker 2: I don't have a son, so I'm not very familiar with the military, but I think there should be military points.
 speaker 1: I guess so~
@@ -2165,7 +2165,7 @@ B. Speaker 2 feels sorry for speaker 1, who hates his son.
 C. Speaker 2 feels pity for Speaker 1, who is worried about their son.",inference_3,C,inference_3,O
 nikluge-2025-대화 맥락 추론-dev-000095,"speaker 1: Hello^^
 speaker 1: Is it okay to just come in like this?
-speaker 2: Yes, yes. I'm name2. Haha.
+speaker 2: Yes, yes. I'm 화자2. Haha.
 speaker 1: I am name1~
 speaker 2: I don't have a son, so I'm not very familiar with the military, but I think there should be military points.
 speaker 1: I guess so~
@@ -2240,7 +2240,7 @@ speaker 2: I'll just trade the photo cards.
 speaker 1: Popular idols sell well, haha.",동기,"Based on the dialogue, select the option that best represents the speaker's inner motive or desire.","A. Speaker 1 wants to supplement with protein that helps with muscle strength.
 B. Speaker 1 wants to eat a protein that helps with vision.
 C. Speaker 1 needs vitamins that help with muscle strength.",inference_1,A,inference_1,O
-nikluge-2025-대화 맥락 추론-dev-000098,"speaker 1: Is there anything you want to buy recently, name2?
+nikluge-2025-대화 맥락 추론-dev-000098,"speaker 1: Is there anything you want to buy recently, 화자2?
 speaker 2: Even if it's not in my plans, when I see someone using something, I end up looking it up and then buying it for no reason, haha.
 speaker 2: Is there anything you want to buy recently, name1?
 speaker 1: I've been thinking about trying protein powder lately.
@@ -2292,7 +2292,7 @@ speaker 2: I'll just trade the photo cards.
 speaker 1: Popular idols sell well, haha.",반응,Select the emotional state the speaker is displaying in the dialogue above.,"A. Speaker 2 is intrigued by the fact that idol albums sell well.
 B. Speaker 2 is surprised that idol photo cards sell well.
 C. Speaker 2 finds it strange that there is little demand for idol merchandise.",inference_1,A,inference_1,O
-nikluge-2025-대화 맥락 추론-dev-000100,"speaker 1: Is there anything you want to buy recently, name2?
+nikluge-2025-대화 맥락 추론-dev-000100,"speaker 1: Is there anything you want to buy recently, 화자2?
 speaker 2: Even if it's not in my plans, when I see someone using something, I end up looking it up and then buying it for no reason, haha.
 speaker 2: Is there anything you want to buy recently, name1?
 speaker 1: I've been thinking about trying protein powder lately.
@@ -2542,7 +2542,7 @@ nikluge-2025-대화 맥락 추론-dev-000111,"speaker 1: Hello.
 speaker 2: Hello!
 speaker 2: Which online communities do you usually participate in?
 speaker 1: I often participate in a finance community. :)
-speaker 1: What community do you participate in, name2?
+speaker 1: What community do you participate in, 화자2?
 speaker 2: Oh, I also do personal finance!
 speaker 2: I'm really interested in finance and app technology, haha.
 speaker 1: Oh, me too! I often do a bit of online recycling.
@@ -2574,7 +2574,7 @@ nikluge-2025-대화 맥락 추론-dev-000112,"speaker 1: Hello.
 speaker 2: Hello!
 speaker 2: Which online communities do you usually participate in?
 speaker 1: I often participate in a finance community. :)
-speaker 1: What communities do you participate in, name2?
+speaker 1: What communities do you participate in, 화자2?
 speaker 2: Oh, I also participate in a finance community!!
 speaker 2: I'm really interested in finance and app technology, haha.
 speaker 1: Oh, me too! I often do a bit of online recycling.
@@ -2606,7 +2606,7 @@ nikluge-2025-대화 맥락 추론-dev-000113,"speaker 1: Hello.
 speaker 2: Hello!
 speaker 2: Which online communities do you usually participate in?
 speaker 1: I often participate in a finance community. :)
-speaker 1: What communities do you participate in, name2?
+speaker 1: What communities do you participate in, 화자2?
 speaker 2: Oh, I also do finance!
 speaker 2: I'm really interested in finance and app technology, haha.
 speaker 1: Oh, me too! I often do a bit of online recycling.
@@ -2638,7 +2638,7 @@ nikluge-2025-대화 맥락 추론-dev-000114,"speaker 1: Hello.
 speaker 2: Hello!
 speaker 2: Which online communities do you usually participate in?
 speaker 1: I often participate in a finance community. :)
-speaker 1: What communities do you participate in, name2?
+speaker 1: What communities do you participate in, 화자2?
 speaker 2: Oh, I also do personal finance!
 speaker 2: I'm really interested in finance and app technology, haha.
 speaker 1: Oh, me too! I often do a bit of online recycling.
@@ -2670,7 +2670,7 @@ nikluge-2025-대화 맥락 추론-dev-000115,"speaker 1: Hello.
 speaker 2: Hello!
 speaker 2: Which online communities do you usually participate in?
 speaker 1: I often participate in a finance community. :)
-speaker 1: What communities do you participate in, name2?
+speaker 1: What communities do you participate in, 화자2?
 speaker 2: Oh, I also do personal finance!
 speaker 2: I'm really interested in finance and app technology, haha.
 speaker 1: Oh, me too! I often do a bit of online recycling.

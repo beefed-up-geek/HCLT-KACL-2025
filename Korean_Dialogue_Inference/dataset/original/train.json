@@ -2760,7 +2760,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "조용하고 튀지 않았어요. \nname1 님은요!",
+          "utterance": "조용하고 튀지 않았어요. \n화자1 님은요!",
           "utterance_id": "MDRW2100040195.1.2"
         },
         {
@@ -2790,7 +2790,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은요",
+          "utterance": "화자2님은요",
           "utterance_id": "MDRW2100040195.1.8"
         },
         {
@@ -2871,7 +2871,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "조용하고 튀지 않았어요. \nname1 님은요!",
+          "utterance": "조용하고 튀지 않았어요. \n화자1 님은요!",
           "utterance_id": "MDRW2100040195.1.2"
         },
         {
@@ -2901,7 +2901,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은요",
+          "utterance": "화자2님은요",
           "utterance_id": "MDRW2100040195.1.8"
         },
         {
@@ -2982,7 +2982,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "조용하고 튀지 않았어요. \nname1 님은요!",
+          "utterance": "조용하고 튀지 않았어요. \n화자1 님은요!",
           "utterance_id": "MDRW2100040195.1.2"
         },
         {
@@ -3012,7 +3012,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은요",
+          "utterance": "화자2님은요",
           "utterance_id": "MDRW2100040195.1.8"
         },
         {
@@ -3093,7 +3093,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "조용하고 튀지 않았어요. \nname1 님은요!",
+          "utterance": "조용하고 튀지 않았어요. \n화자1 님은요!",
           "utterance_id": "MDRW2100040195.1.2"
         },
         {
@@ -3123,7 +3123,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은요",
+          "utterance": "화자2님은요",
           "utterance_id": "MDRW2100040195.1.8"
         },
         {
@@ -3204,7 +3204,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "조용하고 튀지 않았어요. \nname1 님은요!",
+          "utterance": "조용하고 튀지 않았어요. \n화자1 님은요!",
           "utterance_id": "MDRW2100040195.1.2"
         },
         {
@@ -3234,7 +3234,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은요",
+          "utterance": "화자2님은요",
           "utterance_id": "MDRW2100040195.1.8"
         },
         {
@@ -3340,7 +3340,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "ㅋㅋㅋname2님이랑 가티 하차해야것어유",
+          "utterance": "ㅋㅋㅋ화자2님이랑 가티 하차해야것어유",
           "utterance_id": "MDRW2100042393.1.7"
         },
         {
@@ -3506,7 +3506,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "ㅋㅋㅋname2님이랑 가티 하차해야것어유",
+          "utterance": "ㅋㅋㅋ화자2님이랑 가티 하차해야것어유",
           "utterance_id": "MDRW2100042393.1.7"
         },
         {
@@ -3672,7 +3672,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "ㅋㅋㅋname2님이랑 가티 하차해야것어유",
+          "utterance": "ㅋㅋㅋ화자2님이랑 가티 하차해야것어유",
           "utterance_id": "MDRW2100042393.1.7"
         },
         {
@@ -3838,7 +3838,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "ㅋㅋㅋname2님이랑 가티 하차해야것어유",
+          "utterance": "ㅋㅋㅋ화자2님이랑 가티 하차해야것어유",
           "utterance_id": "MDRW2100042393.1.7"
         },
         {
@@ -4004,7 +4004,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "ㅋㅋㅋname2님이랑 가티 하차해야것어유",
+          "utterance": "ㅋㅋㅋ화자2님이랑 가티 하차해야것어유",
           "utterance_id": "MDRW2100042393.1.7"
         },
         {
@@ -6520,7 +6520,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은 어떤 스포츠 관심있으세요? 경기 직접 보러가신거라던지..",
+          "utterance": "화자1님은 어떤 스포츠 관심있으세요? 경기 직접 보러가신거라던지..",
           "utterance_id": "MDRW2100007974.1.13"
         },
         {
@@ -6651,7 +6651,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은 어떤 스포츠 관심있으세요? 경기 직접 보러가신거라던지..",
+          "utterance": "화자1님은 어떤 스포츠 관심있으세요? 경기 직접 보러가신거라던지..",
           "utterance_id": "MDRW2100007974.1.13"
         },
         {
@@ -6782,7 +6782,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은 어떤 스포츠 관심있으세요? 경기 직접 보러가신거라던지..",
+          "utterance": "화자1님은 어떤 스포츠 관심있으세요? 경기 직접 보러가신거라던지..",
           "utterance_id": "MDRW2100007974.1.13"
         },
         {
@@ -6913,7 +6913,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은 어떤 스포츠 관심있으세요? 경기 직접 보러가신거라던지..",
+          "utterance": "화자1님은 어떤 스포츠 관심있으세요? 경기 직접 보러가신거라던지..",
           "utterance_id": "MDRW2100007974.1.13"
         },
         {
@@ -7044,7 +7044,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은 어떤 스포츠 관심있으세요? 경기 직접 보러가신거라던지..",
+          "utterance": "화자1님은 어떤 스포츠 관심있으세요? 경기 직접 보러가신거라던지..",
           "utterance_id": "MDRW2100007974.1.13"
         },
         {
@@ -12169,12 +12169,12 @@
       "conversation": [
         {
           "speaker": 1,
-          "utterance": "name2님은 이상형 있으세요?",
+          "utterance": "화자2님은 이상형 있으세요?",
           "utterance_id": "MDRW2100045412.1.1"
         },
         {
           "speaker": 2,
-          "utterance": "네 name1님은요?",
+          "utterance": "네 화자1님은요?",
           "utterance_id": "MDRW2100045412.1.2"
         },
         {
@@ -12300,12 +12300,12 @@
       "conversation": [
         {
           "speaker": 1,
-          "utterance": "name2님은 이상형 있으세요?",
+          "utterance": "화자2님은 이상형 있으세요?",
           "utterance_id": "MDRW2100045412.1.1"
         },
         {
           "speaker": 2,
-          "utterance": "네 name1님은요?",
+          "utterance": "네 화자1님은요?",
           "utterance_id": "MDRW2100045412.1.2"
         },
         {
@@ -12431,12 +12431,12 @@
       "conversation": [
         {
           "speaker": 1,
-          "utterance": "name2님은 이상형 있으세요?",
+          "utterance": "화자2님은 이상형 있으세요?",
           "utterance_id": "MDRW2100045412.1.1"
         },
         {
           "speaker": 2,
-          "utterance": "네 name1님은요?",
+          "utterance": "네 화자1님은요?",
           "utterance_id": "MDRW2100045412.1.2"
         },
         {
@@ -12562,12 +12562,12 @@
       "conversation": [
         {
           "speaker": 1,
-          "utterance": "name2님은 이상형 있으세요?",
+          "utterance": "화자2님은 이상형 있으세요?",
           "utterance_id": "MDRW2100045412.1.1"
         },
         {
           "speaker": 2,
-          "utterance": "네 name1님은요?",
+          "utterance": "네 화자1님은요?",
           "utterance_id": "MDRW2100045412.1.2"
         },
         {
@@ -12693,12 +12693,12 @@
       "conversation": [
         {
           "speaker": 1,
-          "utterance": "name2님은 이상형 있으세요?",
+          "utterance": "화자2님은 이상형 있으세요?",
           "utterance_id": "MDRW2100045412.1.1"
         },
         {
           "speaker": 2,
-          "utterance": "네 name1님은요?",
+          "utterance": "네 화자1님은요?",
           "utterance_id": "MDRW2100045412.1.2"
         },
         {
@@ -14624,7 +14624,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "아니요.. 최근은 코로나 때문에 여행은 전혀 못갔어요.. name1님은요?,",
+          "utterance": "아니요.. 최근은 코로나 때문에 여행은 전혀 못갔어요.. 화자1님은요?,",
           "utterance_id": "MDRW2100010223.1.3"
         },
         {
@@ -14765,7 +14765,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "아니요.. 최근은 코로나 때문에 여행은 전혀 못갔어요.. name1님은요?,",
+          "utterance": "아니요.. 최근은 코로나 때문에 여행은 전혀 못갔어요.. 화자1님은요?,",
           "utterance_id": "MDRW2100010223.1.3"
         },
         {
@@ -14906,7 +14906,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "아니요.. 최근은 코로나 때문에 여행은 전혀 못갔어요.. name1님은요?,",
+          "utterance": "아니요.. 최근은 코로나 때문에 여행은 전혀 못갔어요.. 화자1님은요?,",
           "utterance_id": "MDRW2100010223.1.3"
         },
         {
@@ -15047,7 +15047,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "아니요.. 최근은 코로나 때문에 여행은 전혀 못갔어요.. name1님은요?,",
+          "utterance": "아니요.. 최근은 코로나 때문에 여행은 전혀 못갔어요.. 화자1님은요?,",
           "utterance_id": "MDRW2100010223.1.3"
         },
         {
@@ -15188,7 +15188,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "아니요.. 최근은 코로나 때문에 여행은 전혀 못갔어요.. name1님은요?,",
+          "utterance": "아니요.. 최근은 코로나 때문에 여행은 전혀 못갔어요.. 화자1님은요?,",
           "utterance_id": "MDRW2100010223.1.3"
         },
         {
@@ -16599,7 +16599,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은요",
+          "utterance": "화자1님은요",
           "utterance_id": "MDRW2100047550.1.5"
         },
         {
@@ -16700,7 +16700,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은요",
+          "utterance": "화자1님은요",
           "utterance_id": "MDRW2100047550.1.5"
         },
         {
@@ -16801,7 +16801,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은요",
+          "utterance": "화자1님은요",
           "utterance_id": "MDRW2100047550.1.5"
         },
         {
@@ -16902,7 +16902,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은요",
+          "utterance": "화자1님은요",
           "utterance_id": "MDRW2100047550.1.5"
         },
         {
@@ -17003,7 +17003,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은요",
+          "utterance": "화자1님은요",
           "utterance_id": "MDRW2100047550.1.5"
         },
         {
@@ -17099,7 +17099,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2은요?",
+          "utterance": "화자2은요?",
           "utterance_id": "MDRW2100025243.1.4"
         },
         {
@@ -17245,7 +17245,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2은요?",
+          "utterance": "화자2은요?",
           "utterance_id": "MDRW2100025243.1.4"
         },
         {
@@ -17391,7 +17391,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2은요?",
+          "utterance": "화자2은요?",
           "utterance_id": "MDRW2100025243.1.4"
         },
         {
@@ -17537,7 +17537,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2은요?",
+          "utterance": "화자2은요?",
           "utterance_id": "MDRW2100025243.1.4"
         },
         {
@@ -17683,7 +17683,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2은요?",
+          "utterance": "화자2은요?",
           "utterance_id": "MDRW2100025243.1.4"
         },
         {
@@ -18874,7 +18874,7 @@
       "conversation": [
         {
           "speaker": 1,
-          "utterance": "안녕하세요! name2님은 넷플 자주 보세요?",
+          "utterance": "안녕하세요! 화자2님은 넷플 자주 보세요?",
           "utterance_id": "MDRW2100008340.1.1"
         },
         {
@@ -18919,7 +18919,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "그럼 name2님은 무슨 프로그럄을 제일",
+          "utterance": "그럼 화자2님은 무슨 프로그럄을 제일",
           "utterance_id": "MDRW2100008340.1.10"
         },
         {
@@ -18985,7 +18985,7 @@
       "conversation": [
         {
           "speaker": 1,
-          "utterance": "안녕하세요! name2님은 넷플 자주 보세요?",
+          "utterance": "안녕하세요! 화자2님은 넷플 자주 보세요?",
           "utterance_id": "MDRW2100008340.1.1"
         },
         {
@@ -19030,7 +19030,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "그럼 name2님은 무슨 프로그럄을 제일",
+          "utterance": "그럼 화자2님은 무슨 프로그럄을 제일",
           "utterance_id": "MDRW2100008340.1.10"
         },
         {
@@ -19096,7 +19096,7 @@
       "conversation": [
         {
           "speaker": 1,
-          "utterance": "안녕하세요! name2님은 넷플 자주 보세요?",
+          "utterance": "안녕하세요! 화자2님은 넷플 자주 보세요?",
           "utterance_id": "MDRW2100008340.1.1"
         },
         {
@@ -19141,7 +19141,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "그럼 name2님은 무슨 프로그럄을 제일",
+          "utterance": "그럼 화자2님은 무슨 프로그럄을 제일",
           "utterance_id": "MDRW2100008340.1.10"
         },
         {
@@ -19207,7 +19207,7 @@
       "conversation": [
         {
           "speaker": 1,
-          "utterance": "안녕하세요! name2님은 넷플 자주 보세요?",
+          "utterance": "안녕하세요! 화자2님은 넷플 자주 보세요?",
           "utterance_id": "MDRW2100008340.1.1"
         },
         {
@@ -19252,7 +19252,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "그럼 name2님은 무슨 프로그럄을 제일",
+          "utterance": "그럼 화자2님은 무슨 프로그럄을 제일",
           "utterance_id": "MDRW2100008340.1.10"
         },
         {
@@ -19318,7 +19318,7 @@
       "conversation": [
         {
           "speaker": 1,
-          "utterance": "안녕하세요! name2님은 넷플 자주 보세요?",
+          "utterance": "안녕하세요! 화자2님은 넷플 자주 보세요?",
           "utterance_id": "MDRW2100008340.1.1"
         },
         {
@@ -19363,7 +19363,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "그럼 name2님은 무슨 프로그럄을 제일",
+          "utterance": "그럼 화자2님은 무슨 프로그럄을 제일",
           "utterance_id": "MDRW2100008340.1.10"
         },
         {
@@ -23631,7 +23631,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "네 평범한 회사원이에요 ㅎㅎ name1님은요?",
+          "utterance": "네 평범한 회사원이에요 ㅎㅎ 화자1님은요?",
           "utterance_id": "MDRW2100007325.1.3"
         },
         {
@@ -23767,7 +23767,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "네 평범한 회사원이에요 ㅎㅎ name1님은요?",
+          "utterance": "네 평범한 회사원이에요 ㅎㅎ 화자1님은요?",
           "utterance_id": "MDRW2100007325.1.3"
         },
         {
@@ -23903,7 +23903,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "네 평범한 회사원이에요 ㅎㅎ name1님은요?",
+          "utterance": "네 평범한 회사원이에요 ㅎㅎ 화자1님은요?",
           "utterance_id": "MDRW2100007325.1.3"
         },
         {
@@ -24039,7 +24039,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "네 평범한 회사원이에요 ㅎㅎ name1님은요?",
+          "utterance": "네 평범한 회사원이에요 ㅎㅎ 화자1님은요?",
           "utterance_id": "MDRW2100007325.1.3"
         },
         {
@@ -24175,7 +24175,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "네 평범한 회사원이에요 ㅎㅎ name1님은요?",
+          "utterance": "네 평범한 회사원이에요 ㅎㅎ 화자1님은요?",
           "utterance_id": "MDRW2100007325.1.3"
         },
         {
@@ -26911,7 +26911,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1은 최근에 맛집 어디 다녀오셨어요? :)",
+          "utterance": "화자1은 최근에 맛집 어디 다녀오셨어요? :)",
           "utterance_id": "MDRW2100022495.1.13"
         },
         {
@@ -26961,7 +26961,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2도 집에서 잘 해드세요?",
+          "utterance": "화자2도 집에서 잘 해드세요?",
           "utterance_id": "MDRW2100022495.1.23"
         }
       ],
@@ -27042,7 +27042,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1은 최근에 맛집 어디 다녀오셨어요? :)",
+          "utterance": "화자1은 최근에 맛집 어디 다녀오셨어요? :)",
           "utterance_id": "MDRW2100022495.1.13"
         },
         {
@@ -27092,7 +27092,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2도 집에서 잘 해드세요?",
+          "utterance": "화자2도 집에서 잘 해드세요?",
           "utterance_id": "MDRW2100022495.1.23"
         }
       ],
@@ -27173,7 +27173,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1은 최근에 맛집 어디 다녀오셨어요? :)",
+          "utterance": "화자1은 최근에 맛집 어디 다녀오셨어요? :)",
           "utterance_id": "MDRW2100022495.1.13"
         },
         {
@@ -27223,7 +27223,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2도 집에서 잘 해드세요?",
+          "utterance": "화자2도 집에서 잘 해드세요?",
           "utterance_id": "MDRW2100022495.1.23"
         }
       ],
@@ -27304,7 +27304,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1은 최근에 맛집 어디 다녀오셨어요? :)",
+          "utterance": "화자1은 최근에 맛집 어디 다녀오셨어요? :)",
           "utterance_id": "MDRW2100022495.1.13"
         },
         {
@@ -27354,7 +27354,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2도 집에서 잘 해드세요?",
+          "utterance": "화자2도 집에서 잘 해드세요?",
           "utterance_id": "MDRW2100022495.1.23"
         }
       ],
@@ -27435,7 +27435,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1은 최근에 맛집 어디 다녀오셨어요? :)",
+          "utterance": "화자1은 최근에 맛집 어디 다녀오셨어요? :)",
           "utterance_id": "MDRW2100022495.1.13"
         },
         {
@@ -27485,7 +27485,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2도 집에서 잘 해드세요?",
+          "utterance": "화자2도 집에서 잘 해드세요?",
           "utterance_id": "MDRW2100022495.1.23"
         }
       ],
@@ -35888,7 +35888,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은 어떠세요?",
+          "utterance": "화자1님은 어떠세요?",
           "utterance_id": "MDRW2100030990.1.5"
         },
         {
@@ -35913,7 +35913,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은요?",
+          "utterance": "화자2님은요?",
           "utterance_id": "MDRW2100030990.1.10"
         },
         {
@@ -35973,7 +35973,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 맞으셨나요?",
+          "utterance": "화자2님은 맞으셨나요?",
           "utterance_id": "MDRW2100030990.1.22"
         },
         {
@@ -36044,7 +36044,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은 어떠세요?",
+          "utterance": "화자1님은 어떠세요?",
           "utterance_id": "MDRW2100030990.1.5"
         },
         {
@@ -36069,7 +36069,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은요?",
+          "utterance": "화자2님은요?",
           "utterance_id": "MDRW2100030990.1.10"
         },
         {
@@ -36129,7 +36129,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 맞으셨나요?",
+          "utterance": "화자2님은 맞으셨나요?",
           "utterance_id": "MDRW2100030990.1.22"
         },
         {
@@ -36200,7 +36200,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은 어떠세요?",
+          "utterance": "화자1님은 어떠세요?",
           "utterance_id": "MDRW2100030990.1.5"
         },
         {
@@ -36225,7 +36225,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은요?",
+          "utterance": "화자2님은요?",
           "utterance_id": "MDRW2100030990.1.10"
         },
         {
@@ -36285,7 +36285,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 맞으셨나요?",
+          "utterance": "화자2님은 맞으셨나요?",
           "utterance_id": "MDRW2100030990.1.22"
         },
         {
@@ -36356,7 +36356,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은 어떠세요?",
+          "utterance": "화자1님은 어떠세요?",
           "utterance_id": "MDRW2100030990.1.5"
         },
         {
@@ -36381,7 +36381,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은요?",
+          "utterance": "화자2님은요?",
           "utterance_id": "MDRW2100030990.1.10"
         },
         {
@@ -36441,7 +36441,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 맞으셨나요?",
+          "utterance": "화자2님은 맞으셨나요?",
           "utterance_id": "MDRW2100030990.1.22"
         },
         {
@@ -38028,7 +38028,7 @@
       "conversation": [
         {
           "speaker": 1,
-          "utterance": "안녕하세요! name2님은 드라마 보는 거 좋아하세요?!",
+          "utterance": "안녕하세요! 화자2님은 드라마 보는 거 좋아하세요?!",
           "utterance_id": "MDRW2100024576.1.1"
         },
         {
@@ -38048,7 +38048,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님 최애 드라마가 뭐예요?",
+          "utterance": "화자2님 최애 드라마가 뭐예요?",
           "utterance_id": "MDRW2100024576.1.5"
         },
         {
@@ -38108,7 +38108,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 어던 오리지널 보셨나요?!",
+          "utterance": "화자2님은 어던 오리지널 보셨나요?!",
           "utterance_id": "MDRW2100024576.1.17"
         },
         {
@@ -38160,7 +38160,7 @@
       "conversation": [
         {
           "speaker": 1,
-          "utterance": "안녕하세요! name2님은 드라마 보는 거 좋아하세요?!",
+          "utterance": "안녕하세요! 화자2님은 드라마 보는 거 좋아하세요?!",
           "utterance_id": "MDRW2100024576.1.1"
         },
         {
@@ -38180,7 +38180,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님 최애 드라마가 뭐예요?",
+          "utterance": "화자2님 최애 드라마가 뭐예요?",
           "utterance_id": "MDRW2100024576.1.5"
         },
         {
@@ -38240,7 +38240,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 어던 오리지널 보셨나요?!",
+          "utterance": "화자2님은 어던 오리지널 보셨나요?!",
           "utterance_id": "MDRW2100024576.1.17"
         },
         {
@@ -38291,7 +38291,7 @@
       "conversation": [
         {
           "speaker": 1,
-          "utterance": "안녕하세요! name2님은 드라마 보는 거 좋아하세요?!",
+          "utterance": "안녕하세요! 화자2님은 드라마 보는 거 좋아하세요?!",
           "utterance_id": "MDRW2100024576.1.1"
         },
         {
@@ -38311,7 +38311,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님 최애 드라마가 뭐예요?",
+          "utterance": "화자2님 최애 드라마가 뭐예요?",
           "utterance_id": "MDRW2100024576.1.5"
         },
         {
@@ -38371,7 +38371,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 어던 오리지널 보셨나요?!",
+          "utterance": "화자2님은 어던 오리지널 보셨나요?!",
           "utterance_id": "MDRW2100024576.1.17"
         },
         {
@@ -38422,7 +38422,7 @@
       "conversation": [
         {
           "speaker": 1,
-          "utterance": "안녕하세요! name2님은 드라마 보는 거 좋아하세요?!",
+          "utterance": "안녕하세요! 화자2님은 드라마 보는 거 좋아하세요?!",
           "utterance_id": "MDRW2100024576.1.1"
         },
         {
@@ -38442,7 +38442,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님 최애 드라마가 뭐예요?",
+          "utterance": "화자2님 최애 드라마가 뭐예요?",
           "utterance_id": "MDRW2100024576.1.5"
         },
         {
@@ -38502,7 +38502,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 어던 오리지널 보셨나요?!",
+          "utterance": "화자2님은 어던 오리지널 보셨나요?!",
           "utterance_id": "MDRW2100024576.1.17"
         },
         {
@@ -38578,7 +38578,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님 쪽도 바람 많이 부나요?",
+          "utterance": "화자1님 쪽도 바람 많이 부나요?",
           "utterance_id": "MDRW2100025023.1.6"
         },
         {
@@ -38628,7 +38628,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은 비오는 날 좋아하세요?",
+          "utterance": "화자1님은 비오는 날 좋아하세요?",
           "utterance_id": "MDRW2100025023.1.16"
         },
         {
@@ -38699,7 +38699,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님 쪽도 바람 많이 부나요?",
+          "utterance": "화자1님 쪽도 바람 많이 부나요?",
           "utterance_id": "MDRW2100025023.1.6"
         },
         {
@@ -38749,7 +38749,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은 비오는 날 좋아하세요?",
+          "utterance": "화자1님은 비오는 날 좋아하세요?",
           "utterance_id": "MDRW2100025023.1.16"
         },
         {
@@ -38820,7 +38820,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님 쪽도 바람 많이 부나요?",
+          "utterance": "화자1님 쪽도 바람 많이 부나요?",
           "utterance_id": "MDRW2100025023.1.6"
         },
         {
@@ -38870,7 +38870,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은 비오는 날 좋아하세요?",
+          "utterance": "화자1님은 비오는 날 좋아하세요?",
           "utterance_id": "MDRW2100025023.1.16"
         },
         {
@@ -38941,7 +38941,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님 쪽도 바람 많이 부나요?",
+          "utterance": "화자1님 쪽도 바람 많이 부나요?",
           "utterance_id": "MDRW2100025023.1.6"
         },
         {
@@ -38991,7 +38991,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은 비오는 날 좋아하세요?",
+          "utterance": "화자1님은 비오는 날 좋아하세요?",
           "utterance_id": "MDRW2100025023.1.16"
         },
         {
@@ -39047,7 +39047,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은요?",
+          "utterance": "화자1님은요?",
           "utterance_id": "MDRW2100039057.1.3"
         },
         {
@@ -39209,7 +39209,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은요?",
+          "utterance": "화자1님은요?",
           "utterance_id": "MDRW2100039057.1.3"
         },
         {
@@ -39371,7 +39371,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은요?",
+          "utterance": "화자1님은요?",
           "utterance_id": "MDRW2100039057.1.3"
         },
         {
@@ -39533,7 +39533,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은요?",
+          "utterance": "화자1님은요?",
           "utterance_id": "MDRW2100039057.1.3"
         },
         {
@@ -40373,7 +40373,7 @@
       "conversation": [
         {
           "speaker": 1,
-          "utterance": "name2님도 저랑 털친구들 얘기해요",
+          "utterance": "화자2님도 저랑 털친구들 얘기해요",
           "utterance_id": "MDRW2100004011.1.1"
         },
         {
@@ -40535,7 +40535,7 @@
       "conversation": [
         {
           "speaker": 1,
-          "utterance": "name2님도 저랑 털친구들 얘기해요",
+          "utterance": "화자2님도 저랑 털친구들 얘기해요",
           "utterance_id": "MDRW2100004011.1.1"
         },
         {
@@ -40697,7 +40697,7 @@
       "conversation": [
         {
           "speaker": 1,
-          "utterance": "name2님도 저랑 털친구들 얘기해요",
+          "utterance": "화자2님도 저랑 털친구들 얘기해요",
           "utterance_id": "MDRW2100004011.1.1"
         },
         {
@@ -40859,7 +40859,7 @@
       "conversation": [
         {
           "speaker": 1,
-          "utterance": "name2님도 저랑 털친구들 얘기해요",
+          "utterance": "화자2님도 저랑 털친구들 얘기해요",
           "utterance_id": "MDRW2100004011.1.1"
         },
         {
@@ -42099,7 +42099,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은요??",
+          "utterance": "화자2님은요??",
           "utterance_id": "MDRW2100008229.1.3"
         },
         {
@@ -42210,7 +42210,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은요??",
+          "utterance": "화자2님은요??",
           "utterance_id": "MDRW2100008229.1.3"
         },
         {
@@ -42321,7 +42321,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은요??",
+          "utterance": "화자2님은요??",
           "utterance_id": "MDRW2100008229.1.3"
         },
         {
@@ -42432,7 +42432,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은요??",
+          "utterance": "화자2님은요??",
           "utterance_id": "MDRW2100008229.1.3"
         },
         {
@@ -43938,7 +43938,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 있으세요?",
+          "utterance": "화자2님은 있으세요?",
           "utterance_id": "MDRW2100025701.1.15"
         },
         {
@@ -44069,7 +44069,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 있으세요?",
+          "utterance": "화자2님은 있으세요?",
           "utterance_id": "MDRW2100025701.1.15"
         },
         {
@@ -44200,7 +44200,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 있으세요?",
+          "utterance": "화자2님은 있으세요?",
           "utterance_id": "MDRW2100025701.1.15"
         },
         {
@@ -44331,7 +44331,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 있으세요?",
+          "utterance": "화자2님은 있으세요?",
           "utterance_id": "MDRW2100025701.1.15"
         },
         {
@@ -45410,7 +45410,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님 긴팔 개장하셨나요?!",
+          "utterance": "화자2님 긴팔 개장하셨나요?!",
           "utterance_id": "MDRW2100016719.1.3"
         },
         {
@@ -45445,7 +45445,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "네네 name2님두요!",
+          "utterance": "네네 화자2님두요!",
           "utterance_id": "MDRW2100016719.1.10"
         },
         {
@@ -45571,7 +45571,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님 긴팔 개장하셨나요?!",
+          "utterance": "화자2님 긴팔 개장하셨나요?!",
           "utterance_id": "MDRW2100016719.1.3"
         },
         {
@@ -45606,7 +45606,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "네네 name2님두요!",
+          "utterance": "네네 화자2님두요!",
           "utterance_id": "MDRW2100016719.1.10"
         },
         {
@@ -45732,7 +45732,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님 긴팔 개장하셨나요?!",
+          "utterance": "화자2님 긴팔 개장하셨나요?!",
           "utterance_id": "MDRW2100016719.1.3"
         },
         {
@@ -45767,7 +45767,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "네네 name2님두요!",
+          "utterance": "네네 화자2님두요!",
           "utterance_id": "MDRW2100016719.1.10"
         },
         {
@@ -45893,7 +45893,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님 긴팔 개장하셨나요?!",
+          "utterance": "화자2님 긴팔 개장하셨나요?!",
           "utterance_id": "MDRW2100016719.1.3"
         },
         {
@@ -45928,7 +45928,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "네네 name2님두요!",
+          "utterance": "네네 화자2님두요!",
           "utterance_id": "MDRW2100016719.1.10"
         },
         {
@@ -47773,7 +47773,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은여?",
+          "utterance": "화자1님은여?",
           "utterance_id": "MDRW2100004397.1.3"
         },
         {
@@ -47808,7 +47808,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "노래 잘부르는사람이 이상형이예요!! name2님은요?",
+          "utterance": "노래 잘부르는사람이 이상형이예요!! 화자2님은요?",
           "utterance_id": "MDRW2100004397.1.10"
         },
         {
@@ -47828,12 +47828,12 @@
         },
         {
           "speaker": 1,
-          "utterance": "그쵸그쵸! name2님은 애인이 있으신가요?",
+          "utterance": "그쵸그쵸! 화자2님은 애인이 있으신가요?",
           "utterance_id": "MDRW2100004397.1.14"
         },
         {
           "speaker": 2,
-          "utterance": "지금은없어요 ㅎㅎ name1님음여",
+          "utterance": "지금은없어요 ㅎㅎ 화자1님음여",
           "utterance_id": "MDRW2100004397.1.15"
         },
         {
@@ -47853,7 +47853,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "음 인위적인 만남도 좋은데, 요즘 세상이 흉흉해서 그냥 자제하는 편이예요. name2님은요?",
+          "utterance": "음 인위적인 만남도 좋은데, 요즘 세상이 흉흉해서 그냥 자제하는 편이예요. 화자2님은요?",
           "utterance_id": "MDRW2100004397.1.19"
         },
         {
@@ -47889,7 +47889,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은여?",
+          "utterance": "화자1님은여?",
           "utterance_id": "MDRW2100004397.1.3"
         },
         {
@@ -47924,7 +47924,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "노래 잘부르는사람이 이상형이예요!! name2님은요?",
+          "utterance": "노래 잘부르는사람이 이상형이예요!! 화자2님은요?",
           "utterance_id": "MDRW2100004397.1.10"
         },
         {
@@ -47944,12 +47944,12 @@
         },
         {
           "speaker": 1,
-          "utterance": "그쵸그쵸! name2님은 애인이 있으신가요?",
+          "utterance": "그쵸그쵸! 화자2님은 애인이 있으신가요?",
           "utterance_id": "MDRW2100004397.1.14"
         },
         {
           "speaker": 2,
-          "utterance": "지금은없어요 ㅎㅎ name1님음여",
+          "utterance": "지금은없어요 ㅎㅎ 화자1님음여",
           "utterance_id": "MDRW2100004397.1.15"
         },
         {
@@ -47969,7 +47969,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "음 인위적인 만남도 좋은데, 요즘 세상이 흉흉해서 그냥 자제하는 편이예요. name2님은요?",
+          "utterance": "음 인위적인 만남도 좋은데, 요즘 세상이 흉흉해서 그냥 자제하는 편이예요. 화자2님은요?",
           "utterance_id": "MDRW2100004397.1.19"
         },
         {
@@ -48005,7 +48005,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은여?",
+          "utterance": "화자1님은여?",
           "utterance_id": "MDRW2100004397.1.3"
         },
         {
@@ -48040,7 +48040,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "노래 잘부르는사람이 이상형이예요!! name2님은요?",
+          "utterance": "노래 잘부르는사람이 이상형이예요!! 화자2님은요?",
           "utterance_id": "MDRW2100004397.1.10"
         },
         {
@@ -48060,12 +48060,12 @@
         },
         {
           "speaker": 1,
-          "utterance": "그쵸그쵸! name2님은 애인이 있으신가요?",
+          "utterance": "그쵸그쵸! 화자2님은 애인이 있으신가요?",
           "utterance_id": "MDRW2100004397.1.14"
         },
         {
           "speaker": 2,
-          "utterance": "지금은없어요 ㅎㅎ name1님음여",
+          "utterance": "지금은없어요 ㅎㅎ 화자1님음여",
           "utterance_id": "MDRW2100004397.1.15"
         },
         {
@@ -48085,7 +48085,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "음 인위적인 만남도 좋은데, 요즘 세상이 흉흉해서 그냥 자제하는 편이예요. name2님은요?",
+          "utterance": "음 인위적인 만남도 좋은데, 요즘 세상이 흉흉해서 그냥 자제하는 편이예요. 화자2님은요?",
           "utterance_id": "MDRW2100004397.1.19"
         },
         {
@@ -48121,7 +48121,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은여?",
+          "utterance": "화자1님은여?",
           "utterance_id": "MDRW2100004397.1.3"
         },
         {
@@ -48156,7 +48156,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "노래 잘부르는사람이 이상형이예요!! name2님은요?",
+          "utterance": "노래 잘부르는사람이 이상형이예요!! 화자2님은요?",
           "utterance_id": "MDRW2100004397.1.10"
         },
         {
@@ -48176,12 +48176,12 @@
         },
         {
           "speaker": 1,
-          "utterance": "그쵸그쵸! name2님은 애인이 있으신가요?",
+          "utterance": "그쵸그쵸! 화자2님은 애인이 있으신가요?",
           "utterance_id": "MDRW2100004397.1.14"
         },
         {
           "speaker": 2,
-          "utterance": "지금은없어요 ㅎㅎ name1님음여",
+          "utterance": "지금은없어요 ㅎㅎ 화자1님음여",
           "utterance_id": "MDRW2100004397.1.15"
         },
         {
@@ -48201,7 +48201,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "음 인위적인 만남도 좋은데, 요즘 세상이 흉흉해서 그냥 자제하는 편이예요. name2님은요?",
+          "utterance": "음 인위적인 만남도 좋은데, 요즘 세상이 흉흉해서 그냥 자제하는 편이예요. 화자2님은요?",
           "utterance_id": "MDRW2100004397.1.19"
         },
         {
@@ -54667,7 +54667,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은요?",
+          "utterance": "화자2님은요?",
           "utterance_id": "MDRW2100038669.1.3"
         },
         {
@@ -54682,7 +54682,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은 평소에 어떤 스타일을 좋아하시나요??",
+          "utterance": "화자1님은 평소에 어떤 스타일을 좋아하시나요??",
           "utterance_id": "MDRW2100038669.1.6"
         },
         {
@@ -54803,7 +54803,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은요?",
+          "utterance": "화자2님은요?",
           "utterance_id": "MDRW2100038669.1.3"
         },
         {
@@ -54818,7 +54818,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은 평소에 어떤 스타일을 좋아하시나요??",
+          "utterance": "화자1님은 평소에 어떤 스타일을 좋아하시나요??",
           "utterance_id": "MDRW2100038669.1.6"
         },
         {
@@ -54939,7 +54939,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은요?",
+          "utterance": "화자2님은요?",
           "utterance_id": "MDRW2100038669.1.3"
         },
         {
@@ -54954,7 +54954,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은 평소에 어떤 스타일을 좋아하시나요??",
+          "utterance": "화자1님은 평소에 어떤 스타일을 좋아하시나요??",
           "utterance_id": "MDRW2100038669.1.6"
         },
         {
@@ -55075,7 +55075,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은요?",
+          "utterance": "화자2님은요?",
           "utterance_id": "MDRW2100038669.1.3"
         },
         {
@@ -55090,7 +55090,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은 평소에 어떤 스타일을 좋아하시나요??",
+          "utterance": "화자1님은 평소에 어떤 스타일을 좋아하시나요??",
           "utterance_id": "MDRW2100038669.1.6"
         },
         {
@@ -55211,7 +55211,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은요?",
+          "utterance": "화자2님은요?",
           "utterance_id": "MDRW2100038669.1.3"
         },
         {
@@ -55226,7 +55226,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은 평소에 어떤 스타일을 좋아하시나요??",
+          "utterance": "화자1님은 평소에 어떤 스타일을 좋아하시나요??",
           "utterance_id": "MDRW2100038669.1.6"
         },
         {
@@ -56927,7 +56927,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 적금 안드셔도 부자일 것 같은 스멜이. 이름따라간다니까 대박나시길 바랄게요",
+          "utterance": "화자2님은 적금 안드셔도 부자일 것 같은 스멜이. 이름따라간다니까 대박나시길 바랄게요",
           "utterance_id": "MDRW2100046786.1.27"
         },
         {
@@ -57083,7 +57083,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 적금 안드셔도 부자일 것 같은 스멜이. 이름따라간다니까 대박나시길 바랄게요",
+          "utterance": "화자2님은 적금 안드셔도 부자일 것 같은 스멜이. 이름따라간다니까 대박나시길 바랄게요",
           "utterance_id": "MDRW2100046786.1.27"
         },
         {
@@ -57239,7 +57239,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 적금 안드셔도 부자일 것 같은 스멜이. 이름따라간다니까 대박나시길 바랄게요",
+          "utterance": "화자2님은 적금 안드셔도 부자일 것 같은 스멜이. 이름따라간다니까 대박나시길 바랄게요",
           "utterance_id": "MDRW2100046786.1.27"
         },
         {
@@ -57395,7 +57395,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 적금 안드셔도 부자일 것 같은 스멜이. 이름따라간다니까 대박나시길 바랄게요",
+          "utterance": "화자2님은 적금 안드셔도 부자일 것 같은 스멜이. 이름따라간다니까 대박나시길 바랄게요",
           "utterance_id": "MDRW2100046786.1.27"
         },
         {
@@ -57551,7 +57551,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 적금 안드셔도 부자일 것 같은 스멜이. 이름따라간다니까 대박나시길 바랄게요",
+          "utterance": "화자2님은 적금 안드셔도 부자일 것 같은 스멜이. 이름따라간다니까 대박나시길 바랄게요",
           "utterance_id": "MDRW2100046786.1.27"
         },
         {
@@ -58689,7 +58689,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "졸업했어요 ㅋㅋ name1님은요?",
+          "utterance": "졸업했어요 ㅋㅋ 화자1님은요?",
           "utterance_id": "MDRW2100034581.1.2"
         },
         {
@@ -58815,7 +58815,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "졸업했어요 ㅋㅋ name1님은요?",
+          "utterance": "졸업했어요 ㅋㅋ 화자1님은요?",
           "utterance_id": "MDRW2100034581.1.2"
         },
         {
@@ -58941,7 +58941,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "졸업했어요 ㅋㅋ name1님은요?",
+          "utterance": "졸업했어요 ㅋㅋ 화자1님은요?",
           "utterance_id": "MDRW2100034581.1.2"
         },
         {
@@ -61183,7 +61183,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "홈트는 3일 런데이는 2일 정도 하는 것 같네요! name2은요?",
+          "utterance": "홈트는 3일 런데이는 2일 정도 하는 것 같네요! 화자2은요?",
           "utterance_id": "MDRW2100011707.1.12"
         },
         {
@@ -61269,7 +61269,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "홈트는 3일 런데이는 2일 정도 하는 것 같네요! name2은요?",
+          "utterance": "홈트는 3일 런데이는 2일 정도 하는 것 같네요! 화자2은요?",
           "utterance_id": "MDRW2100011707.1.12"
         },
         {
@@ -61355,7 +61355,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "홈트는 3일 런데이는 2일 정도 하는 것 같네요! name2은요?",
+          "utterance": "홈트는 3일 런데이는 2일 정도 하는 것 같네요! 화자2은요?",
           "utterance_id": "MDRW2100011707.1.12"
         },
         {
@@ -61441,7 +61441,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "홈트는 3일 런데이는 2일 정도 하는 것 같네요! name2은요?",
+          "utterance": "홈트는 3일 런데이는 2일 정도 하는 것 같네요! 화자2은요?",
           "utterance_id": "MDRW2100011707.1.12"
         },
         {
@@ -61527,7 +61527,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "홈트는 3일 런데이는 2일 정도 하는 것 같네요! name2은요?",
+          "utterance": "홈트는 3일 런데이는 2일 정도 하는 것 같네요! 화자2은요?",
           "utterance_id": "MDRW2100011707.1.12"
         },
         {
@@ -62448,7 +62448,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "그럼 name2는 에릭파야??",
+          "utterance": "그럼 화자2는 에릭파야??",
           "utterance_id": "MDRW2100005590.1.16"
         },
         {
@@ -62574,7 +62574,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "그럼 name2는 에릭파야??",
+          "utterance": "그럼 화자2는 에릭파야??",
           "utterance_id": "MDRW2100005590.1.16"
         },
         {
@@ -62700,7 +62700,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "그럼 name2는 에릭파야??",
+          "utterance": "그럼 화자2는 에릭파야??",
           "utterance_id": "MDRW2100005590.1.16"
         },
         {
@@ -62826,7 +62826,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "그럼 name2는 에릭파야??",
+          "utterance": "그럼 화자2는 에릭파야??",
           "utterance_id": "MDRW2100005590.1.16"
         },
         {
@@ -62952,7 +62952,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "그럼 name2는 에릭파야??",
+          "utterance": "그럼 화자2는 에릭파야??",
           "utterance_id": "MDRW2100005590.1.16"
         },
         {
@@ -64658,7 +64658,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님 밥 뭐 좋아하셔요!",
+          "utterance": "화자1님 밥 뭐 좋아하셔요!",
           "utterance_id": "MDRW2100038387.1.4"
         },
         {
@@ -64688,7 +64688,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은여?",
+          "utterance": "화자2님은여?",
           "utterance_id": "MDRW2100038387.1.10"
         },
         {
@@ -64738,7 +64738,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님 마라탕 맵게 드세요!?!",
+          "utterance": "화자1님 마라탕 맵게 드세요!?!",
           "utterance_id": "MDRW2100038387.1.20"
         },
         {
@@ -64804,7 +64804,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님 밥 뭐 좋아하셔요!",
+          "utterance": "화자1님 밥 뭐 좋아하셔요!",
           "utterance_id": "MDRW2100038387.1.4"
         },
         {
@@ -64834,7 +64834,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은여?",
+          "utterance": "화자2님은여?",
           "utterance_id": "MDRW2100038387.1.10"
         },
         {
@@ -64884,7 +64884,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님 마라탕 맵게 드세요!?!",
+          "utterance": "화자1님 마라탕 맵게 드세요!?!",
           "utterance_id": "MDRW2100038387.1.20"
         },
         {
@@ -64950,7 +64950,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님 밥 뭐 좋아하셔요!",
+          "utterance": "화자1님 밥 뭐 좋아하셔요!",
           "utterance_id": "MDRW2100038387.1.4"
         },
         {
@@ -64980,7 +64980,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은여?",
+          "utterance": "화자2님은여?",
           "utterance_id": "MDRW2100038387.1.10"
         },
         {
@@ -65030,7 +65030,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님 마라탕 맵게 드세요!?!",
+          "utterance": "화자1님 마라탕 맵게 드세요!?!",
           "utterance_id": "MDRW2100038387.1.20"
         },
         {
@@ -65096,7 +65096,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님 밥 뭐 좋아하셔요!",
+          "utterance": "화자1님 밥 뭐 좋아하셔요!",
           "utterance_id": "MDRW2100038387.1.4"
         },
         {
@@ -65126,7 +65126,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은여?",
+          "utterance": "화자2님은여?",
           "utterance_id": "MDRW2100038387.1.10"
         },
         {
@@ -65176,7 +65176,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님 마라탕 맵게 드세요!?!",
+          "utterance": "화자1님 마라탕 맵게 드세요!?!",
           "utterance_id": "MDRW2100038387.1.20"
         },
         {
@@ -65242,7 +65242,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님 밥 뭐 좋아하셔요!",
+          "utterance": "화자1님 밥 뭐 좋아하셔요!",
           "utterance_id": "MDRW2100038387.1.4"
         },
         {
@@ -65272,7 +65272,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은여?",
+          "utterance": "화자2님은여?",
           "utterance_id": "MDRW2100038387.1.10"
         },
         {
@@ -65322,7 +65322,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님 마라탕 맵게 드세요!?!",
+          "utterance": "화자1님 마라탕 맵게 드세요!?!",
           "utterance_id": "MDRW2100038387.1.20"
         },
         {
@@ -65378,7 +65378,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "아뇨. name1은요?",
+          "utterance": "아뇨. 화자1은요?",
           "utterance_id": "MDRW2100022159.1.2"
         },
         {
@@ -65393,7 +65393,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "저 한번도 없어요ㅋㅋ name2은요?",
+          "utterance": "저 한번도 없어요ㅋㅋ 화자2은요?",
           "utterance_id": "MDRW2100022159.1.5"
         },
         {
@@ -65438,7 +65438,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "네! 남동생있습니다. name1은요??",
+          "utterance": "네! 남동생있습니다. 화자1은요??",
           "utterance_id": "MDRW2100022159.1.14"
         },
         {
@@ -65469,7 +65469,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "아뇨. name1은요?",
+          "utterance": "아뇨. 화자1은요?",
           "utterance_id": "MDRW2100022159.1.2"
         },
         {
@@ -65484,7 +65484,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "저 한번도 없어요ㅋㅋ name2은요?",
+          "utterance": "저 한번도 없어요ㅋㅋ 화자2은요?",
           "utterance_id": "MDRW2100022159.1.5"
         },
         {
@@ -65529,7 +65529,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "네! 남동생있습니다. name1은요??",
+          "utterance": "네! 남동생있습니다. 화자1은요??",
           "utterance_id": "MDRW2100022159.1.14"
         },
         {
@@ -65560,7 +65560,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "아뇨. name1은요?",
+          "utterance": "아뇨. 화자1은요?",
           "utterance_id": "MDRW2100022159.1.2"
         },
         {
@@ -65575,7 +65575,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "저 한번도 없어요ㅋㅋ name2은요?",
+          "utterance": "저 한번도 없어요ㅋㅋ 화자2은요?",
           "utterance_id": "MDRW2100022159.1.5"
         },
         {
@@ -65620,7 +65620,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "네! 남동생있습니다. name1은요??",
+          "utterance": "네! 남동생있습니다. 화자1은요??",
           "utterance_id": "MDRW2100022159.1.14"
         },
         {
@@ -65651,7 +65651,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "아뇨. name1은요?",
+          "utterance": "아뇨. 화자1은요?",
           "utterance_id": "MDRW2100022159.1.2"
         },
         {
@@ -65666,7 +65666,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "저 한번도 없어요ㅋㅋ name2은요?",
+          "utterance": "저 한번도 없어요ㅋㅋ 화자2은요?",
           "utterance_id": "MDRW2100022159.1.5"
         },
         {
@@ -65711,7 +65711,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "네! 남동생있습니다. name1은요??",
+          "utterance": "네! 남동생있습니다. 화자1은요??",
           "utterance_id": "MDRW2100022159.1.14"
         },
         {
@@ -65742,7 +65742,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "아뇨. name1은요?",
+          "utterance": "아뇨. 화자1은요?",
           "utterance_id": "MDRW2100022159.1.2"
         },
         {
@@ -65757,7 +65757,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "저 한번도 없어요ㅋㅋ name2은요?",
+          "utterance": "저 한번도 없어요ㅋㅋ 화자2은요?",
           "utterance_id": "MDRW2100022159.1.5"
         },
         {
@@ -65802,7 +65802,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "네! 남동생있습니다. name1은요??",
+          "utterance": "네! 남동생있습니다. 화자1은요??",
           "utterance_id": "MDRW2100022159.1.14"
         },
         {
@@ -66373,7 +66373,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 생일에 어떻게 먹나요?",
+          "utterance": "화자2님은 생일에 어떻게 먹나요?",
           "utterance_id": "MDRW2100009203.1.4"
         },
         {
@@ -66494,7 +66494,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 생일에 어떻게 먹나요?",
+          "utterance": "화자2님은 생일에 어떻게 먹나요?",
           "utterance_id": "MDRW2100009203.1.4"
         },
         {
@@ -66615,7 +66615,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 생일에 어떻게 먹나요?",
+          "utterance": "화자2님은 생일에 어떻게 먹나요?",
           "utterance_id": "MDRW2100009203.1.4"
         },
         {
@@ -66736,7 +66736,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 생일에 어떻게 먹나요?",
+          "utterance": "화자2님은 생일에 어떻게 먹나요?",
           "utterance_id": "MDRW2100009203.1.4"
         },
         {
@@ -66857,7 +66857,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 생일에 어떻게 먹나요?",
+          "utterance": "화자2님은 생일에 어떻게 먹나요?",
           "utterance_id": "MDRW2100009203.1.4"
         },
         {
@@ -67553,7 +67553,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2 지역은 어떠신가요",
+          "utterance": "화자2 지역은 어떠신가요",
           "utterance_id": "MDRW2100013310.1.3"
         },
         {
@@ -67670,7 +67670,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2 지역은 어떠신가요",
+          "utterance": "화자2 지역은 어떠신가요",
           "utterance_id": "MDRW2100013310.1.3"
         },
         {
@@ -67787,7 +67787,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2 지역은 어떠신가요",
+          "utterance": "화자2 지역은 어떠신가요",
           "utterance_id": "MDRW2100013310.1.3"
         },
         {
@@ -67904,7 +67904,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2 지역은 어떠신가요",
+          "utterance": "화자2 지역은 어떠신가요",
           "utterance_id": "MDRW2100013310.1.3"
         },
         {
@@ -71738,7 +71738,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은요",
+          "utterance": "화자1님은요",
           "utterance_id": "MDRW2100014705.1.18"
         },
         {
@@ -71860,7 +71860,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은요",
+          "utterance": "화자1님은요",
           "utterance_id": "MDRW2100014705.1.18"
         },
         {
@@ -71982,7 +71982,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은요",
+          "utterance": "화자1님은요",
           "utterance_id": "MDRW2100014705.1.18"
         },
         {
@@ -72104,7 +72104,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은요",
+          "utterance": "화자1님은요",
           "utterance_id": "MDRW2100014705.1.18"
         },
         {
@@ -72226,7 +72226,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은요",
+          "utterance": "화자1님은요",
           "utterance_id": "MDRW2100014705.1.18"
         },
         {
@@ -74718,7 +74718,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은여?",
+          "utterance": "화자1님은여?",
           "utterance_id": "MDRW2100028083.1.2"
         },
         {
@@ -74854,7 +74854,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은여?",
+          "utterance": "화자1님은여?",
           "utterance_id": "MDRW2100028083.1.2"
         },
         {
@@ -74990,7 +74990,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은여?",
+          "utterance": "화자1님은여?",
           "utterance_id": "MDRW2100028083.1.2"
         },
         {
@@ -75126,7 +75126,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은여?",
+          "utterance": "화자1님은여?",
           "utterance_id": "MDRW2100028083.1.2"
         },
         {
@@ -75262,7 +75262,7 @@
         },
         {
           "speaker": 2,
-          "utterance": "name1님은여?",
+          "utterance": "화자1님은여?",
           "utterance_id": "MDRW2100028083.1.2"
         },
         {
@@ -77833,7 +77833,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님 저 눈이 넘 피곤해서",
+          "utterance": "화자2님 저 눈이 넘 피곤해서",
           "utterance_id": "MDRW2100017902.1.28"
         },
         {
@@ -77994,7 +77994,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님 저 눈이 넘 피곤해서",
+          "utterance": "화자2님 저 눈이 넘 피곤해서",
           "utterance_id": "MDRW2100017902.1.28"
         },
         {
@@ -78155,7 +78155,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님 저 눈이 넘 피곤해서",
+          "utterance": "화자2님 저 눈이 넘 피곤해서",
           "utterance_id": "MDRW2100017902.1.28"
         },
         {
@@ -78316,7 +78316,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님 저 눈이 넘 피곤해서",
+          "utterance": "화자2님 저 눈이 넘 피곤해서",
           "utterance_id": "MDRW2100017902.1.28"
         },
         {
@@ -78477,7 +78477,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님 저 눈이 넘 피곤해서",
+          "utterance": "화자2님 저 눈이 넘 피곤해서",
           "utterance_id": "MDRW2100017902.1.28"
         },
         {
@@ -83106,7 +83106,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "너무 좋아요 name1님이 제일 좋아하는 치킨은 어느건가요?",
+          "utterance": "너무 좋아요 화자1님이 제일 좋아하는 치킨은 어느건가요?",
           "utterance_id": "MDRW2100030041.1.5"
         },
         {
@@ -83257,7 +83257,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "너무 좋아요 name1님이 제일 좋아하는 치킨은 어느건가요?",
+          "utterance": "너무 좋아요 화자1님이 제일 좋아하는 치킨은 어느건가요?",
           "utterance_id": "MDRW2100030041.1.5"
         },
         {
@@ -83408,7 +83408,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "너무 좋아요 name1님이 제일 좋아하는 치킨은 어느건가요?",
+          "utterance": "너무 좋아요 화자1님이 제일 좋아하는 치킨은 어느건가요?",
           "utterance_id": "MDRW2100030041.1.5"
         },
         {
@@ -83559,7 +83559,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "너무 좋아요 name1님이 제일 좋아하는 치킨은 어느건가요?",
+          "utterance": "너무 좋아요 화자1님이 제일 좋아하는 치킨은 어느건가요?",
           "utterance_id": "MDRW2100030041.1.5"
         },
         {
@@ -83710,7 +83710,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "너무 좋아요 name1님이 제일 좋아하는 치킨은 어느건가요?",
+          "utterance": "너무 좋아요 화자1님이 제일 좋아하는 치킨은 어느건가요?",
           "utterance_id": "MDRW2100030041.1.5"
         },
         {
@@ -88145,7 +88145,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 어디가 기억에 남으시나요??",
+          "utterance": "화자2님은 어디가 기억에 남으시나요??",
           "utterance_id": "MDRW2100015061.1.16"
         },
         {
@@ -88286,7 +88286,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 어디가 기억에 남으시나요??",
+          "utterance": "화자2님은 어디가 기억에 남으시나요??",
           "utterance_id": "MDRW2100015061.1.16"
         },
         {
@@ -88427,7 +88427,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 어디가 기억에 남으시나요??",
+          "utterance": "화자2님은 어디가 기억에 남으시나요??",
           "utterance_id": "MDRW2100015061.1.16"
         },
         {
@@ -88568,7 +88568,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 어디가 기억에 남으시나요??",
+          "utterance": "화자2님은 어디가 기억에 남으시나요??",
           "utterance_id": "MDRW2100015061.1.16"
         },
         {
@@ -88709,7 +88709,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "name2님은 어디가 기억에 남으시나요??",
+          "utterance": "화자2님은 어디가 기억에 남으시나요??",
           "utterance_id": "MDRW2100015061.1.16"
         },
         {
@@ -88775,7 +88775,7 @@
       "conversation": [
         {
           "speaker": 1,
-          "utterance": "name2님은 혼자 사시나요?",
+          "utterance": "화자2님은 혼자 사시나요?",
           "utterance_id": "MDRW2100013766.1.1"
         },
         {
@@ -88795,7 +88795,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "전 한 10년동안 나가 살다가 다시 고향으로 오면서 가족들이랑 살게됐어요 ㅎㅎ name2님은 자취해보셨나요?",
+          "utterance": "전 한 10년동안 나가 살다가 다시 고향으로 오면서 가족들이랑 살게됐어요 ㅎㅎ 화자2님은 자취해보셨나요?",
           "utterance_id": "MDRW2100013766.1.5"
         },
         {
@@ -88856,7 +88856,7 @@
       "conversation": [
         {
           "speaker": 1,
-          "utterance": "name2님은 혼자 사시나요?",
+          "utterance": "화자2님은 혼자 사시나요?",
           "utterance_id": "MDRW2100013766.1.1"
         },
         {
@@ -88876,7 +88876,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "전 한 10년동안 나가 살다가 다시 고향으로 오면서 가족들이랑 살게됐어요 ㅎㅎ name2님은 자취해보셨나요?",
+          "utterance": "전 한 10년동안 나가 살다가 다시 고향으로 오면서 가족들이랑 살게됐어요 ㅎㅎ 화자2님은 자취해보셨나요?",
           "utterance_id": "MDRW2100013766.1.5"
         },
         {
@@ -88937,7 +88937,7 @@
       "conversation": [
         {
           "speaker": 1,
-          "utterance": "name2님은 혼자 사시나요?",
+          "utterance": "화자2님은 혼자 사시나요?",
           "utterance_id": "MDRW2100013766.1.1"
         },
         {
@@ -88957,7 +88957,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "전 한 10년동안 나가 살다가 다시 고향으로 오면서 가족들이랑 살게됐어요 ㅎㅎ name2님은 자취해보셨나요?",
+          "utterance": "전 한 10년동안 나가 살다가 다시 고향으로 오면서 가족들이랑 살게됐어요 ㅎㅎ 화자2님은 자취해보셨나요?",
           "utterance_id": "MDRW2100013766.1.5"
         },
         {
@@ -89018,7 +89018,7 @@
       "conversation": [
         {
           "speaker": 1,
-          "utterance": "name2님은 혼자 사시나요?",
+          "utterance": "화자2님은 혼자 사시나요?",
           "utterance_id": "MDRW2100013766.1.1"
         },
         {
@@ -89038,7 +89038,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "전 한 10년동안 나가 살다가 다시 고향으로 오면서 가족들이랑 살게됐어요 ㅎㅎ name2님은 자취해보셨나요?",
+          "utterance": "전 한 10년동안 나가 살다가 다시 고향으로 오면서 가족들이랑 살게됐어요 ㅎㅎ 화자2님은 자취해보셨나요?",
           "utterance_id": "MDRW2100013766.1.5"
         },
         {
@@ -89099,7 +89099,7 @@
       "conversation": [
         {
           "speaker": 1,
-          "utterance": "name2님은 혼자 사시나요?",
+          "utterance": "화자2님은 혼자 사시나요?",
           "utterance_id": "MDRW2100013766.1.1"
         },
         {
@@ -89119,7 +89119,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "전 한 10년동안 나가 살다가 다시 고향으로 오면서 가족들이랑 살게됐어요 ㅎㅎ name2님은 자취해보셨나요?",
+          "utterance": "전 한 10년동안 나가 살다가 다시 고향으로 오면서 가족들이랑 살게됐어요 ㅎㅎ 화자2님은 자취해보셨나요?",
           "utterance_id": "MDRW2100013766.1.5"
         },
         {
@@ -89790,7 +89790,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "네 거리도 있고 명절에나 찾아뵀었는데.. 또 코로나라 평상시도 가기 쉽지않고 이래저래 그렇네요~ name2은 원래 명절에 장거리이동 안하시나요?",
+          "utterance": "네 거리도 있고 명절에나 찾아뵀었는데.. 또 코로나라 평상시도 가기 쉽지않고 이래저래 그렇네요~ 화자2은 원래 명절에 장거리이동 안하시나요?",
           "utterance_id": "MDRW2100006026.1.12"
         },
         {
@@ -89805,7 +89805,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "이젠 name2의 할머니댁까진 안가시나요?",
+          "utterance": "이젠 화자2의 할머니댁까진 안가시나요?",
           "utterance_id": "MDRW2100006026.1.15"
         },
         {
@@ -89891,7 +89891,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "네 거리도 있고 명절에나 찾아뵀었는데.. 또 코로나라 평상시도 가기 쉽지않고 이래저래 그렇네요~ name2은 원래 명절에 장거리이동 안하시나요?",
+          "utterance": "네 거리도 있고 명절에나 찾아뵀었는데.. 또 코로나라 평상시도 가기 쉽지않고 이래저래 그렇네요~ 화자2은 원래 명절에 장거리이동 안하시나요?",
           "utterance_id": "MDRW2100006026.1.12"
         },
         {
@@ -89906,7 +89906,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "이젠 name2의 할머니댁까진 안가시나요?",
+          "utterance": "이젠 화자2의 할머니댁까진 안가시나요?",
           "utterance_id": "MDRW2100006026.1.15"
         },
         {
@@ -89992,7 +89992,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "네 거리도 있고 명절에나 찾아뵀었는데.. 또 코로나라 평상시도 가기 쉽지않고 이래저래 그렇네요~ name2은 원래 명절에 장거리이동 안하시나요?",
+          "utterance": "네 거리도 있고 명절에나 찾아뵀었는데.. 또 코로나라 평상시도 가기 쉽지않고 이래저래 그렇네요~ 화자2은 원래 명절에 장거리이동 안하시나요?",
           "utterance_id": "MDRW2100006026.1.12"
         },
         {
@@ -90007,7 +90007,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "이젠 name2의 할머니댁까진 안가시나요?",
+          "utterance": "이젠 화자2의 할머니댁까진 안가시나요?",
           "utterance_id": "MDRW2100006026.1.15"
         },
         {
@@ -90093,7 +90093,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "네 거리도 있고 명절에나 찾아뵀었는데.. 또 코로나라 평상시도 가기 쉽지않고 이래저래 그렇네요~ name2은 원래 명절에 장거리이동 안하시나요?",
+          "utterance": "네 거리도 있고 명절에나 찾아뵀었는데.. 또 코로나라 평상시도 가기 쉽지않고 이래저래 그렇네요~ 화자2은 원래 명절에 장거리이동 안하시나요?",
           "utterance_id": "MDRW2100006026.1.12"
         },
         {
@@ -90108,7 +90108,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "이젠 name2의 할머니댁까진 안가시나요?",
+          "utterance": "이젠 화자2의 할머니댁까진 안가시나요?",
           "utterance_id": "MDRW2100006026.1.15"
         },
         {
@@ -90194,7 +90194,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "네 거리도 있고 명절에나 찾아뵀었는데.. 또 코로나라 평상시도 가기 쉽지않고 이래저래 그렇네요~ name2은 원래 명절에 장거리이동 안하시나요?",
+          "utterance": "네 거리도 있고 명절에나 찾아뵀었는데.. 또 코로나라 평상시도 가기 쉽지않고 이래저래 그렇네요~ 화자2은 원래 명절에 장거리이동 안하시나요?",
           "utterance_id": "MDRW2100006026.1.12"
         },
         {
@@ -90209,7 +90209,7 @@
         },
         {
           "speaker": 1,
-          "utterance": "이젠 name2의 할머니댁까진 안가시나요?",
+          "utterance": "이젠 화자2의 할머니댁까진 안가시나요?",
           "utterance_id": "MDRW2100006026.1.15"
         },
         {
