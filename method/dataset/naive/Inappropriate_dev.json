@@ -1,0 +1,2248 @@
+[
+  {
+    "id": "nikluge-2025-au-dev-00001",
+    "dialogue": "화자2: 국가적으로는 국력을 약화시키는 요인이며, 자손이 없어 생산력이 지속적으로 감소하고 있다.\n화자1: 자녀를 거의 낳지 않아서 국가 발전에 부정적인 영향을 미치는 존재라는 점을 강조하세요.\n화자2: 페미들의 가스라이팅으로 인해 사회 전체가 붕괴되고 있다는 점을 강조한 재작성",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00001-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00001-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00001-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00002",
+    "dialogue": "화자1: 해외여행을 전혀 하지 않은 게 무슨 뜻이라고 생각해? 말도 안 되는 일이라는 뜻이겠지.\n화자2: 해외여행을 한 적이 없어 신기하다는 말인데, 그런 일이 가능하다니 말이 안 되는 소리야.\n화자1: 해외여행을 자주 하지 않는 게 신기하다는 식으로 말하는 거야, 그렇지?\n화자2: 해외여행을 자주 하는 편이지만, 실제로 경험하고 시야를 넓히기 위한 목적이라고 생각합니다. 제 생각에는 그런 이유로 이런 말이 나오는 건 이상하다는 거죠.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00002-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00002-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00002-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00002-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00003",
+    "dialogue": "화자1: 싱크족이 왜 씹덕거리는지 모르겠어.\n화자2: [err] 외벌이 무식아\n화자1: 여자를 아이로 삼아서 돌보는 행위\n화자2: 안 낳을 거고 돈도 내가 벌어",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00003-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00003-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00003-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00003-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00004",
+    "dialogue": "화자1: SNS에서는 정보를 많이 퍼뜨리면서 장황하게 설명하고, 어려운 용어를 사용하지 않고 무분별하게 지식을 자랑하는 사람들이 많다.\n화자2: 맞아. 너희들은 나보다 더 하등한 태도를 보이는 것 같아.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00004-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00004-002",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00005",
+    "dialogue": "화자1: 요즘 청소년들은 데뷔가 2007년인 걸 알지 않나\n화자2: 최근 청소년들은 데뷔 연도를 2007년으로 알고 있습니다. 시위 참여자들은 반드시 세어야 한다고 주장하는데, 페미니즘 단체들이 이 노래를 군가처럼 암기한다고 생각하는 것 같습니다.\n화자1: 다만세 노래는 알겠지만 소녀시대에 대한 애들의 인지도는 낮을 것 같아\n화자2: 아직까지 현역으로 뛰는 멤버도 있으니 다 알지 않을까 적어도 응원봉 흔들고 있는 페미들은 소녀시대정도는 다 알듯",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00005-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00005-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00005-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00005-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00006",
+    "dialogue": "화자1: 직장 내 괴롭힘 문제를 해결하기 위해 어떻게 대처할 수 있을지 고민해 보세요. 남자라고 강요하는 일을 맡게 되면서 실수할 때마다 큰 어려움을 겪고 있다는 점이 걱정됩니다.\n화자2: 여초회사 내에서 지속되는 직장 내 괴롭힘 문제는 증거 확보와 인사부서에 적극적인 개입이 필요합니다.\n화자1: 거절하며 단호하게 말하세요.\n화자2: 휴식 후 이직을 고려해볼 만하겠네요.\n화자1: 정말 퇴사 각 잡아야겠어. 그러다 힘들 것 같아.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00006-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00006-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00006-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00006-004",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00006-005",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00007",
+    "dialogue": "화자1: 직장인은 갑옷처럼 실력과 이미지를 잘 관리해야 성공할 수 있다.\n화자2: 난 단벌 신사급이라고 생각해.\n화자1: 실력이 없어도 옷을 잘 입으면 중간급이 되지만, 실력과 옷 모두 부족하면 성공 가능성 자체가 없음",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00007-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00007-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00007-003",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00008",
+    "dialogue": "화자1: 아시아 최초의 노벨 문학상 수상자를 방금 확인했습니다. 축하합니다!\n화자2: 아시아 최초의 노벨 문학상 수상자라는 사실을 알게 되어 축하해!\n화자1: 2016년 출간된 채식주의자가 전 세계적으로 68만 부 이상 판매되었으며, 이는 수상 기준으로 적절하다고 판단됩니다.\n화자2: 아시아 최초의 노벨 문학상 수상자라는 사실을 방금 알게 됐는데, 정말 의미 있는 일이었어!",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00008-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00008-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00008-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00008-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00009",
+    "dialogue": "화자1: 해외 여행 경험이 없어 놀리는 건 너무 부적절한 행동이라는 생각이 들어요.\n화자2: 그쵸. 그냥 wherever you are, just exist.\n화자1: 해외 못 가봤다는 걸 놀리는 건 진짜 저급한 행동이라는 거야\n화자2: 국민들이 저급해지는 현상을 보여주는 증거라",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00009-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00009-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00009-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00009-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00010",
+    "dialogue": "화자1: 어제 깨어났는데 열불 같은 느낌으로 열어 죽을 뻔했어.\n화자2: 어제 열이 나서 죽을 뻔했어.\n화자1: 티배깅은 재미도 없고 예의도 없이 발생했어. 그러다 보니 Ninggen들이 너무 무시하는 모습이 보였지. 결국 우리 팀이 승리하면서 큰 이득을 얻었어.\n화자2: 복수 승리! 내 몸도 이제 해방됐어.\n화자1: 티배깅이 예의 없는 행동이라 팀이 이기면서 이득이었음\n화자2: 게임 실력도 없고 인성도 없는 사람들이 계속 따라했다.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00010-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00010-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00010-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00010-004",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00010-005",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00010-006",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00011",
+    "dialogue": "화자1: 남 밑에서 일하는 게 너무 당연해서 회사에서 강제로 일하게 되었어. 그러다 보니 제대로 일할 기회조차 없는 거야.\n화자2: 남 밑에서 일하는 게 너무 당연해서 회사에서 쫓겨났는데, 그런 삶을 살 수 있을까?\n화자1: [err] 지잡대 나와서 뺑이치고 살라니 삶이 고역이다.\n화자2: 남의 일을 하는 게 당연하지 않아서 회사에서 쫓겨났어. 그런 삶을 살 수 있을까?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00011-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00011-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00011-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00011-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00012",
+    "dialogue": "화자1: 그 내용을 그대로 받아들이는 팬들도 문제가 되지 않는다는 말인가요?\n화자2: 팬들의 반응을 무시하고 문제를 회피하는 행동은 부적절하다는 점을 지적하며, 다른 사람의 실수를 탓하는 태도와 유사하다고 비판합니다.\n화자1: 아이돌 앨범 사는 건 본인의 선택이지만, 그 행위 자체가 문제가 되는 건 아니에요. 팬들의 오해를 역이용해 행동하는 건 명백한 잘못이죠.\n화자2: [err] 소줏값 인상했다고 사람들이 소주를 안 먹을까요? 팬들은 아티스트 때문에 욕하면서도 사는 거고. 헛소리 좀 작작 하세요",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00012-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00012-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00012-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00012-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00013",
+    "dialogue": "화자1: 노인들에 대한 편견과 혐오가 확산되면서 극우 성향이 강화되고 있다는 점을 지적합니다.\n화자2: 노인들의 어려움과 소외감이 사회적 문제로 대두되고 있어 극우 성향이 강화되는 현상에 대해 지적하셨습니다.\n화자1: 노인들의 고립감과 혐오 표현이 확산되는 현상에 대해 지적하며, 실제 어려움을 겪는 노인들의 사례를 들어 설명했습니다.\n화자2: [err] 이대남 극우화도 비슷한 이유인 듯.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00013-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00013-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00013-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00013-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00014",
+    "dialogue": "화자1: 요즘 왜 이렇게arcissist들이 많은데?\n화자2: 왜 이렇게 이기적인 사람들이 많아?\n화자1: 살면서 가장 피해야 하는 부류들은 남에게 아무 일도 신경 쓰지 않는 나르시시스트들임\n화자2: 나르시시스트는 지능이 낮고 이기적인 성격을 가진 사람들이라고 할 수 있다.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00014-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00014-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00014-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00014-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00015",
+    "dialogue": "화자1: 21세기 현대의학으로도 알러지 증상 '완화'만 되지 않고 근본적인 해결이 어렵다는 점을 인정하지 않는다는 비판이 있네.\n화자2: 면역 치료로 인해 알러지 반응이 약해지는 현상을 설명하는 것으로 이해됩니다.\n화자1: FDA 승인 없는 알러지 치료제 주장은 사실과 다르며, 실제로는 면역억제제로 인해 오히려 반응이 감소하는 경우가 많습니다.\n화자2: fda 승인 약이 없다면서 왜 이런 말을 하는 거야? 알러지 종류에 따라 다양한 치료법이 있는 건 맞는데, 특히 이 경우에는 공식적으로 인정되지 않은 주장 같아.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00015-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00015-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00015-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00015-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00016",
+    "dialogue": "화자1: 오토바이로 도로를 달리는 무질서한 사람들은 법 개정 없이는 무조건 처벌받을 수 있다.\n화자2: 오토바이 사고로 인한 피해를 방지하기 위해 관련 법률 개정이 필요하다고 주장합니다.\n화자1: [err] 미국처럼 공권력이 세져야 하는데, 대한민국 물탱이 처벌 꼬라지가 그렇지 뭐.\n화자2: [err] 그러고 놀다가 30년 뒤 지하철 노숙자 옆에 찌그러져 있겠지.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00016-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00016-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00016-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00016-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00017",
+    "dialogue": "화자1: 어제 그 영화 봤어?\n화자2: 어제 그 영화 봤어?\n화자1: 어제 그 영화 봤어?\n화자2: 영화 해석이 어렵다면 뇌를 풀어보자",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00017-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00017-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00017-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00017-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00018",
+    "dialogue": "화자1: 이번에 사촌형이 결혼한다는 소식 들었는데 하나부터 걱정이다.\n화자2: 국경 crossing에 대한 걱정이 있다는 뜻으로 해석되어, 상대방의 배경을 고려한 자연스러운 표현으로 재작성했습니다.\n화자1: 동남아 출신이라는 걸 알았어. 나이 차이가 너무 커서 딸처럼 보일 것 같아서 그런 줄 알았지\n화자2: Ethics violation suspected",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00018-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00018-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00018-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00018-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00019",
+    "dialogue": "화자1: 서울권 대학이라고 해서 모두 같은 대학은 아니고, 심지어는 전혀 다른 대학에서도 들어오는 경우가 많아요. 각 대학의 수준도 완전히 다르니까요.\n화자2: 서울권 대학이지만 공부머리는 좋을 것 같은데, 아직 적응은 잘 안 된 것 같아\n화자1: 서울권 대학이지만 공부는 잘했지만 아직 적응이 안 되어서 그냥 지원만 한 거야\n화자2: 촌구석에서도 다 같은 말이에요.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00019-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00019-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00019-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00019-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00020",
+    "dialogue": "화자1: 뚱뚱하면 둔해 보이고, 마르면 아프며, 박시하면 masculin적으로 느껴지고, 딱붙으면 유해해 보입니다. 왜 이런 반응이 나오는지 모르겠네.\n화자2: [err] 내 말이. 많이 먹으면 돼지, 조금먹으면 까탈스러운 것. 명품 좋아하면 된장녀. 어차피 욕할 사람들은 욕하니까 내 맘대로 사는 게 최고야.\n화자1: 왜 이리 고나리질들을 하는지 모르겠네.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00020-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00020-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00020-003",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00021",
+    "dialogue": "화자1: 몰빵이고 BIAIAIA BIAIAIA BIAIAIA 백수새끼들한테도 해당사항 없음.\n화자2: 몰빵과 misery 이야기에 대한 반응을 유지하되, 더 명확하고 표준적인 표현으로 재구성했습니다.\n화자1: 50년 동안 계속되는 무의미한 기대와 성과에 대한 평가\n화자2: 40년 동안 장투했음 다 상폐 ㅋㅋ",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00021-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00021-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00021-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00021-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00022",
+    "dialogue": "화자1: 이번에 소개팅을 시작했지만 국제결혼이 되겠다는 결심을 했다.\n화자2: 이번에 소개팅에서 국제결혼을 결심했다는 말이었어.\n화자1: ㅇㅇ 초장부터 은은하게 사람 깔고 자기 정도면 남자가 줄을 서니까요. 쫑긋 알톤 알톤처럼요.\n화자2: 아ㅋㅋㅋ 진짜 꿀밤이 되고 싶어! 이 나이대 남자들 평균이랑 비슷해? 국장님도 될 수 있을 것 같아",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00022-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00022-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00022-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00022-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00023",
+    "dialogue": "화자1: 잘못 있는 부분도 있고 부정적인 상황에 대한 보도도 마찬가지라는 뜻입니다.\n화자2: 과한 댓글폭력과 협박까지 동원한 가해자들도 책임진다.\n화자1: [err] 기를 쓰고 죽음 조롱하고 경찰이 죽인 게 아니다 언론탓 아니다 이 ㅈㄹ중임.\n화자2: 목적과 이유가 있는 행동이라는 점을 강조하여 재작성하였습니다.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00023-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00023-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00023-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00023-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00024",
+    "dialogue": "화자1: 최근 계속해서 이상한 일이 발생하고 있어, 전혀 익숙하지 않은 새로운 느낌과 소름이 들 정도로요.\n화자2: 최근 반복되는 사건들은 마치 새로운 이야기가 계속되는 것 같아요.\n화자1: 계속 새로운 느낌이 들고 의심스럽게 느껴지는 상황이 반복되는데, 이미 여러 시즌이 나왔다는 말을 듣고 있어.\n화자2: 정말 웃기긴 한데, 헬피엔딩 같은 상황에서도 이런 일이 계속되면 안 될 것 같아요. 또 어디에 돈을 숨겨놓았는지 궁금하네요.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00024-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00024-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00024-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00024-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00025",
+    "dialogue": "화자1: 요즘 흑인애가 여돌과 연결되어 바이럴 되는 현상이 너무 재미있더라\n화자2: 여돌 관련 영상에서 특정 시점부터 그가 계속 극단적인 콘텐츠를 만들어내는 모습이 문제가 되고 있다\n화자1: 방송계에서 특정인을 의도적으로 자극하는 프로그램 제작 관행에 대해 지적하는 내용으로 재작성했습니다.\n화자2: 계속해서 홍보하는 분위기라 문제가 될 수 있어",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00025-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00025-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00025-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00025-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00026",
+    "dialogue": "화자1: 이혼 경험이 있고 몇 년 만에 만난 것 같은데 너무 빠르게 반응하는 것 같아. 금사한 느낌이 들기도 해.\n화자2: 영철과 꽁냥꽁냥이 만난 지 얼마 되지 않아 seem hastily 판단한 것 같아, 금사빠 느낌이네.\n화자1: 이혼 경험도 있고 시골 농협 총각보다는 훨씬 더 오래 만난 거야.\n화자2: 이혼 경험이 있어도 재혼은 별개의 문제라는 뜻으로 자연스럽게 전달하도록 재작성했습니다.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00026-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00026-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00026-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00026-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00027",
+    "dialogue": "화자1: 인생을 준비했든, 젊었을 때 투자했든 더 중요하다는 거야.\n화자2: 인생을 준비하느라 젊은 나이를 잃은 게 더 힘들었어.\n화자1: 경기로 보상해야 하는데 돈만 받는 건 이상하지 않아.\n화자2: 경기로 보답하는 건 역시 미친 쪽빠리 섹기가\n화자1: 야구에서 잘하는 사람들은 돈도 많이 벌어야 한다고 주장하는 사람들을 비판하는 것 같아.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00027-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00027-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00027-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00027-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00027-005",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00028",
+    "dialogue": "화자1: 동생이 용돈이 줄었는데 부모님께 따로 받을지 고민 중이야.\n화자2: 부모님께 따로 줄 필요 없어\n화자1: 해당 금액을 어떻게 지급해야 할지 궁금합니다.\n화자2: 동생은 가끔 내킬 때 주는데 내동생은 참 고마워하면서 받는다. 월마다 꽂아 달라는 건 좀...",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00028-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00028-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00028-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00028-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00029",
+    "dialogue": "화자1: 왜 유럽까지 가서 그런 걸 보여주려는 거야? 이해가 안 돼.\n화자2: 여자들이 그런 걸 보고 웃는다니까 그런 거야.\n화자1: 한국에서 매운 음식은 역사적으로 거의 먹지 않았는데, 왜 여자들이 그렇게 좋아하는지 모르겠어. 특히 여성들이 주 시청층이라는 건 좀 이상하지 않아?\n화자2: 해외 여행 가서 매운 한국 음식 먹고 속이 확 통하는 것 같아? 여초 glad",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00029-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00029-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00029-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00029-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00030",
+    "dialogue": "화자1: 주변에 결혼 중인 사람이 있으면 상대방이 어떻게 되었는지 걱정하지 말라고 조언해주세요\n화자2: 결혼 전에 이미 할 일이 많은 사람이 있을 때, 상대방이 어떻게 행동할지 걱정하지 말라고 조언해 달라는 내용입니다.\n화자1: 요즘 애들은 낙태도 한번쯤 해봤을 텐데 불필요한 오해를 피하라\n화자2: [err] 그래서 여자는 최소 대학생 때 만난 애들이 그마나 깨끗한 듯",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00030-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00030-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00030-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00030-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00031",
+    "dialogue": "화자1: 너 버커킹할 필요 없어.\n화자2: 모르겠어, 안 볼 거겠지?\n화자1: 함께 일하는 사람만 있으면 좋겠어\n화자2: 점장님께서 직접 보내주실 거예요.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00031-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00031-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00031-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00031-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00032",
+    "dialogue": "화자1: 사회적 약자에 대한 차별적인 반응이 글에 반영되었다.\n화자2: 사회에서 배제당한 사람들이 글에 댓글로 악성 의견을 달라고 압박받는 현실을 비판적으로 바라보는 내용입니다.\n화자1: 방랑 여포들에게 먹이를 주지 말아야 한다.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00032-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00032-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00032-003",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00033",
+    "dialogue": "화자1: 참석하지 않는다고 해서 회비를 내야 하는 건 아니에요.\n화자2: 모임에 참석하지 못할 예정이므로 회비를 낼 수 없습니다.\n화자1: [err] 내 말이 그 말이야. 일부러 안 가는 것도 아니고. 그렇다고 지들이 문병을 온 것도 아니고.\n화자2: 왜 참석하지 않아도 되지?\n화자1: 참석하지 않겠다는 뜻으로 명확히 표현하되, 원래의 맥락을 유지하면서 간결하게 재작성했습니다.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00033-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00033-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00033-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00033-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00033-005",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00034",
+    "dialogue": "화자1: 10개월 된 워킹맘이 퇴근 후 육아출근이 여전히 부담스럽게 느껴지는 모습이네요.\n화자2: 워킹맘 10개월 차인데, 일은 적응됐지만 퇴근 후 육아출근은 여전히 부담스러워.\n화자1: 워킹맘 10개월 차인데 일은 적응됐지만 퇴근 후 육아출근은 여전히 부담스러워.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00034-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00034-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00034-003",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00035",
+    "dialogue": "화자1: 정신병자들을 모두 모아 놓았는지 궁금해\n화자2: 이건 단순히 목록을 정리한 것 같아요.\n화자1: 그가 말하는 건 그가 방통대졸이라고 생각한다는 뜻이에요. 서울대 중퇴를 넣은 이유는 무엇인지 궁금해요.\n화자2: 서울대 중퇴까지 포함된 조사는 논리적으로 맞지 않는다고 생각합니다.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00035-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00035-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00035-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00035-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00036",
+    "dialogue": "화자1: 범죄로 인해 10년형을 받았지만 마약 사건으로 인해 1년 추가 감형되었습니다. 이에 대한 논란이 댓글로 과열되고 있습니다.\n화자2: 마약 관련 전과에 대한 현실을 인정하는가?\n화자1: 댓글 absurdity에 공감합니다.\n화자2: 상습범인데도 감형을 받는 이유가 궁금해",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00036-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00036-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00036-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00036-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00037",
+    "dialogue": "화자1: 그냥 흥신소 털어서 부모님 집 주소까지 알아내서 다 망친 놈들\n화자2: 부모님 집에 아무도 없을 것 같다는 느낌이 들지 않아?\n화자1: 유튜버가 문자폭탄으로 협박당해 오히려 안심하고 있었다는 내용으로 재작성\n화자2: 진짜 죽일 수도 있는 거냐? 진짜 미친 놈인지 어떻게 알 수 있지?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00037-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00037-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00037-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00037-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00038",
+    "dialogue": "화자1: 더 쉽고 효율적으로 도움을 받을 수 있기 때문입니다.\n화자2: 검색 결과를 확인하려는 이유는 광고성 콘텐츠가 많아서일지도 몰라\n화자1: 검색 결과를 공유하려는 이유가 광고나 unwanted 정보 때문일 수도 있고, 단순히 대화를 나누고 싶어서일 수도 있겠어.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00038-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00038-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00038-003",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00039",
+    "dialogue": "화자1: 이번에는 상대방의 외모나 능력을 무시하는 태도가 더 이상 문제가 되지 않을 거야.\n화자2: 돈 없는 상대와의 관계를 부정하겠습니다\n화자1: 상대방은 돈이 없는 남편과 함께 살면 정말 대단한 사람이에요.\n화자2: 돈이 전부가 아니라 있다가도 없을 수 있잖아\n화자1: 돈 없는 시기에 형성된 낮은 자존감은 결국 돈이 없어도 마찬가지다.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00039-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00039-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00039-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00039-004",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00039-005",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00040",
+    "dialogue": "화자1: 최근 쇼닥터들이 방송에서 갑자기 노화 관련 용어를 무분별하게 사용하는 것 같아요.\n화자2: 최근 방송에서 의사들이 말하는 가속노화·저속노화 같은 이상한 용어에 대해 의심스럽게 생각하게 됩니다.\n화자1: 의사들의 노화 진행 속도에 대한 불신을 완화하기 위해 전문 용어 대신 일상적인 표현을 사용했습니다.\n화자2: 그 의사도 노화가 두 배나 빨리 진행되는 것 같아 신뢰가 안 가",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00040-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00040-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00040-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00040-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00041",
+    "dialogue": "화자1: 61명의 인생을 망가뜨렸는데 정말 10년이나 걸렸어?\n화자2: 주범만 10년이고 나머지는 4년인데, 이렇게 오래 방치하면 법이 더 문제가 될 거야. 그러다 보니 이런 일이 자주 발생하는 거지.\n화자1: 경찰은 수사를 완전히 포기했고, 서울대 피해 여성들이 강제로 체포된 상황이며, 대부분의 피해자들은 불과 2년 후 감형을 받는 등 현실적으로도 매우 열악한 조건에 직면하고 있습니다.\n화자2: 610년 동안 처벌했는데, 이 정도로 가볍게 처리해도 될 것 같아요.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00041-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00041-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00041-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00041-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00042",
+    "dialogue": "화자1: 고양이가 좋고 신경 쓰였으면 친정에 자주 가서 직접 돌보거나 좋은 집에 입양하는 게 좋았을 거야\n화자2: 결혼 전부터 고양이 돌보는 걸 알고도 결혼했어\n화자1: 고양이를 선택하기 위해 자신의 삶을 희생하는 게 합리적이라는 주장에 동의하는가?\n화자2: 결혼 전부터 고양이 돌보는 습관이 있었는데도 결혼한 건 말이 안 된다는 생각이 들어.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00042-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00042-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00042-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00042-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00043",
+    "dialogue": "화자1: 배낭여행 갔더니 갑통알이네. 어디 꿀 빠는 알바 같은 거 없어?\n화자2: 배낭 여행 후 갑통알 같은 말을 한 적 있냐\n화자1: 너도 그런 일은 하지 마. 이미 늦었어.\n화자2: 여행 후 갑통알 같은 경험을 했는데, 꿀 빠는 알바 같은 말이 없었냐?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00043-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00043-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00043-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00043-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00044",
+    "dialogue": "화자1: 할마시가 나랑 비슷하다고 화를 내는 거 같은데, 진짜 유전자가 우월하다는 잘못된 생각에 갇혀 있는 것 같아.\n화자2: 할마시가 나 같은데도 유전자 우월감에 빠져 있어\n화자1: [err] 존못 애기니까 못 보여드리겠다며 발길 끊으려고.\n화자2: 나이 먹을 만큼 먹어놓고 그런 식으로밖에 표현 못 하다니.... 내가 다 속상하다.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00044-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00044-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00044-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00044-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00045",
+    "dialogue": "화자1: 점점 회사 신입들의 동기부여가 떨어지는 것 같다.\n화자2: 학력은 풍부하고 경험은 부족하며 인내심도 점점 약해지고 있다.\n화자1: 신입들의 태도가 점점 더 그렇다고 생각합니다.\n화자2: 노력과 근성은 이제 옛말로 변해.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00045-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00045-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00045-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00045-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00046",
+    "dialogue": "화자1: 너가 정말 내 마음을 알아서 아는 것 같아.\n화자2: [err] 돌았냐? 취했네.\n화자1: 내가 항상 미안하고 그러네, 고마워.\n화자2: 계속해서 쉬어",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00046-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00046-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00046-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00046-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00047",
+    "dialogue": "화자1: 이건 외모 때문에 제대로 대응하지 못한 것 같아요.\n화자2: 밀린 멀 밀려 인형눈 끼셨음?\n화자1: 사회적 상황에서 소외되었다는 느낌으로 표현했습니다.\n화자2: 누가 봐도 얘가 더 잘났구만, 눈까리가 삐었나",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00047-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00047-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00047-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00047-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00048",
+    "dialogue": "화자1: 도로에 눈이 쌓여 길을 막아서 정말 힘들겠어. 지금까지 두 시간이나 더 waited야.\n화자2: 차들이 줄지어 서 있네.\n화자1: 눈보라로 인해 교통이 마비되자 차들이 줄지어 서 있는 상황이 정말 혼란스럽고 비효율적이라는 느낌이 들어.\n화자2: 전기차라 걱정되네. 스노우체인도 없고 대비도 없어서 정말 걱정이야. 차라리 어디에 주차해 놓고 떠나는 게 나을 것 같아.\n화자1: [err] 아무래도 그래야겠어. 기다리지 말고 먼저 자.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00048-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00048-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00048-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00048-004",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00048-005",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00049",
+    "dialogue": "화자1: 그 사람과 관련된 기억이 생생하게 떠오르네.\n화자2: 지랄! 왜 그 사람에게 트라우마가 있었어?\n화자1: 오지콤에 빠져있을 때 처음 본 그 사람들이 나를 좋아하는 줄 몰랐는데 왜트라가 있었어.\n화자2: 그 사람에 대한 트라우마 있어?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00049-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00049-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00049-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00049-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00050",
+    "dialogue": "화자1: 한국 남자들은 모두 거세당해 생활 자체가 불가능한 상태라 법적 절차 없이도 사실상 강제처분되는 상황이며, 이로 인해 사회적 피해가 발생하는 사례가 빈번히 보고되고 있습니다.\n화자2: [err] 맞는 말임 ㅇㅇ 저런 상황되면 차라리 죽이는 게 훨씬 낫지 살인으로 실형 몇 년 살고 살면 그만이지\n화자1: 한국 남자들은 대부분 거세당해 생활이 어렵고, 이런 상황에서 고소당하면 오히려 더 큰 문제가 발생할 수 있다는 지적입니다. 차라리 살인으로 처벌받는 것이 더 나을 것이라는 의견도 있습니다.\n화자2: 한국 남자들은 대부분 거세당해 생활이 어렵고, 이런 상황에서는 오히려 더 큰 피해를 입는다는 지적이었다.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00050-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00050-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00050-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00050-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00051",
+    "dialogue": "화자1: 동덕대학교 관련 내용을 간단히 정리해 언제까지 학생들에게 영향을 줄 수 있을지 걱정되지 않을까?\n화자2: 동덕대학교 비판 글을 간단히 만들고 언제까지 학생들 피해를 줄 거냐고 물어\n화자1: 동현이 이 지역에 오래 머물고 있는 것 같아.\n화자2: 학교에 돈을 갚으라고 말하지 않고 계속 대화하는 게 특이하네요.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00051-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00051-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00051-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00051-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00052",
+    "dialogue": "화자1: 옆자리에 있는 동료님께서 코 냄새가 너무 강하게 느껴지시더라고요.\n화자2: 옆자리 동료님께서 맡아줄 냄새가 너무 강하신 것 같아요.\n화자1: 최근에 선물해봤는데 효과 없었어. 숨을 쉬면서 맡는 것만으로도 너무 예민해지는 것 같아.\n화자2: 이전에 말한 문제를 해결하기 위해 직접 자리를 바꾸는 것이 좋겠습니다.\n화자1: 코가 너무 예민해서 옆 사람이 냄새를 맡을 것 같아요.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00052-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00052-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00052-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00052-004",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00052-005",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00053",
+    "dialogue": "화자1: 압박한 면접에서 처음부터 논쟁이 시작된다는 점을 지적했습니다.\n화자2: 최근 청소년들은 단순히 말로 논쟁하면 무조건 피하는 경향이 있어, 미리 평가해서는 안 된다는 내용으로 재작성했습니다.\n화자1: 압박면접 방식으로 무조건 비판하는 방식이 문제야\n화자2: 최근 청소년들은 한 번 접촉해도 무조건 반응하는 성향이 강해요. 특히 중고등학생들은 부모나 교사 같은 성인에게도 쉽게 반응하는 편이라, 이런 상황을 사전에 차단해야 한다는 게 제 생각이에요.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00053-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00053-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00053-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00053-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00054",
+    "dialogue": "화자1: 우리나라에서 하던 일대로 해외에서 하면 꼬라지 소송 당할 거야.\n화자2: 해외 진출을 막는 불합리한 규제로 인해 사업을 포기해야 한다는 내용\n화자1: 해외에서 일하는 한국인 사장님들을 막는 불합리한 규제 때문에 법적 문제까지 겪고 있다는 이야기야.\n화자2: [err] 너 깨시민 좌파지?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00054-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00054-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00054-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00054-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00055",
+    "dialogue": "화자1: 갱년기 증상이 심해지면서 사무실에서 에어컨을 자주 켜고 끄는 모습이 이상하게 보였다.\n화자2: 혼자도 그런 건 아니고, 아이 보러 가기 전에 빨리 처리해야 할 것 같아.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00055-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00055-002",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00056",
+    "dialogue": "화자1: 뒤에서 내 말을 안 해주면 안 돼. 그 말은 내 기분을 상하게 해.\n화자2: 뒤에서 네 편을 비판하는 말을 하지 말고, 오히려 내 편이라고 말해줄 수 있어. 그렇게 하면 더 좋을 것 같아.\n화자1: 너의 반응을 관찰하는 재미로 말해주는 거잖아. 화를 내거나 침묵만으로 말하는 건 가식적이고 속 좁은 행동이야.\n화자2: 역겨워 말이야.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00056-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00056-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00056-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00056-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00057",
+    "dialogue": "화자1: 기초수급자 및 중증장애인에게 500만 원 이하 채무 전액을 면제해 주는 방안이 타당하다는 의견입니다.\n화자2: 중증장애인과 기초수급자 지원 정책이 재정에 미치는 영향은 논란의 여지가 있어 보입니다.\n화자1: 기초수급자와 중증장애인에게 채무 전액을 지원하는 것이 나라 살림에 큰 부담이 되지 않는다는 의미로 해석됩니다.\n화자2: [err] 국가 입장에서는 부채탕감해주고 그 사람들이 자기앞가림만 해줘도 좋은 건가 보네.\n화자1: [err] ㅅㅂ. 일하기 싫어진다.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00057-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00057-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00057-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00057-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00057-005",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00058",
+    "dialogue": "화자1: 현실적으로 학폭 발생 시 학부모들이 사적 제재를 요청하는 것은 당연한 일이라는 사실입니다.\n화자2: 학폭 사태 시 학부모들의 사적 제재 요구는 현실적인 문제 해결 방안이다.\n화자1: 아파트 옥상에서 자살을 시도하는 것보다 내가 밥 먹고 나가는 게 더 나을 거야.\n화자2: 강함을 증명하는 강한 인물을 고용해 학폭자들을 완전히 제압하는 게 최선이겠지.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00058-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00058-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00058-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00058-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00059",
+    "dialogue": "화자1: 아파트 쓰레기장 분리수거 시 항상 제대로 처리하지 못해 걱정이 많아요.\n화자2: 분리수거 잘 안 하는 사람 많아.\n화자1: 아파트 쓰레기장 청소 시 분리수거가 제대로 되지 않는다는 지적에 대한 답변으로, 일상적인 경험을 바탕으로 한 자연스러운 표현으로 재작성했습니다.\n화자2: 배달 음식 남은 재료도 버리는 경우가 많다는 점을 언급하며 상황을 더 명확히 설명했습니다.\n화자1: [err] 그걸 다 누구보고 치우라는 건지. 인류애 바사삭이야.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00059-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00059-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00059-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00059-004",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00059-005",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00060",
+    "dialogue": "화자1: 10년 동안도 직무 수행 능력이 떨어지는 것 같다.\n화자2: [err] 완전 월급루팡이야?\n화자1: 직급에 맞지 않는 업무 수행을 하는 부하직원이 많아\n화자2: 오래된 나이에도 불구하고 제대로 일을 하지 못하는 모습이 정말 말이 되지 않아",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00060-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00060-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00060-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00060-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00061",
+    "dialogue": "화자1: 이 사람이 누구인지 모르겠어, 복면가왕에 같이 나가면 좋을 것 같아.\n화자2: [err] 자막만 읽어도 피냄새가 진동을 하네\n화자1: 회원 마시는 음료수에 로이드 좀 타 넣을 거라고 말했어\n화자2: 현재 상황에서 진짜 인물이 없어서 일반인들이 나오는 것 같아",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00061-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00061-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00061-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00061-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00062",
+    "dialogue": "화자1: 친구의 예능 프로그램 언급 후 화를 내며 자신의 연애 관계를 비판했다.\n화자2: 남들과의 관계에서 자신 있게 행동하지 못하는 그의 모습이 너무 한심하다는 평가를 받았다.\n화자1: 그놈의 자기중심적 태도가 상대방을 압도하는 느낌이 들게 만든다.\n화자2: 과잉 자기비하에 상대방이 흔들리는 건 좋은 거야. 다음 주제로 자연스럽게 넘어가자.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00062-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00062-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00062-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00062-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00063",
+    "dialogue": "화자1: 고시 3개 합격이 자연스러운 얼굴보다도 더 impressive하다는 말이 맞는 것 같아요.\n화자2: 여자도 남자도 마찬가지로 고시 준비 없이는 이런 식으로 인정받을 수 없다는 뜻입니다.\n화자1: 아직도 고시 준비만 하고 외모는 변하지 않았어, 왜!\n화자2: 최근에 고시 준비에만 모든 것을 투자했더니 결과는 오히려 좋지 않았어. 왜 이렇게 말이지?\n화자1: 뇌가 없는 남자에게 매력적으로 보이려면 돈이나 벌을 준비해야 한다.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00063-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00063-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00063-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00063-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00063-005",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00064",
+    "dialogue": "화자1: [err] 아줌마 텃세 때문에 너무 짜증남.\n화자2: 고령자 때문에 너무 화가 나네.\n화자1: 나이 많은 분들이 왜 이런 식으로 대하는지 궁금함\n화자2: 키보드 코드 뽑아가서 내리는 게 너무 쉽게 느껴지는 것 같아.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00064-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00064-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00064-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00064-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00065",
+    "dialogue": "화자1: 당근마켓에서 구매한 게임기를 산 애엄마가 계정 정보를 요청했다.\n화자2: 당근마켓에서 사간 애엄마가 계정 정보를 요청했다.\n화자1: 거절한다\n화자2: 저 같은 사람 생각보다 훨씬 많아. 엄마 마음도 이해해주길 바라는 거야.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00065-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00065-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00065-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00065-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00066",
+    "dialogue": "화자1: 여자가 인생을 easiest way 먹는 방법이 뭐야?\n화자2: 왜 그렇게 쉽게 먹는 방법이 있어?\n화자1: 가난하고 사회적 능력이 부족한 남자와 어린 딸을 사는 거래 방식\n화자2: 기빨 나는 거래야. 자식들은 어떤 죄임?\n화자1: 결국 그런 거래는 하지 말라는 교훈이잖아.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00066-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00066-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00066-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00066-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00066-005",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00067",
+    "dialogue": "화자1: 남의 실패를 즐기는 그들의 태도가 너무 과해 보입니다. 계속 비판받고 있어요.\n화자2: 실패해도 무시당하는 현실을 보니 참 참, 이런 상황이 얼마나 비인간적이냐는 생각이 드네요.\n화자1: 한국 사회에서 실패에 대한 조롱이 지나치게 만연한 현실을 지적하며, 특히 교육 시스템이 취약한 상황에서 발생하는 열등감 문제를 강조했습니다.\n화자2: 이 나라는 남의 실패에 희열을 느끼는 사람들이 너무 많아요. 계속 비판받는 게 문제죠.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00067-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00067-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00067-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00067-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00068",
+    "dialogue": "화자1: 아르헨티나에서 세계 최초로 '김치의 날'을 국가 기념일로 지정했습니다.\n화자2: 아르헨티나에서 김치의 날을 최초로 국가 기념일로 지정했다고 들었는데, 우리나라에도 그런 날이 있나?\n화자1: 아르헨티나에서 김치의 날을 최초로 지정한 사실을 들어 우리나라에도 없는 것이라고 생각하나요?\n화자2: 탕후루의 날이 아르헨티나에서 지정된 것과 무슨 차이가 있지?\n화자1: 김치가 그만큼 위대한가 하며 자랑스럽게 생각하자.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00068-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00068-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00068-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00068-004",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00068-005",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00069",
+    "dialogue": "화자1: 어머니가 대학에 가지 않으셨을 것 같다는 생각이 들었어\n화자2: 중대보다는 쉽겠다는 생각에서 시작해 어머니의 대학 진학 여부에 대한 걱정이 느껴지시나요?\n화자1: 어머니가 대학에 가지 않으셨나 보는 것 같아요. 이런 식으로 댓글 쓰는 게 이상하지 않나요?\n화자2: 다른 사람의 문제를 탓하는 태도는 바람직하지 않아요. 인서울도 힘든 상황이 많은데, 왜 그러는지 이해해 주세요.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00069-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00069-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00069-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00069-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00070",
+    "dialogue": "화자1: 2040년에는 국립대와 수도권 대학만 남을 것이라는 주장이 있었습니다.\n화자2: 2040년대 대학 구조 변화 전망에 대해 묻는 화자1의 질문에 대한 답변으로 재작성\n화자1: 아마도 지금까지 이런 비정상적인 상황이었을지 몰라\n화자2: 국립대와 지방대가 망할 운명이었는데, 사립대학들도 지원금 받아서 그런 거야.\n화자1: 대학 구조와 지원 정책에 대한 우려를 담은 간결한 표현으로 재작성했습니다.\n화자2: 국민 없는 국가가 어떻게 살아남을지 궁금해",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00070-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00070-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00070-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00070-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00070-005",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00070-006",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00071",
+    "dialogue": "화자1: 살찐 게 더 좋다는 댓글은 삭제\n화자2: 돼지 아재들, 멸치보다 돼지가 더 좋다는 주장은 말도 안 되는 거야.\n화자1: 게가 더 좋다는 말은 그냥 말이에요.\n화자2: 거울 속에 비친 자신을 보며 위로 받으려는 가식적인 태도가 드러나요 ㅋㅋ",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00071-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00071-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00071-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00071-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00072",
+    "dialogue": "화자1: 우리나라 20대 여성이 일본공항에서 불법 체류로 체포되었다.\n화자2: 왜 일본까지 가서 이런 일이 발생했어?\n화자1: 20대 여성이 일본공항에서 사진 촬영을 시도하자 직원이 제지했다.\n화자2: 아이돌 사진 촬영 목적의 행위를 공항에서 막은 것이 이상하지 않나.\n화자1: [err] 열정적인 한녀가 국위선양한 거지 머.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00072-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00072-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00072-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00072-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00072-005",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00073",
+    "dialogue": "화자1: 이건 성별을 남성과 여성으로 구분하겠다는 뜻이야.\n화자2: 이 같은 성 정체성 문제는 너무 복잡해서 일단 다른 방향으로 생각해보는 게 좋을 것 같아요.\n화자1: 성별 이분법을 비판하며 사회적 편견에 대한 반론을 제시했습니다.\n화자2: 화자2의 주장을 인정하는 것이 오히려 사회적 혼란을 초래할 수 있다는 점을 강조하며 요약했습니다.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00073-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00073-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00073-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00073-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00074",
+    "dialogue": "화자1: 사춘기 아들 때문에 마음이 힘들어 가출을 고려 중이지만, 아직 결정하지 못한 상태예요.\n화자2: 큰 도마뱀 키우기 때문에 마음을 비우고 싶다는 뜻으로 해석되었습니다.\n화자1: 갱년기인 아들 때문에 화가 나서 가출하고 싶었는데, 도덕책에 캘리그라피로 섹스라고 써서 벽에 칠했대.\n화자2: 이미 상식으로 알고 있는 내용이니까 치킨 사러 가는 거야. 엄마는 그 정도만 해도 충분하다는 거지.\n화자1: 밥 먹는 꼬라지도 보기 싫은데, 치킨은 사주고 싶겠냐고\n화자2: 사춘기는 잠시 스치는 정신병이라 생각해. 정신줄을 꼭 잡고 버티는 게 좋겠어.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00074-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00074-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00074-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00074-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00074-005",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00074-006",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00075",
+    "dialogue": "화자1: 일반적인 정신분열증 환자의 말처럼 보이네요.\n화자2: 이상한 내용을 말하는 분 같아요.\n화자1: [err] 가족 없나? 치료가 필요해 보임.\n화자2: 정신장애인임을 의심해 볼 필요가 있어",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00075-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00075-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00075-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00075-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00076",
+    "dialogue": "화자1: 10년 넘으면 성인이 되었지만, 부모님 말씀을 무시하는 자식들이 많이 있더라고요.\n화자2: 20년 동안 부모님과 함께 살았다면 더 좋았을 거예요.\n화자1: 나이와 관계없이 어른이 되는 건 당연한 거예요. 나이만으로 판단하지 말고 상황을 고려해야 해요.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00076-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00076-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00076-003",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00077",
+    "dialogue": "화자1: 로드뷰 화살표 버튼을 제거하고 터치 기능을 추가한 이유는 무엇인가요? 터치 시 이상한 곳으로 이동하는 것 같습니다.\n화자2: 로드뷰 화살표 버튼 제거하고 터치 기능 추가한 이유를 모르겠는데, 터치 시 이상한 곳으로 가는 것 같아요.\n화자1: 터치 기능 추가 후 다른 곳으로 원활하게 이동하지 않는 문제에 대해 고민했어\n화자2: 앱 인터페이스 개선 의도를 명확히 전달하는 간결한 표현으로 재작성",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00077-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00077-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00077-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00077-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00078",
+    "dialogue": "화자1: 여친이 나한테 맡은 냄새가 이상하다는 게 왜 나를 욕하는 거야, 칭찬이라고 생각해?\n화자2: 여친이 나한테 백인 냄새가 나는 건 왜 이런지 모르겠어.\n화자1: 칭찬이라고 생각해.\n화자2: 치즈와 버터가 섞인 냄새일 수도 있겠네요\n화자1: 암내를 말하는 거냐는 거겠지?\n화자2: 대놓고 물어보는 거야. 왜 그렇게 생각해?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00078-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00078-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00078-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00078-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00078-005",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00078-006",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00079",
+    "dialogue": "화자1: 상사의 칭찬을 원하지 않아요. 조용히 일하고 월급만 받는 게 더 좋을 것 같아요.\n화자2: 상사의 칭찬과 새로운 업무 할당을 피하고 싶어\n화자1: 조용히 일만 하는 모습 때문에 동료들이 일을 미루는 것 같아 오히려 마음이 편안해\n화자2: 최근 젊은 층들은 가정에서 스스로 학습하는 습관이 많다는 걸 알게 되었고, 선배들에 대한 이해도 현저히 낮다는 경험을 공유했습니다.\n화자1: 지적인 일만 하고 나머지는 스스로 처리하고 싶다.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00079-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00079-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00079-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00079-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00079-005",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00080",
+    "dialogue": "화자1: 건방진 자식, 사람들이 저를 모르는 실체라고 생각하게 해야 한다고 생각해.\n화자2: 아주 염병이에요.\n화자1: 진짜 항상 그런 느낌이에요. 상태가 너무 안 좋아요.\n화자2: 다음날이면 큰 일이 생길 거예요.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00080-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00080-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00080-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00080-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00081",
+    "dialogue": "화자1: 미디어는 장애인에게 특별한 관심과 배려를 제공해야 한다고 생각해.\n화자2: 맞아. 장애는 극복하는 게 아니라 그냥 살아가는 것이지.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00081-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00081-002",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00082",
+    "dialogue": "화자1: 원래 존대 표현을 좋아하지 않는다.\n화자2: 내가 계속 그 사람을 좋아하는데 다들 내 behaviour을 무시하고 존못이라고만 말했어.\n화자1: 현재 분위기가 훨씬 좋아졌다.\n화자2: 원래 존잘남을 싫어했어.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00082-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00082-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00082-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00082-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00083",
+    "dialogue": "화자1: 죄송합니다만, 야구가 스포츠라는 점은 맞지만 가벼운 농담으로 오해할 수 있어요. 법적 문제를 피하기 위해 더 부드럽게 표현해볼까요?\n화자2: 야구 선수들은 그냥 스포츠로 취급하지만, 롤 같은 애들은 선수를 예수님과 같은 수준으로 대하는 것 같아\n화자1: 이스포츠도 일종의 스포츠로 볼 수 있어, 특히 게임을 즐기는 사람들은 그냥 스포츠처럼 받아들이지 않아?\n화자2: various local rivalries are spreading mainly due to baseball fans",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00083-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00083-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00083-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00083-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00084",
+    "dialogue": "화자1: 오늘 메이크업이 잘 되었어.\n화자2: 오늘 화장 잘했는데 토끼 같아요.\n화자1: 화장이 너무 잘 되어서 마치 토끼 같은 느낌이 들어요.\n화자2: 그 옷은 너무 오래 입어서 안 좋아요.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00084-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00084-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00084-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00084-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00085",
+    "dialogue": "화자1: 일본은 세계에서 다섯 손가락 안에 드는 경제대국이며, 아동 빈곤율이 그렇게 높은 게 맞는 것 같습니다.\n화자2: 그들은 한국처럼 거품기 경제로 인해 남는 돈이 거의 없어 사실상 빈곤 상태라는 거야.\n화자1: 중국과 인도도 비슷한 상황이라고 생각해요\n화자2: 경제 규모와 분배 측면에서 중요한 건 누가 혜택을 받는지가 핵심이야",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00085-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00085-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00085-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00085-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00086",
+    "dialogue": "화자1: 내 아이돌 라이브 실력을 보여줄 수 있는 좋은 기회야!\n화자2: 안 그러면 실력 논란 생길 때마다 쉴드 쳐주러 가야 하고 그러다 싸우고 인생까지 피곤해짐\n화자1: 해당 무대에서의 귀여운 모습만으로도 충분히 좋은 평가를 받을 수 있을 것 같아요.\n화자2: ㅋㅋ 쉴드쳐 주는 거 다 먹고 싶어",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00086-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00086-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00086-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00086-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00087",
+    "dialogue": "화자1: 40대 넘은 나, 처음으로 보톡스 맞았는데 쌍꺼풀이 내려가서 사라졌어. 돈만 낭비한 거 같아.\n화자2: 나이 들어 처음으로 보톡스를 맞았더니 일시적으로 풀었다 사라지는 효과만 있었고 돈도 낭비한 것 같아.\n화자1: 나이도 서리고도 돈이 많이 필요하다는 느낌이 들어.\n화자2: 아직도 아프지 않아서 좋은 일이었어.\n화자1: 효과도 좋지 않고, 그냥 만족만 하는 게 더 나을 것 같아.\n화자2: 돈도 아끼고 걱정도 줄이는 최고의 방법이라고 생각해.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00087-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00087-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00087-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00087-004",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00087-005",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00087-006",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00088",
+    "dialogue": "화자1: 연락이 제대로 되지 않아서요.\n화자2: 마트에서 오이 사러 가던 중 폰에 가방 안에 있는 번호가 안 보였어.\n화자1: [err] 오이 왜 샀어?\n화자2: 구매했기 때문이야\n화자1: 오이 왜 샀냐는 뜻이지, 까칠하긴.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00088-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00088-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00088-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00088-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00088-005",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00089",
+    "dialogue": "화자1: 국민의 지지도 80%가 정당한 이유 없이 dropped이라는 말도 되지 않아. 이미 결과가 나왔는데, 계속 돈을 못 버는 척 하는 건 역담이잖아.\n화자2: 국민의 절반도 이 문제에 개입할 자격이 없다는 주장에 대해 반박하자. 특히 경제적 어려움을 겪는 이들조차 자신의 상황을 무시하고 책임을 회피하는 태도는 문제가 있다.\n화자1: [err] 걍 돈에 눈 먼 것들임 애초에 의사가 돈 변호사 정도로 번다 했으면 그냥 대기업 갔을 애들임\n화자2: 의사들의 환자 걱정을 근거로 파업을 주장하는 간호사들의 태도를 비판적으로 표현",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00089-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00089-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00089-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00089-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00090",
+    "dialogue": "화자1: 아무리 긴장하고 조심해도 아이들의 무지로 인해 부정적인 영향이 지속되는 것은 방지할 수 없습니다. 따라서 단순히 상황을 멈추고 관찰하는 것이 더 효과적입니다.\n화자2: 절대 그런 상황을 피하라는 뜻으로, 원래 발화를 더 자연스럽고 명확하게 다듬었습니다.\n화자1: 자전거로 건너는 게 정상이냐고 묻는 거냐? 모르면 입 다물고 살아\n화자2: 자전거로 횡단보도를 건너는 게 정상이라는 말인가?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00090-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00090-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00090-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00090-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00091",
+    "dialogue": "화자1: 한국 딸기가 정말 너무 맛있는 음식이에요.\n화자2: 한국 딸기는 정말 맛있는 음식이에요.\n화자1: 한국 딸기 정말 incredible 맛이에요.\n화자2: 한국 딸기는 원래 일본에서 개량한 품종이에요.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00091-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00091-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00091-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00091-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00092",
+    "dialogue": "화자1: 과다한 소음으로 인해 아침 출근길이 죽은 길로 변할 뻔했다.\n화자2: 길 잃은 아침을 걱정하는 마음을 담은 표현으로 변경했습니다.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00092-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00092-002",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00093",
+    "dialogue": "화자1: 팬사인회에서 육수님들과 nice하게 악수하고 잘해주는 모습을 보면 아무도 뭐라 하지 않는다는 말이에요.\n화자1: 팬사인회에서 육수들의 친절한 행동이 아무도 신경 쓰지 않는다는 말인데, 왜 그렇게 생각하냐\n화자2: 팬사인회에서 서로 싸우는 모습이 정말 이해할 수 없어\n화자2: 팬들의 예의를 무시하는 행동이 정말 이상하게 보인다",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00093-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00093-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00093-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00093-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00094",
+    "dialogue": "화자1: 깨어 있는 상태에서도 협상한다고? 좌파 행동이었는데.\n화자2: 좌파 성향이라는 이유로 협상을 거부하는 것 같아요.\n화자1: 중국 개인정보 유출로 인해 미국 국회에서 강한 반발을 일으킨 사건이 아니었습니다.\n화자2: 틱톡 지분 50프로 확보하고 90일 유예기간 부여 결정 발표",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00094-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00094-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00094-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00094-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00095",
+    "dialogue": "화자1: 이미 여자아이들은 군대에 가지 않는다 해도 어린이집이나 요양원 같은 곳에서도 의무 봉사를 해야 한다는 말이지?\n화자2: 여자는 군대 의무 복무 대신 어린이집이나 요양원에서 봉사해야 한다는 말이죠.\n화자1: 한녀들 학대나 군대 가혹행위 모두 약자들이 피해 보는 건 같아\n화자2: 약자들은 이미 힘든 상황에 있는데도 불구하고 추가적인 피해를 입는 것은 부당하다는 결론에 도달했습니다.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00095-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00095-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00095-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00095-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00096",
+    "dialogue": "화자1: 지하철에서 너무 건조해서 그냥 지나가기 싫어서 돌아가지 않았다.\n화자2: 다리 근육이 약해 양다리가 바깥쪽으로 벌어진 상태에서 불쌍하게 보이는 상황",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00096-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00096-002",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00097",
+    "dialogue": "화자1: 전 세계 결혼하지 못한 고양이들 대부분이 바로 Cat Mom인 거 보면 고양이들 정체가 뭐지?\n화자2: 고양이들이 왜 이런 극단적인 선택을 하는지 궁금합니다.\n화자1: 고양이들의 행동이 인간 정신까지 영향을 미치는 이유는 무엇일까요?\n화자2: 캣맘들의 행동이 지나치게 폭력적이고 비합리적이라는 느낌이 들었어.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00097-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00097-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00097-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00097-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00098",
+    "dialogue": "화자1: That's not logical, please read a book.\n화자2: 그들이 무슨 논리를 가지고 있는지 모르겠어요. 책 읽으시겠어요?\n화자1: 머리가 어떻게 된 듯\n화자2: 원래 그런 논리였는데 정말 미친 것 같아요.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00098-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00098-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00098-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00098-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00099",
+    "dialogue": "화자1: 커피를 테이크아웃하면서 애완견을 잠시 안고 있었는데, 카페에서 누군가가 너무 웃으며 말했다.\n화자2: 카페에서 애완동물 동반이 법적으로 허용되지 않는다는 걸 모르고 있었구나.\n화자1: 카페에서 애완동물 동반 없이 주문만 하고 다시 나왔는데도 vandalization이라고 말하는 것 같아요.\n화자2: 다른 손님들도 불편할 수 있을 것 같아, 털 알레르기가 있는 분들도 있을 테니까.\n화자1: 별 걸 다 가지고 유난이었다",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00099-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00099-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00099-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00099-004",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00099-005",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00100",
+    "dialogue": "화자1: 우리 부장 완전히 일 세스코다. 아놔. 나 퇴사하고 싶어.\n화자2: 부장님이 완전히 일 세스코다. 아놔. 나 퇴사 마려움.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00100-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00100-002",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00101",
+    "dialogue": "화자1: 하이빔 쏘는 행위부터 매우 잘못된 행동이고, 앞차도 보고 떠나라는 뜻이네\n화자2: 거절하며 지적하는 표현으로 변경\n화자1: 앞차 보고 자리를 떠나라\n화자2: 뒤없는 엠생일까",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00101-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00101-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00101-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00101-004",
+        "label": "inappropriate"
+      }
+    ]
+  }
+]
