@@ -1,0 +1,2248 @@
+[
+  {
+    "id": "nikluge-2025-au-dev-00001",
+    "dialogue": "Speaker2: But looking at it nationally, it's a factor that really weakens our power. Without having kids, our productivity's just gonna keep dropping.\nSpeaker1: Why do these idiots keep saying there’s no future for gay people when they don’t even have kids themselves?\nSpeaker2: I think feminists are gaslighting men and that's why society's falling apart.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00001-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00001-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00001-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00002",
+    "dialogue": "Speaker1: What’s so surprising about never traveling abroad? Like it’s some impossible thing to believe?\nSpeaker2: Isn't it more pathetic to travel abroad just to show off when you don't even have the money?\nSpeaker1: I think this society really pushes the idea that if you’re not doing what everyone else is, you’re in big trouble, so it’s pretty common.\nSpeaker2: Honestly, I travel abroad a lot too, but I think saying it’s for experience or broadening your perspective doesn’t really hold up.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00002-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00002-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00002-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00002-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00003",
+    "dialogue": "Speaker1: What’s a sinkhole, you?\nSpeaker2: You're clueless, it's a one-income household.\nSpeaker1: It's when a guy adopts and supports a girl.\nSpeaker2: So, no kids and you're the only one bringing in the cash.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00003-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00003-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00003-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00003-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00004",
+    "dialogue": "Speaker1: There are definitely those who just throw around complicated terms to show off their knowledge without any explanation.\nSpeaker2: Yeah, totally. They give off a strong vibe that they're better than me.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00004-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00004-002",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00005",
+    "dialogue": "Speaker1: I feel like kids these days won’t know Girls' Generation since they debuted in 2007.\nSpeaker2: I mean, if they're gonna protest, they gotta sing \"Into the New World,\" so I bet they know it. The feminists have that song memorized like a military march.\nSpeaker1: I bet there are still a lot of friends who know the song but not SNSD.\nSpeaker2: I mean, there are still active members, so I bet people know. At least the feminists waving their lightsticks probably know who Girls' Generation is.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00005-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00005-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00005-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00005-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00006",
+    "dialogue": "Speaker1: How can I deal with workplace bullying in a female-dominated company? They dump all the tough stuff on me, freak out over any little mistake, and the gossip is intense.\nSpeaker2: It's a chronic issue in female-dominated workplaces. Gather evidence and report it to HR, and if they don't handle it properly, switching jobs is an option too.\nSpeaker1: I seriously gotta think about quitting. I feel like I'm gonna lose it.\nSpeaker2: Yeah, can’t blame you. Taking a break and looking for a new job sounds like a good plan.\nSpeaker1: I’m thinking that too. If I end up back at a female-dominated company, I’ll lose it for sure.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00006-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00006-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00006-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00006-004",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00006-005",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00007",
+    "dialogue": "Speaker1: They say for office workers, clothes are like armor. If you’re skilled and dress well, it can really boost your presence and open doors for success.\nSpeaker2: I’m basically a one-outfit guy. Can’t shake the habit from wearing a uniform, I guess?\nSpeaker1: I guess you can get by a bit if you dress well even without skills, but if you’ve got neither, you’re pretty much out of luck.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00007-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00007-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00007-003",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00008",
+    "dialogue": "Speaker1: Just found out you’re the first Asian woman to win the Nobel Prize in Literature. Congrats!\nSpeaker2: Shouldn't we think about this a bit? Do you really think a book that sold less than 10,000 copies deserves an award?\nSpeaker1: In 2016, \"The Vegetarian\" sold over 680,000 copies, and the criteria for the Nobel Prize in Literature isn't just sales.\nSpeaker2: What’s the point of getting a Nobel Prize that’s lost its value and authority?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00008-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00008-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00008-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00008-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00009",
+    "dialogue": "Speaker1: I mean, making fun of someone for never traveling abroad is just low, you know?\nSpeaker2: For sure. There are always people who gotta flex no matter where they go.\nSpeaker1: I bet those low-key kids will be a sight to see as adults.\nSpeaker2: I think it shows how much the people are getting lowbrow. It's the influence of low-class capitalism.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00009-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00009-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00009-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00009-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00010",
+    "dialogue": "Speaker1: I was so mad after getting teabagged in the game yesterday.\nSpeaker2: Sounds like some rude players! Should've taught 'em a lesson.\nSpeaker1: For real, teabagging's not fun or respectful! But our team won, so I felt really good.\nSpeaker2: Feels great, right? Getting that revenge is so satisfying.\nSpeaker1: I just kept following that dude since teabagging is like a greeting level.\nSpeaker2: Those kinds of people have probably never seen good gameplay. They’re trash both in skill and character.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00010-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00010-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00010-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00010-004",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00010-005",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00010-006",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00011",
+    "dialogue": "Speaker1: I quit my job 'cause I just can't stand working under someone else. Can't live like this, you know?\nSpeaker2: I can't just live above others with my pride like this. It's driving me crazy.\nSpeaker1: It's a real struggle living like this after graduating from a nobody school.\nSpeaker2: Stop talking nonsense. Even a high school grad like me is doing fine, but if you don’t change your attitude, you’ll end up at a soup kitchen.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00011-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00011-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00011-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00011-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00012",
+    "dialogue": "Speaker1: Don’t you think the fans who just accept and consume that are part of the problem too?\nSpeaker2: It's bad to exploit fan loyalty like that, kinda like blaming a woman for getting harassed.\nSpeaker1: I don’t get why people complain about it when buying an idol's album is 100% their choice, but sexual assault is 100% the criminal's fault, no matter what.\nSpeaker2: Are people gonna stop drinking soju just because the price went up? Fans buy albums while complaining about artists. Cut the nonsense.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00012-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00012-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00012-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00012-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00013",
+    "dialogue": "Speaker1: I feel like the rise of far-right stuff is happening because old folks are getting marginalized and there's a lot of ageism.\nSpeaker2: For sure. Those grandpas with gas canisters or wearing Marine hats must've had a tough time raising their kids...\nSpeaker1: I think the problem is not acknowledging their loneliness and trying to connect with others, but rather having an attitude of hate and harm.\nSpeaker2: I think the far-right shift in young men is for similar reasons.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00013-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00013-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00013-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00013-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00014",
+    "dialogue": "Speaker1: Why are there so many narcissists these days?\nSpeaker2: They're the people you gotta avoid in life.\nSpeaker1: It's so ironic how they can hurt others without a second thought but swear revenge for even the tiniest scratch on themselves.\nSpeaker2: I think \"narcissist\" is way too soft; they're basically just low-IQ sociopaths.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00014-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00014-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00014-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00014-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00015",
+    "dialogue": "Speaker1: Some people are really pushing the whole allergy treatment thing. Modern medicine in the 21st century hasn’t solved anything beyond just easing symptoms.\nSpeaker2: Isn't that what they call treatment since immunotherapy desensitizes you to allergens and reduces reactions?\nSpeaker1: According to the FDA, there’s no allergy cure, but still so many people claim there is. This really feels like the mad cow disease republic for sure.\nSpeaker2: It's an FDA-approved drug, you know? Not knowing is embarrassing, but it’s not a crime. There are plenty of treatment options like sublingual therapy depending on the type of allergy.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00015-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00015-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00015-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00015-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00016",
+    "dialogue": "Speaker1: We gotta change the law to punish those reckless motorcycle riders on the road.\nSpeaker2: I don't get how people like that even exist.\nSpeaker1: The government's gotta be tougher like in the U.S., but the punishment level here just isn't there.\nSpeaker2: I can totally see myself squished next to a homeless person on the subway in 30 years.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00016-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00016-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00016-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00016-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00017",
+    "dialogue": "Speaker1: Did you see that movie yesterday?\nSpeaker2: Yeah, it was so deep it made me think a lot.\nSpeaker1: Just turn your brain off.\nSpeaker2: I’m thinking of checking out the interpretation and watching it again.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00017-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00017-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00017-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00017-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00018",
+    "dialogue": "Speaker1: I'm worried about everything since my cousin's getting married.\nSpeaker2: An arranged marriage? What country are they from? As long as it’s not Southeast Asia, I’m cool with it.\nSpeaker1: How'd you know they're from Southeast Asia? I thought he was bringing home someone way younger, like a daughter or something.\nSpeaker2: Whoa, I heard he’s doing a fake marriage while leaving a husband back home, so tell your cousin to get his act together.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00018-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00018-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00018-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00018-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00019",
+    "dialogue": "Speaker1: Not all Seoul universities are the same level, you know? These days, there are all kinds of ways to get in, so the quality's all over the place.\nSpeaker2: Yeah? But it’s a Seoul university, so there’s gotta be a lot of smart students. Maybe they just haven’t adjusted yet?\nSpeaker1: What are you talking about? They're barely getting in through the rural admissions because they don't meet the standards.\nSpeaker2: Yeah, even if they ace it in the sticks, it's tough to break out of that level.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00019-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00019-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00019-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00019-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00020",
+    "dialogue": "Speaker1: I don’t get why I’m rambling like this.\nSpeaker2: For real. People are gonna talk no matter what, so living life my way seems like the best move.\nSpeaker1: True. It's my life anyway, so what do they matter?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00020-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00020-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00020-003",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00021",
+    "dialogue": "Speaker1: Doesn't matter if it's a total mess or whatever, it doesn't apply to the unemployed at all.\nSpeaker2: Still, plastering's gotta be profitable, right? You know the national fund's down 80% in 5 years, 95% in 10, and gets delisted in 20, right?\nSpeaker1: Where are the people holding on for 50 years? That's a pointless assumption.\nSpeaker2: I invested in that for 40 years, and it all got delisted in the end.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00021-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00021-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00021-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00021-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00022",
+    "dialogue": "Speaker1: I went on a blind date and decided I need to marry internationally.\nSpeaker2: Did you meet a total kimchi-soybean stew kind of girl? Gotta have a word with the matchmaker.\nSpeaker1: Yeah, right from the start, she was subtly looking down on people, saying guys would line up for her and all that. Total legend.\nSpeaker2: Ugh, I really wanna give her a smack. Guess that's the average for Korean women that age. Gotta seriously think about international marriage.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00022-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00022-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00022-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00022-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00023",
+    "dialogue": "Speaker1: Isn't the media, police, and the woman who threatened him also to blame for leading to his death?\nSpeaker2: People like those who stir up excessive comment violence and say \"who told them to die?\" are also accomplices.\nSpeaker1: It's just ridiculous to say we shouldn't blame the police or media while mocking death.\nSpeaker2: Those people doing that have their own motives and reasons. They're just pathetic.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00023-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00023-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00023-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00023-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00024",
+    "dialogue": "Speaker1: This whole thing just keeps getting weirder, it's giving me chills.\nSpeaker2: Feels like we could get a few seasons of a drama just from what’s come out so far, for real.\nSpeaker1: Maybe they freaked out during the interview, got exposed as a scammer, and then bolted when parents and investors started getting suspicious?\nSpeaker2: It's kinda funny, but I'm worried it might have a happy ending. Who knows where else they might've stashed money.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00024-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00024-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00024-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00024-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00025",
+    "dialogue": "Speaker1: Lately, that Black friend of mine is going viral with girl idols for some reason.\nSpeaker2: It's so annoying how that guy keeps popping up in girl group videos and shorts.\nSpeaker1: Sometimes they push those shows in the industry because of immigration policy, you know? If there's backing, they can do multiple ones.\nSpeaker2: Feels like if they catch one thing, he’s done for. Seems like a lot of people are gunning for him, too.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00025-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00025-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00025-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00025-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00026",
+    "dialogue": "Speaker1: Feels kinda rushed, like a love-at-first-sight thing, even with a divorce under your belt.\nSpeaker2: Sounds like she’s getting cozy with the new guy just like she did with Youngcheol. Bet she shared a blanket with him too.\nSpeaker1: Still better than that country guy from the co-op.\nSpeaker2: Well, whether it's divorce or remarriage, that's their choice.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00026-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00026-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00026-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00026-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00027",
+    "dialogue": "Speaker1: You probably know better, right? Like, you dedicated your life or your youth or whatever...\nSpeaker2: I really can’t stand people who joke about repaying with a game.\nSpeaker1: Yeah, saying they'll repay with games just means they're making money.\nSpeaker2: What do they think they’re gonna repay with a game? That’s just ridiculous.\nSpeaker1: If you made a ton of money from baseball, at least donate something to give back.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00027-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00027-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00027-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00027-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00027-005",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00028",
+    "dialogue": "Speaker1: Should I give my little brother some allowance even though he gets money from our parents?\nSpeaker2: If they’re actually helping out, then sure, but if they’re just mooching, no need to give them anything.\nSpeaker1: Not really doing anything, just asking for a little bit every month.\nSpeaker2: Sometimes I give it when I feel like it, and my brother's grateful when he gets it. But asking for it every month is kinda weird.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00028-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00028-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00028-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00028-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00029",
+    "dialogue": "Speaker1: I seriously don’t get why they gotta show themselves eating that all the way in Europe.\nSpeaker2: I guess it's because a lot of girls think that's fun. They love spicy food, so they're the main audience, right?\nSpeaker1: It's kinda wild to see how proud Koreans are of spicy food when we haven't even been eating red, spicy dishes for that long historically.\nSpeaker2: Feeling that rush of eating Korean food while traveling abroad is totally a girl thing.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00029-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00029-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00029-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00029-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00030",
+    "dialogue": "Speaker1: If there’s a married guy around, tell him not to wonder who took his wife's virginity.\nSpeaker2: Honestly, I just hope they didn't have an abortion.\nSpeaker1: Don’t get your hopes up; these days, kids have probably had an abortion at least once.\nSpeaker2: So, at least the girls who dated in college seem kinda clean.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00030-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00030-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00030-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00030-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00031",
+    "dialogue": "Speaker1: So, you don't have to go to Burger King?\nSpeaker2: Not sure, thinking about skipping it.\nSpeaker1: If you like the people you work with, a year will fly by.\nSpeaker2: I'll send you the manager's number for now.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00031-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00031-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00031-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00031-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00032",
+    "dialogue": "Speaker1: I blocked the guys who were being loud in the comments on my post.\nSpeaker2: It's kinda sad to see them freak out just trying to talk to a girl.\nSpeaker1: Don’t feed the basement dwellers.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00032-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00032-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00032-003",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00033",
+    "dialogue": "Speaker1: Why should I pay for a year-end party I’m not even going to?\nSpeaker2: How are you supposed to attend when you're in the hospital?\nSpeaker1: That's what I'm saying. It's not like I'm skipping it on purpose, and they didn't even come to visit me.\nSpeaker2: Are those people even human?\nSpeaker1: They’re saying I gotta pay 'cause it was decided in a meeting, but I might as well just quit.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00033-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00033-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00033-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00033-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00033-005",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00034",
+    "dialogue": "Speaker1: Being a working mom for 10 months now, work's manageable, but parenting after hours is still tough.\nSpeaker2: You’re too hard on yourself, trying to do everything perfectly. It’d be better if you just let some of it go and took it easy.\nSpeaker1: I really respect other working moms, doing everything alone while my daughter’s sick and I have no help.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00034-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00034-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00034-003",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00035",
+    "dialogue": "Speaker1: Are they seriously gathering all the crazies?\nSpeaker2: I seriously question if that's even a fair comparison.\nSpeaker1: I bet that person's a 방통대 grad. No clue why they included dropping out of 서울대.\nSpeaker2: I'm so tired of all the nonsense people spout.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00035-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00035-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00035-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00035-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00036",
+    "dialogue": "Speaker1: Those people are freaking out in the comments.\nSpeaker2: Is it normal to get a lighter sentence for doing drugs? Other people aren't as dumb as you.\nSpeaker1: The comments are just a mess. Seriously, it's like there are only ignorant people out there.\nSpeaker2: Why are they getting a lighter sentence when they're a repeat offender?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00036-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00036-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00036-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00036-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00037",
+    "dialogue": "Speaker1: They're just pathetic losers who found my parents' address through a private investigator.\nSpeaker2: I can see why you'd be freaked out if your address got leaked.\nSpeaker1: He said the YouTuber felt relieved after getting bombarded with texts, like they’re too pathetic to do anything.\nSpeaker2: That could really be dangerous, right? How do we know if that person’s actually crazy?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00037-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00037-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00037-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00037-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00038",
+    "dialogue": "Speaker1: What’s the point of asking in group chats or communities when you could just look it up?\nSpeaker2: Could be 'cause there’s a lot of ads when you search, or maybe they just wanna chat.\nSpeaker1: Yeah, that makes sense. They might just wanna connect with people over it.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00038-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00038-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00038-003",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00039",
+    "dialogue": "Speaker1: I'm never dating a broke guy again. It's not just the money; the low self-esteem and insecurity are just pathetic.\nSpeaker2: Wow, our wife living with a broke husband is really something.\nSpeaker1: You don't show that side, though. You're really kind and caring.\nSpeaker2: Money isn't everything. You can have it one day and be broke the next.\nSpeaker1: But low self-esteem formed during times of being broke can't be fixed even with money.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00039-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00039-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00039-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00039-004",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00039-005",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00040",
+    "dialogue": "Speaker1: I've been hearing those show doctors on TV talking about stuff like accelerated aging and slow aging a lot lately.\nSpeaker2: That doctor looks like they’re aging twice as fast, so I’m not buying it.\nSpeaker1: I think the stuff that keeps popping up on TV is just fear marketing to sell more and squeeze money out of people.\nSpeaker2: Especially that person seems super untrustworthy. The way they talk about aging, they look the oldest themselves.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00040-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00040-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00040-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00040-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00041",
+    "dialogue": "Speaker1: It's crazy that it only took 10 years to ruin 61 lives.\nSpeaker2: The main culprit gets 10 years and the rest only 4? The law's really lacking. Those people will be out in no time to do it again.\nSpeaker1: It's wild that the victims from Seoul National University had to catch the guy themselves while the police just gave up. This country lets them out after like 2 years, too.\nSpeaker2: In another country, they would’ve gotten 610 years. This makes me think the police and judges are all just irresponsible.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00041-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00041-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00041-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00041-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00042",
+    "dialogue": "Speaker1: If you cared that much about the cat, you could’ve visited your parents more often or found it a good home.\nSpeaker2: You knew I was a cat mom before we got married, though.\nSpeaker1: Do you really think it makes sense to choose a cat over your own kid?\nSpeaker2: I think cat moms tend to prioritize cats over people because they're infected with toxoplasmosis; it's just how it is.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00042-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00042-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00042-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00042-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00043",
+    "dialogue": "Speaker1: Any chill side gigs out there?\nSpeaker2: Seriously? You say that to me, who's grinding day and night? Do you even have a conscience?\nSpeaker1: Don’t live like that. You gotta travel and enjoy while you’re healthy. Don’t wanna regret it when you’re old.\nSpeaker2: Don't worry, I'll live it up while I watch you homeless with all your limbs intact.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00043-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00043-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00043-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00043-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00044",
+    "dialogue": "Speaker1: Sounds like they think their genes are superior or something.\nSpeaker2: Why do mother-in-laws always say stuff like that?\nSpeaker1: They're trying to cut ties by saying they can't show a nonexistent baby.\nSpeaker2: It's really upsetting that they can't express themselves any better at their age.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00044-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00044-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00044-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00044-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00045",
+    "dialogue": "Speaker1: Seems like the new hires are getting lazier and less motivated.\nSpeaker2: They've got the degrees, but they're short on experience and patience.\nSpeaker1: Seems like effort and grit are a thing of the past now.\nSpeaker2: I guess I gotta lower my expectations to feel better.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00045-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00045-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00045-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00045-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00046",
+    "dialogue": "Speaker1: You know I really care about you, right?\nSpeaker2: What are you talking about? You drunk?\nSpeaker1: Always sorry and grateful.\nSpeaker2: Just stop and go to sleep.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00046-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00046-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00046-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00046-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00047",
+    "dialogue": "Speaker1: I really think this got pushed back because of looks.\nSpeaker2: What do you mean \"behind\"? You got those doll eyes, right?\nSpeaker1: It's frustrating, not saying I'm uglier, just that I got outmatched in looks. Isn't social life tough?\nSpeaker2: Whoever's looking can see they're way better, are you blind?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00047-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00047-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00047-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00047-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00048",
+    "dialogue": "Speaker1: Whoa, what’s happening? First snow and I’m stuck on the road. It’s been 2 hours already.\nSpeaker2: I was stuck in traffic too, cars lined up everywhere.\nSpeaker1: I don't get what they're doing when this crazy weather keeps happening with no prep.\nSpeaker2: I'm more worried since it's an electric car. No snow chains either. Might as well just park it and wait.\nSpeaker1: Guess I should do that. Better to just go to sleep instead of waiting.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00048-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00048-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00048-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00048-004",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00048-005",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00049",
+    "dialogue": "Speaker1: I have trauma from that person.\nSpeaker2: What are you talking about? How'd that person give you trauma?\nSpeaker1: So, when I was really into OjiCom, the first people I met said they thought I’d like that guy.\nSpeaker2: That's hilarious.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00049-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00049-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00049-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00049-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00050",
+    "dialogue": "Speaker1: Sounds like if they get sued like that, they won't be pulling that kind of stuff anymore.\nSpeaker2: That's true. In that situation, killing's way better. You just do a few years for murder and it's over.\nSpeaker1: If you try to settle for a few million won to avoid prison, you end up losing the money and still being a sex offender, so you can't do anything anyway.\nSpeaker2: If I get involved with a Korean girl, it feels like one of us is gonna end up dead.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00050-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00050-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00050-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00050-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00051",
+    "dialogue": "Speaker1: When are you gonna stop holding the students back with all this Dongduk University mockery?\nSpeaker2: Yo Dongduk, stop talking and just pay back the school.\nSpeaker1: Yo, Donghyun's here again, can you just leave?\nSpeaker2: Running away and telling me to shut up when you’ve got nothing to say? Classic feminism, huh?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00051-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00051-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00051-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00051-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00052",
+    "dialogue": "Speaker1: The smell from the guy next to me is really strong.\nSpeaker2: How about gifting some air freshener or deodorizer?\nSpeaker1: I tried that already, but it didn’t help. Just breathing makes me wanna gag.\nSpeaker2: Gotta be honest about it. Switching seats could work too.\nSpeaker1: Work's fun, but this unexpected issue's got me stressed.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00052-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00052-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00052-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00052-004",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00052-005",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00053",
+    "dialogue": "Speaker1: There are way too many people who just start arguing during pressure interviews.\nSpeaker2: They're just trying to weed out the ones who bail at the first sign of criticism.\nSpeaker1: That's why your company isn't growing, with that old-school mindset.\nSpeaker2: Seems like if you poke at the kids these days, their true colors show. Handling the MZ generation feels easier than dealing with elementary schoolers.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00053-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00053-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00053-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00053-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00054",
+    "dialogue": "Speaker1: You could get sued for stuff like that if you order food overseas the way we do here.\nSpeaker2: Companies wanna go global, but they're stuck because of weak regulations.\nSpeaker1: What are you talking about? I just heard a Korean CEO in the U.S. got sued for being a jerk and got hit with a huge fine!\nSpeaker2: Are you one of those woke lefties?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00054-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00054-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00054-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00054-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00055",
+    "dialogue": "Speaker1: If you're going through menopause, just own it. Why are you flipping the AC on and off like it's a big deal?\nSpeaker2: Might wanna quit and go see the grandkids instead.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00055-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00055-002",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00056",
+    "dialogue": "Speaker1: I really don’t want anyone telling me if someone’s talking trash about me. It’s so gross when they act like they care and then pass it on.\nSpeaker2: They're just telling you 'cause they like you, it's not that gross. Aren't you overthinking it a bit?\nSpeaker1: They're just telling me for their own amusement, like if I get mad I'm petty, and if I'm blank-faced I'm fake.\nSpeaker2: Don't think so negatively.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00056-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00056-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00056-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00056-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00057",
+    "dialogue": "Speaker1: Is that even a thing?\nSpeaker2: Why do they keep helping people who don’t really contribute to the country’s budget?\nSpeaker1: If we keep coddling them, they'll get used to living off handouts.\nSpeaker2: I guess the government thinks forgiving debt and letting those people just get by is good enough.\nSpeaker1: I'm really pissed off. It's making me not wanna work.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00057-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00057-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00057-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00057-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00057-005",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00058",
+    "dialogue": "Speaker1: In a world where school authority is weak, it's only natural for parents to hire private investigators for personal retribution when bullying happens.\nSpeaker2: Those bullies are a real problem. They're definitely a menace to society, and we gotta get rid of them.\nSpeaker1: I'd rather go to jail than have my kid jump off the apartment roof.\nSpeaker2: Since the weak get bullied, hiring someone really strong to shut them up will totally keep them away.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00058-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00058-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00058-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00058-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00059",
+    "dialogue": "Speaker1: Going to the recycling bin in our apartment seriously makes me sigh.\nSpeaker2: Seems like there are a lot of people with issues, so nothing's changing.\nSpeaker1: Isn't it common sense to remove all the tape before throwing away delivery boxes?\nSpeaker2: That's nothing. There are tons of people who just toss leftover takeout.\nSpeaker1: I don’t get who’s supposed to clean that up. Humanity’s really hit rock bottom.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00059-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00059-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00059-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00059-004",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00059-005",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00060",
+    "dialogue": "Speaker1: Seems like that person’s been at it for 10 years but still can’t handle the job right.\nSpeaker2: So they're just collecting a paycheck, huh?\nSpeaker1: He's just cycling through subordinates to keep his spot without earning it.\nSpeaker2: I've seen some people get promoted and start slacking off more than before.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00060-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00060-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00060-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00060-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00061",
+    "dialogue": "Speaker1: Who is this person on Masked Singer? At this point, it feels like anyone can show up.\nSpeaker2: Just reading the subtitles feels like I can smell blood.\nSpeaker1: Looks like they’d mix steroids into whatever drink the members are having.\nSpeaker2: Guess there really aren’t any stars these days, now we’ve got regular folks coming out.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00061-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00061-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00061-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00061-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00062",
+    "dialogue": "Speaker1: My friend thinks it's lame how people gawk at others' love lives.\nSpeaker2: It's full of people who think they're so cool but can't tell the difference between being cool and being socially awkward. Total narcissists.\nSpeaker1: For real. That person's self-absorption totally kills the vibe for others.\nSpeaker2: Best to just laugh it off and switch topics.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00062-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00062-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00062-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00062-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00063",
+    "dialogue": "Speaker1: Is it true that a woman's pretty face, whether natural or from surgery, is like passing three bar exams?\nSpeaker2: From a guy's perspective, that's been true since the Joseon Dynasty. What have you been doing instead of studying for the exams?\nSpeaker1: I didn’t have time to work on my looks because I was busy studying for the exams, okay!\nSpeaker2: What a shame you were wasting your time on the wrong things in this day and age.\nSpeaker1: I'd rather make money than look attractive to a guy like you with no brain.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00063-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00063-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00063-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00063-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00063-005",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00064",
+    "dialogue": "Speaker1: I'm really annoyed by the lady's turf war.\nSpeaker2: It's a shame that just because they're older, they think they deserve special treatment.\nSpeaker1: I wanna yank the keyboard cord and smack something.\nSpeaker2: It's kinda funny how you're just losing it all by yourself, huh?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00064-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00064-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00064-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00064-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00065",
+    "dialogue": "Speaker1: The mom of the kid who bought the game console on Carrot Market is freaking out, asking for the account info.\nSpeaker2: Sounds like a full-time mom begging on Danggeun Market.\nSpeaker1: I flat out said no.\nSpeaker2: There are more people like that than you'd think. It's not just the entitled moms.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00065-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00065-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00065-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00065-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00066",
+    "dialogue": "Speaker1: You know the easiest way for a girl to mess up her life?\nSpeaker2: What could that even be?\nSpeaker1: Marrying a broke guy with no social skills and having kids while you're still young.\nSpeaker2: Ugh, just hearing that drains me. What did the kids do to deserve this?\nSpeaker1: In the end, it’s a lesson to value yourself and make smart choices, right?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00066-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00066-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00066-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00066-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00066-005",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00067",
+    "dialogue": "Speaker1: It’s really sad how many people in this country get joy from others' failures. Feels like they’re just tearing each other down.\nSpeaker2: It's reality that they mock even without failure, so I can't imagine how much worse it gets when you do fail. There are so many insecure people who say passing the 9th grade exam is just like being a mover or a delivery guy.\nSpeaker1: It seems like the obsession with comparison and money is a global thing, but it feels especially intense in Korea.\nSpeaker2: They just mock and leave hate comments to relieve their stress and feel superior, it's all about their own satisfaction.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00067-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00067-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00067-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00067-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00068",
+    "dialogue": "Speaker1: They say Argentina just made 'Kimchi Day' a national holiday.\nSpeaker2: I can't believe Argentina has a Kimchi Day when we don't even have one!\nSpeaker1: I don't get it either. Isn't it a bit much to make it a national holiday?\nSpeaker2: What's the difference from designating a Tanghulu Day in our country?\nSpeaker1: Guess we gotta be proud if kimchi's that great.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00068-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00068-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00068-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00068-004",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00068-005",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00069",
+    "dialogue": "Speaker1: Sounds like your mom didn't go to college, huh?\nSpeaker2: Why do people leave weird comments like this? Is it some insecurity about their school?\nSpeaker1: Maybe it’s better to reflect on your own shortcomings instead of blaming others? Getting into a Seoul university is tough for everyone.\nSpeaker2: Anyway, it seems like people with twisted personalities are the ones who comment the most.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00069-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00069-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00069-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00069-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00070",
+    "dialogue": "Speaker1: They say by 2040, only national and metropolitan universities will be left.\nSpeaker2: Looks like colleges have no choice with freshmen dropping like that.\nSpeaker1: Maybe the situation up till now has been kinda abnormal. There are a lot of schools out there just cashing in without being legit foundations.\nSpeaker2: It could be because they’re throwing funding at those private schools, which is why public and regional universities are struggling.\nSpeaker1: Yeah, with the birth rate dropping, there are a ton of issues.\nSpeaker2: For real, how can a country survive without its people?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00070-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00070-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00070-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00070-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00070-005",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00070-006",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00071",
+    "dialogue": "Speaker1: What does that comment about being fatter even mean?\nSpeaker2: They're just pig dads. People who think being a pig is better than being a skinny guy.\nSpeaker1: The styling down below is really on point.\nSpeaker2: They're just pretending to feel better about their chubby selves in the mirror.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00071-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00071-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00071-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00071-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00072",
+    "dialogue": "Speaker1: Heard a 20-something woman got arrested by airport staff in Japan.\nSpeaker2: Wait, why’d she go all the way to Japan to do that?\nSpeaker1: Heard the airport staff stopped a girl taking pics of an idol's staff.\nSpeaker2: Yikes, the craziness just keeps spilling out. Fans breaking the law is beyond imagination.\nSpeaker1: I guess you could say a passionate Korean woman represented the country.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00072-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00072-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00072-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00072-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00072-005",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00073",
+    "dialogue": "Speaker1: So, it’s saying it’s only gonna set gender as male or female, not including gender X.\nSpeaker2: I just can’t wrap my head around that identity. Feels like there’s something off mentally.\nSpeaker1: They should just be accepted without persecution or oppression, but trying to be mainstream is what gets them backlash.\nSpeaker2: This is right. Listening to people with mental issues is just messing up the country.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00073-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00073-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00073-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00073-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00074",
+    "dialogue": "Speaker1: He totally covered the place with calligraphy of 'sex' from the ethics book.\nSpeaker2: Someone said to think of it like raising a big lizard and just let it go.\nSpeaker1: It's frustrating to think that I'm losing to that kid who's going through puberty while I'm in menopause.\nSpeaker2: Since common sense isn't gonna work, just get him some chicken. That's all you gotta do, mom.\nSpeaker1: I don't even wanna see him eat, why would I wanna buy him chicken?\nSpeaker2: They say adolescence is just a temporary mental phase. Hang in there and keep it together.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00074-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00074-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00074-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00074-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00074-005",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00074-006",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00075",
+    "dialogue": "Speaker1: Classic writing from a schizophrenic.\nSpeaker2: It's all over the place, full of suspicion and paranoia.\nSpeaker1: Got no family? Seems like you need some help.\nSpeaker2: Seems like a really hard person to understand.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00075-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00075-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00075-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00075-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00076",
+    "dialogue": "Speaker1: A lot of kids ignore their parents once they turn twenty.\nSpeaker2: It's kinda rough to act like that after your parents took care of you for 20 years.\nSpeaker1: I think age and being an adult are two different things. You gotta act your age to be a real adult.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00076-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00076-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00076-003",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00077",
+    "dialogue": "Speaker1: I'm curious why they got rid of the arrow button on Street View and added touch functionality; it just takes me to weird places and it's annoying.\nSpeaker2: Guess I’m not the only one getting sent to weird places.\nSpeaker1: It's super frustrating trying to move around in units other than street view; it just lags.\nSpeaker2: I seriously wonder if they made the update annoying on purpose to push users to switch to other services.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00077-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00077-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00077-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00077-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00078",
+    "dialogue": "Speaker1: Is my girlfriend saying I smell like a white guy a diss or a compliment?\nSpeaker2: How does your girlfriend even know what a white person smells like? She’s definitely dated one before.\nSpeaker1: Stop joking around, I'm being serious right now.\nSpeaker2: Isn't it just a mix of cheese and butter smell?\nSpeaker1: It’s not a stinky smell, right? Is she hinting I smell like body odor?\nSpeaker2: Just ask straight up. No need to stress over that.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00078-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00078-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00078-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00078-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00078-005",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00078-006",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00079",
+    "dialogue": "Speaker1: I just wanna work quietly and get paid, no spotlight or praise from the boss.\nSpeaker2: Older bosses tend to praise you for doing well and then pile on more work.\nSpeaker1: It's so frustrating seeing my coworkers act dumb and slack off just because I keep my head down and work quietly.\nSpeaker2: Lately, it seems like kids are self-taught in manners or something; they really disrespect their seniors a lot.\nSpeaker1: I just wanna win the lottery quietly and leave this country without anyone knowing.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00079-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00079-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00079-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00079-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00079-005",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00080",
+    "dialogue": "Speaker1: That cocky little punk. People need to see his true colors.\nSpeaker2: For real, it’s so frustrating.\nSpeaker1: It's just so gross-looking, seriously.\nSpeaker2: I'm worried about what's coming.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00080-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00080-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00080-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00080-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00081",
+    "dialogue": "Speaker1: I just wish the media wouldn’t treat disabled people as special. They’re not inherently nicer or smarter; they’re just regular folks living their lives like everyone else.\nSpeaker2: Yeah, it’s not about overcoming a disability; it’s just about living with it.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00081-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00081-002",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00082",
+    "dialogue": "Speaker1: I usually don't like good-looking guys.\nSpeaker2: When I liked him, everyone totally ignored him for being ugly.\nSpeaker1: But now everyone says he's good-looking.\nSpeaker2: I’m already over it.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00082-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00082-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00082-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00082-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00083",
+    "dialogue": "Speaker1: Sorry, baseball really is a sport. They wouldn’t sue over just some trash talk, right…\nSpeaker2: People who watch baseball see players as just athletes, but those who watch League treat them like they're on the same level as Jesus.\nSpeaker1: In the face of esports, leisure is definitely a sport. Who cares what sports really are?\nSpeaker2: But honestly, a lot of those regional slurs come from baseball fans.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00083-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00083-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00083-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00083-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00084",
+    "dialogue": "Speaker1: I look really good today.\nSpeaker2: Still kinda looks like a bunny, though.\nSpeaker1: How's that tint you bought that was totally wrong?\nSpeaker2: Oh, that one was so bad I just threw it out.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00084-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00084-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00084-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00084-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00085",
+    "dialogue": "Speaker1: Is it really right for Japan, one of the top five economies in the world, to have such a high child poverty rate?\nSpeaker2: They take all the economic benefits, leaving everyone else pretty much in poverty.\nSpeaker1: Yeah, when you think about it, China and India are kinda in the same boat.\nSpeaker2: True, it’s not about the country’s overall economy or ranking, but who’s actually sharing that wealth.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00085-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00085-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00085-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00085-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00086",
+    "dialogue": "Speaker1: The sound issue is just content to show off my idol's live skills!\nSpeaker2: Otherwise, I'd have to run around defending them every time there's a skill debate, and if that leads to fights, life would get super exhausting.\nSpeaker1: It's hilarious to be shielding them, though. They just debuted appealing with cuteness and totally have that creepy uncle vibe.\nSpeaker2: We've never been that.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00086-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00086-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00086-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00086-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00087",
+    "dialogue": "Speaker1: Feels like I just threw my money away.\nSpeaker2: They say to get Botox as soon as you start seeing wrinkles. If you wait until you're older, it doesn't work as well and doesn't last long.\nSpeaker1: Aging's a bummer, and I don't get why everything costs so much.\nSpeaker2: At least it’s a painless shot, so that’s a relief.\nSpeaker1: Yeah, the results aren't great, so I guess I just gotta live for my own satisfaction.\nSpeaker2: That's the best way to save money and stress less.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00087-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00087-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00087-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00087-004",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00087-005",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00087-006",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00088",
+    "dialogue": "Speaker1: Why can't I reach you?\nSpeaker2: I was at the store getting cucumbers. My phone was in my bag.\nSpeaker1: Why'd you buy cucumbers?\nSpeaker2: Of course I bought it to eat, what else would I get it for?\nSpeaker1: I meant what side dish you were planning to make. You're kinda touchy.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00088-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00088-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00088-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00088-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00088-005",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00089",
+    "dialogue": "Speaker1: It's no surprise the approval rating's over 80%. Everyone's dealing with their own consequences. Pretending not to make money backfires too.\nSpeaker2: They're really a bunch of selfish groups. The nursing program's enrollment has more than doubled since 2008.\nSpeaker1: They're just people blinded by money. If doctors really made bank like lawyers, they'd be at big corporations.\nSpeaker2: It's really ironic how doctors were all about patient care when nurses were striking for more staff.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00089-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00089-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00089-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00089-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00090",
+    "dialogue": "Speaker1: Better to just turn it off and pull it along.\nSpeaker2: That's a totally different situation. We're talking about crossing the crosswalk normally right now.\nSpeaker1: Is it normal to get hit by a bike? Please just keep quiet if you don’t know.\nSpeaker2: Are you saying it's not normal to cross the crosswalk on a bike?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00090-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00090-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00090-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00090-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00091",
+    "dialogue": "Speaker1: Korean strawberries are seriously delicious.\nSpeaker2: In the U.S., you gotta eat strawberries in season or ones grown in greenhouses.\nSpeaker1: Nah, I’m just saying Korean strawberries are really tasty, no matter what.\nSpeaker2: I heard it's a variety developed in Japan.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00091-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00091-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00091-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00091-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00092",
+    "dialogue": "Speaker1: It was such a struggle getting to work this morning because of those bikers.\nSpeaker2: Gotta be grateful, they're just dreamers of organ donation.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00092-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00092-002",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00093",
+    "dialogue": "Speaker1: They just gotta shake hands with the fans at the signing event and no one will say anything.\nSpeaker1: I really don’t get why they make such an easy thing so hard.\nSpeaker2: It's just pathetic to see them fighting over whether they said hi or not.\nSpeaker2: The country's really going downhill.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00093-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00093-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00093-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00093-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00094",
+    "dialogue": "Speaker1: What? You’re negotiating with the Chinese? Isn’t that a leftist move?\nSpeaker2: Are you stupid? We gotta negotiate, or are you saying the nuke holders should just fight it out in the UFC?\nSpeaker1: Isn't TikTok leaking personal info to China, and that's why Congress is pushing back?\nSpeaker2: They decided to give TikTok a 50% stake and a 90-day grace period, then briefly loosened things up.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00094-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00094-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00094-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00094-004",
+        "label": "appropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00095",
+    "dialogue": "Speaker1: Isn't it fair to make women do mandatory service at daycare or nursing homes since they don't go to the military anyway?\nSpeaker2: Nah, don’t you know some women just abuse the vulnerable when no one's around?\nSpeaker1: I guess the pain that women inflict and the abuse in the military are pretty much the same for the vulnerable.\nSpeaker2: At this point, it feels like being born weak in Hell is a sin and a curse.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00095-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00095-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00095-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00095-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00096",
+    "dialogue": "Speaker1: Dealing with that spread-eagle dude on the subway is rough.\nSpeaker2: Gotta feel sorry for him, though; apparently his legs are just splayed out.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00096-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00096-002",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00097",
+    "dialogue": "Speaker1: What does it say about cats that all the single women end up as cat moms?\nSpeaker2: What is it about cats that messes with our heads, though?\nSpeaker1: But seriously, breaking their food bowl makes no sense. It just gets their shoes dirty. They could just pour in some fish sauce, and if a cockroach shows up, the public opinion will take care of itself.\nSpeaker2: It really makes me mad seeing what cat moms do and write. I just wanna help them with their mental issues.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00097-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00097-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00097-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00097-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00098",
+    "dialogue": "Speaker1: I don’t get that logic. Maybe read a book or something.\nSpeaker2: You can't even measure how foolish those people are.\nSpeaker1: What do they even think?\nSpeaker2: They were already crazy, but now they seem even crazier.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00098-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00098-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00098-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00098-004",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00099",
+    "dialogue": "Speaker1: I got a lot of crap from the cafe while I was holding my dog and getting takeout coffee.\nSpeaker2: Aren't pets usually banned in regular cafes by law?\nSpeaker1: I wasn't even gonna stay, just ordered and stepped out, but they were so loud about it.\nSpeaker2: I can see how that might bother other customers, especially if someone has a pet allergy.\nSpeaker1: They're making a big deal out of nothing.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00099-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00099-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00099-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00099-004",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00099-005",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00100",
+    "dialogue": "Speaker1: Ugh, I really wanna quit.\nSpeaker2: It totally kills the vibe when a newbie acts like that.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00100-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00100-002",
+        "label": "inappropriate"
+      }
+    ]
+  },
+  {
+    "id": "nikluge-2025-au-dev-00101",
+    "dialogue": "Speaker1: It's just weird that they're flashing high beams from way back there. They should be hitting the brakes themselves, not telling the car in front to move.\nSpeaker2: For real, in cases like that, I think just smashing their head with a hammer is the answer.\nSpeaker1: I’d probably just keep driving and mess around with the brakes before taking off.\nSpeaker2: Isn't that usually a no-backup move?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00101-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00101-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00101-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00101-004",
+        "label": "inappropriate"
+      }
+    ]
+  }
+]
