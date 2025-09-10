@@ -1,0 +1,2349 @@
+[
+  {
+    "id": "nikluge-2025-au-dev-00001",
+    "dialogue": "화자?: Speaker2: But from a national perspective, it's something that really weakens our power. Not having kids just eats away at our productivity.\n화자?: Speaker1: Why do those idiots keep saying there's no future for gay people when they aren't having kids themselves?\n화자?: I think feminists are gaslightING men, and that'S why society's falling apart.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00001-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00001-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00001-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker2: But from a national perspective, it's something that really weakens our power. Not having kids just eats away at our productivity.\nSpeaker1: Why do those idiots keep saying there's no future for gay people when they aren't having kids themselves?\nSpeaker2: It's the feminists gaslighting guys that's making society fall apart."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00002",
+    "dialogue": "화자?: Speaker1: What’s the big deal about never traveling abroad? It’s not that crazy, right?\n화자?: Speaker2: Isn't it more pathetic to travel abroad just to show off when you don't even have the money?\n화자?: I think this society really pushes the idea that if you’not do what others are doing, you’ll get penalized, so it’s pretty common.\n화자?: Honestly, I travels abroad a lot myself, but I think saying it’s for deeper experience or broader perspective doesn’t really hold up.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00002-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00002-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00002-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00002-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: What’s the big deal about never traveling abroad? It’s not that crazy, right?\nSpeaker2: Isn't it more pathetic to travel abroad just to show off when you don't even have the money?\nSpeaker1: This society really thinks you’re in big trouble if you don’t do what everyone else is doing, so I guess this kind of thing happens a lot.\nSpeaker2: Honestly, I travel a lot too, but saying it's for experience or broadening your perspective? That's just nonsense to me."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00003",
+    "dialogue": "화자?: Speaker1: What’s a sinkhole, you nerd?\n화자?: Speaker2: You clueless single-income.\n화자?: A guy adopting, adopting, and supportinga girl.\n화자?: So, no kid allowance and you’re the sole earners, right?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00003-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00003-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00003-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00003-004",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: What’s a sinkhole, you nerd?\nSpeaker2: You clueless single-income.\nSpeaker1: A guy adopting and supporting a girl.\nSpeaker2: So, no kids and you're the only one making money, right?"
+  },
+  {
+    "id": "nikluge-2025-au-dev-00004",
+    "dialogue": "화자?: Speaker1: There are definitely those who just throw around complicated terms without explaining them, acting all knowledgeable.\n화자?: Speaker2: For real, they totally give off that vibe like they're better than us.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00004-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00004-002",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: There are definitely those who just throw around complicated terms without explaining them, acting all knowledgeable.\nSpeaker2: For real, they totally give off that vibe like they're better than us."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00005",
+    "dialogue": "화자?: Speaker1: Bet the kids these days don’t even know Girls' Generation, they debuted in 2007.\n화자?: Speaker2: They probably know the name since the feminists have that song memorized like a military march.\n화자?: I bet a LOT of them knows the song BUT not Girls' Gen.\n화자?: I mean,there are still Active Members, soI betthey know.The fans wavingtheirlightsticksprobablyknowwhoGirls'Generationis.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00005-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00005-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00005-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00005-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Bet the kids these days don’t even know Girls' Generation, they debuted in 2007.\nSpeaker2: They probably know the name since the feminists have that song memorized like a military march.\nSpeaker1: I bet a lot of them know the song but not who Girls' Generation is.\nSpeaker2: I mean, there are still active members, so I bet they know at least. The fans waving their lightsticks probably know who Girls' Generation is."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00006",
+    "dialogue": "화자?: Speaker1: Gossip's outta control, too.\n화자?: Speaker2: It's a chronic issue in female-dominated workplaces. Gather evidence and report it to HR, and if you don't handle it properly, switching jobs is the way to go.\n화자?: For real,I gotta start thinking about my exit plans. I feel likeI’m gonna lose it.\n화자?: Yikes, you’re gonna have to quit, huh?) Take a breather and lookfor a newjob.\n화자?: I’m thinking I should quit too. Going back to women-heavy companies feels like losing myself.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00006-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00006-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00006-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00006-004",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00006-005",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Gossip's outta control, too.\nSpeaker2: It's a chronic issue in female-dominated workplaces. Gather evidence and report it to HR, and if you don't handle it properly, switching jobs is the way to go.\nSpeaker1: For real, I gotta start planning my exit. I'm about to lose it.\nSpeaker2: Yikes, it’s that bad, huh? Take a break and look for a new job.\nSpeaker1: I'm thinking that too. If I go back to a women-dominated company, I'm gonna lose it."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00007",
+    "dialogue": "화자?: Speaker1: They say for office workers, clothes are like armor. If you’re skilled and dress well, you’ll stand out and have a clear path to success.\n화자?: Speaker2: I'm basically a one-outfit guy. Can’t shake the school uniform habit, I guess? lol\n화자?: I guess you can gets by a bit if you dresswell, but unless you got both skills and attire, you might as well be out of it.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00007-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00007-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00007-003",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: They say for office workers, clothes are like armor. If you’re skilled and dress well, you’ll stand out and have a clear path to success.\nSpeaker2: I'm basically a one-outfit guy. Can’t shake the school uniform habit, I guess? lol\nSpeaker1: If you dress well, you can get by even without skills, but if you lack both, you're pretty much screwed."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00008",
+    "dialogue": "화자?: Speaker1: Just found out she’s the first Asian woman to win the Nobel Prize in Literature. Congrats!!\n화자?: Speaker2: Think a little, is it normal for a book that hasn't even sold 10,000 copies to win an award?\n화자?: In 2205, The Vegetarius had over 1.6 million copies sold, and criteria for awards isn’t just sales.\n화자?: What’s there to believe in a Nobel prize that’ve been awarded by a leftist movement and lost Its value and authority?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00008-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00008-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00008-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00008-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Just found out she’s the first Asian woman to win the Nobel Prize in Literature. Congrats!!\nSpeaker2: Think a little, is it normal for a book that hasn't even sold 10,000 copies to win an award?\nSpeaker1: The Vegetarian sold over 680,000 copies in 2016, and sales aren’t even the only standard.\nSpeaker2: What’s the point of getting a Nobel Prize that’s gone leftist and lost its value? It’s got no worth or authority anymore."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00009",
+    "dialogue": "화자?: Speaker1: But seriously, making fun of someone for not traveling abroad is just low.\n화자?: Speaker2: Yeah, there are always those show-offs no matter where you go.\n화자?: I bet those low-key kids will be a sight to see as adults.\n화자?: It shows how much the people are becoming lower-class, it's because of the influence and power of vulgar economics.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00009-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00009-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00009-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00009-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: But seriously, making fun of someone for not traveling abroad is just low.\nSpeaker2: Yeah, there are always those show-offs no matter where you go.\nSpeaker1: Those lowlifes are gonna be a real mess as adults.\nSpeaker2: It's proof that people are getting more low-class... thanks to the influence of vulgar capitalism..."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00010",
+    "dialogue": "화자?: Speaker1: I was so mad after getting teabagged while gaming yesterday, I almost lost it.\n화자?: Speaker2: Guess there were some rude people, huh? Should've taught 'em a lesson.\n화자?: For real, teabagging isn’t fun or respectful! But our team did it and won, which is a bummer.\n화자?: [err] Speaker2: Haha! Revenge success! I feel so relieved.\n화자?: I just kept following that dude since teабagging is like a greeting level.\n화자?: Seems like I can never play well against those people. They're really lacking in both skills and character.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00010-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00010-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00010-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00010-004",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00010-005",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00010-006",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: I was so mad after getting teabagged while gaming yesterday, I almost lost it.\nSpeaker2: Guess there were some rude people, huh? Should've taught 'em a lesson.\nSpeaker1: For real, teabagging's not even fun or respectful! But hey, our team won, so it was sweet.\nSpeaker2: Haha! Revenge success! I feel so relieved.\nSpeaker1: I just chased that dude down like crazy since teabagging is such a low move lol.\nSpeaker2: Never seen those kinds of people play well. They’ve got no skills or character."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00011",
+    "dialogue": "화자?: Speaker1: I quit that job 'cause working under someone else is gross. Can't live like that.\n화자?: Speaker2: But you can't live off someone else either, just acting all high and mighty. Crazy.\n화자?: It's really tough living like this after graduating from a nobody's school.\n화자?: Stop talking nonsense. Even a high School grad like me is doing fine, but if you don’t change your attitude,you’ll end up in a soup center.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00011-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00011-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00011-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00011-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: I quit that job 'cause working under someone else is gross. Can't live like that.\nSpeaker2: But you can't live off someone else either, just acting all high and mighty. Crazy.\nSpeaker1: Life's a struggle coming out of a nobody school and hustling like this.\nSpeaker2: Dude, even I’m doing fine with just a high school diploma. If you can’t fix that messed-up attitude, you’re gonna end up at a soup kitchen."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00012",
+    "dialogue": "화자?: Speaker1: Aren't the fans who just accept and consume that stuff part of the problem too?\n화자?: Speaker2: It's just like blaming a woman for getting sexually harassed—using fan loyalty to take advantage is the real problem.\n화자?: I don’t get why fans should complain about it when it’s 80% or 90% criminal responsibility for sexual Assault. Buying an idol’s album isn’t something fans do, so they shouldn’t be complaining about it.\n화자?: Are people gonna quit drinking sojo just 'because' it's more expensive? Fans keep complaining about artists, but they still buy those albums. Cutthe noise.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00012-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00012-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00012-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00012-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Aren't the fans who just accept and consume that stuff part of the problem too?\nSpeaker2: It's just like blaming a woman for getting sexually harassed—using fan loyalty to take advantage is the real problem.\nSpeaker1: It's 100% the criminal's fault for sexual assault, but buying an idol's album is 100% your choice, so why throw shade while doing that?\nSpeaker2: Are people gonna stop drinking soju just 'cause the price went up? Fans complain about artists but still buy their stuff. Cut the nonsense already."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00013",
+    "dialogue": "화자?: Speaker1: Seems like the elderly are getting pushed aside and hate against them is spreading, which is making things more extreme.\n화자?: Speaker2: For real. Those old guys like the gas can grandpa or the one in the Marine hat must've had a tough time raising their kids...\n화자?: I think the problem isn’t acknowledging their loneliness and attempting to connect, but rather having an attitude of hate and harm toward others.\n화자?: Seems like the reasons behind radicalization are the same for young men as they are for old folks.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00013-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00013-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00013-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00013-004",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Seems like the elderly are getting pushed aside and hate against them is spreading, which is making things more extreme.\nSpeaker2: For real. Those old guys like the gas can grandpa or the one in the Marine hat must've had a tough time raising their kids...\nSpeaker1: Seems like the problem is not acknowledging loneliness and trying to connect with people, but instead hating and hurting others.\nSpeaker2: Seems like the same reason for the radicalization of young men too."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00014",
+    "dialogue": "화자?: Speaker1: Why are there so many narcissists these days?\n화자?: Speaker2: They're the type you gotta avoid in life.\n화자?: It's so ironic how they can hurt others without even thinking, but always swear revenge for even the tiniest scratch on themselves.\n화자?: I think \"narcissist\" is way more insulting than \"sociopath.\" They've got low self-esteem, so it's kinda sad.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00014-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00014-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00014-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00014-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Why are there so many narcissists these days?\nSpeaker2: They're the type you gotta avoid in life.\nSpeaker1: They'll stab others without a second thought, but swear lifelong revenge on anyone who pricks their own finger.\nSpeaker2: \"Narcissist\" is way too soft a term. They're just dumb sociopaths."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00015",
+    "dialogue": "화자?: Speaker1: Lmao, those idiots think allergy \"treatment\" is a thing. In the 21st century, modern medicine hasn't solved anything beyond just \"relieving\" symptoms.\n화자?: Speaker2: So they call it treatment 'cause it makes you less reactive to the allergens?\n화자?: According to the FAA, there's no allergen cure, yet everyone's obsessed with treatment. This really feels like the mad cow disease republic for sure.\n화자?: It's Anaphylaxis Bulinique, an FDA approval, so not knowing is kinda embarrassing, but it’s not a criminal issue. There are a lot of treatment options like sublingual therapy depending upon the type and severity of the allergy.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00015-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00015-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00015-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00015-004",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Lmao, those idiots think allergy \"treatment\" is a thing. In the 21st century, modern medicine hasn't solved anything beyond just \"relieving\" symptoms.\nSpeaker2: So they call it treatment 'cause it makes you less reactive to the allergens?\nSpeaker1: According to the FDA, there’s no allergy cure, but all these idiots keep talking about treatment lol. This place really is a mad cow republic, for real lol.\nSpeaker2: It's an FDA-approved drug, though? Not knowing is embarrassing, not a crime~ There are plenty of treatments like desensitization therapy depending on the type of allergy~"
+  },
+  {
+    "id": "nikluge-2025-au-dev-00016",
+    "dialogue": "화자?: Speaker1: They should change the law so those idiots on bikes can get wrecked.\n화자?: Speaker2: No clue how those things were even born with how little protection was used.\n화자?: The government's gotta be tougher Like in theU.S. but, hey, the punishment strength here just isn’t there.\n화자?: I feel like a lot of them'll crash into a homeless person on the subway in 2050.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00016-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00016-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00016-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00016-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: They should change the law so those idiots on bikes can get wrecked.\nSpeaker2: No clue how those things were even born with how little protection was used.\nSpeaker1: The government needs to be tougher like in the U.S., but look at how weak the punishments are here in Korea.\nSpeaker2: They'll be all crumpled up next to a subway homeless person in 30 years."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00017",
+    "dialogue": "화자?: Speaker1: Did you see that movie yesterday?\n화자?: Speaker2: Yeah, it was super confusing.\n화자?: Just don’tstthink too hard.\n화자?: I’m thinking of checking out the interpretation and watching it again.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00017-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00017-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00017-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00017-004",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Did you see that movie yesterday?\nSpeaker2: Yeah, it was super confusing.\nSpeaker1: Just don’t think too hard.\nSpeaker2: Haha, gonna check out the movie analysis and give it another shot."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00018",
+    "dialogue": "화자?: Speaker1: I'm worried about everything for my cousin's wedding.\n화자?: Speaker2: Country wedding? As long as it’s not Southeast Asia, I’m cool with it lol.\n화자?: How'd I know it wasn't Southeast Asian?\" I thought him bringing home a girl way older than himself was the sign.\n화자?: Whoa, I hear he’re doing a false marriage while left behind a husband. Tell the cousin to gets his act together.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00018-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00018-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00018-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00018-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: I'm worried about everything for my cousin's wedding.\nSpeaker2: Country wedding? As long as it’s not Southeast Asia, I’m cool with it lol.\nSpeaker1: How'd you know it was Southeast Asian? I thought he was bringing home some girl way younger than him.\nSpeaker2: Whoa, I heard he’s doing a fake marriage while leaving a husband back home. Tell your cousin to get it together."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00019",
+    "dialogue": "화자?: Speaker1: Not all Seoul universities are the same these days; people are getting in by all sorts of means, so the quality's all over the place.\n화자?: Speaker2: Yeah? But it’s a Seoul university, so they’ve gotta be smart, right? Maybe they just haven’t adjusted yet.\n화자?: What are you talkinhg? They're barely getting in through the rural admissions because they don't meet the standards.\n화자?: Yeah, evenif you're from a superprivileged small town, you'd still end up with that vibe.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00019-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00019-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00019-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00019-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Not all Seoul universities are the same these days; people are getting in by all sorts of means, so the quality's all over the place.\nSpeaker2: Yeah? But it’s a Seoul university, so they’ve gotta be smart, right? Maybe they just haven’t adjusted yet.\nSpeaker1: What are you talking about lol? They barely got in through some rural admissions scheme; their level's just not there.\nSpeaker2: Yeah, even if they’re top of their little town, it’s still just that, lol."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00020",
+    "dialogue": "화자?: Speaker1: I don’t get why people are so judgmental about it.\n화자?: Speaker2: Preach. If you eat a lot, you're a pig; if you eat a little, you're picky. If you like designer stuff, you're a gold digger. People are gonna talk no matter what, so living life my way is the best.\n화자?: For real. What do they even care about? It'S MY LIFE.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00020-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00020-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00020-003",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: I don’t get why people are so judgmental about it.\nSpeaker2: Preach. If you eat a lot, you're a pig; if you eat a little, you're picky. If you like designer stuff, you're a gold digger. People are gonna talk no matter what, so living life my way is the best.\nSpeaker1: For real. It's my life, so what do they care?"
+  },
+  {
+    "id": "nikluge-2025-au-dev-00021",
+    "dialogue": "화자?: Speaker1: Doesn't matter at all to those broke losers.\n화자?: Speaker2: Still, plastering's a guaranteed win... the national fund's a joke lmao. 5 years holding -80%, 10 years -95%, 20 years? Total bust, you get me?\n화자?: Where are the people holding on for50years? That's an pointless assumption.\n화자?: I invested in that portfolio for 60 years and it all got wiped out.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00021-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00021-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00021-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00021-004",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Doesn't matter at all to those broke losers.\nSpeaker2: Still, plastering's a guaranteed win... the national fund's a joke lmao. 5 years holding -80%, 10 years -95%, 20 years? Total bust, you get me?\nSpeaker1: Who’s gonna hold on for 50 years? That’s a pointless assumption lol.\nSpeaker2: Invested in that for 40 years, all gone lmao."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00022",
+    "dialogue": "화자?: Speaker1: I went on a blind date and decided I gotta do an international marriage... haha.\n화자?: Speaker2: Did you meet a total kimchi-doenjang stew kind of girl? Gotta have a word with the matchmaker lol.\n화자?: Yeah, right away, she started subtly objectifying people, sayin' guys would lined up for herself and all that. Total legend.\n화자?: Ugh, I really wanna give sheehan a smack; guess that'S the average smell for Korean women that age.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00022-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00022-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00022-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00022-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: I went on a blind date and decided I gotta do an international marriage... haha.\nSpeaker2: Did you meet a total kimchi-doenjang stew kind of girl? Gotta have a word with the matchmaker lol.\nSpeaker1: Yeah, right from the start, she was subtly looking down on people, saying guys would line up for her and just rambling on—legendary.\nSpeaker2: Haha, I seriously wanna give her a smack. Guess that's the average for that age group, huh?"
+  },
+  {
+    "id": "nikluge-2025-au-dev-00023",
+    "dialogue": "화자?: Speaker1: For sure, they messed up too—media, cops, and that girl pushing it to the extreme.\n화자?: Speaker2: Those trashy people are accomplices too, acting like they didn’t push anyone to death after all that comment violence.\n화자?: It's just ridiculous to blame the media and police when someone dies.\n화자?: Those people doing that have theirown motives and reasons, just as much as the sheep.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00023-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00023-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00023-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00023-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: For sure, they messed up too—media, cops, and that girl pushing it to the extreme.\nSpeaker2: Those trashy people are accomplices too, acting like they didn’t push anyone to death after all that comment violence.\nSpeaker1: It's not the media's fault or the cops that someone died; it's this ridiculous blame game.\nSpeaker2: Those idiots have their own agenda and reasons. Just a bunch of sheep."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00024",
+    "dialogue": "화자?: Speaker1: This whole thing keeps popping up, and it’s just so fresh—seriously creepy.\n화자?: Speaker2: For real, the episodes out so far could fill a few seasons of a drama.\n화자?: Didn’t they just bail before parents and Investors started getting suspected?\n화자?: It's kinda funny, though. I've got a feeling it might've a happy end; who knows where they might'have stashed money.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00024-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00024-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00024-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00024-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: This whole thing keeps popping up, and it’s just so fresh—seriously creepy.\nSpeaker2: For real, the episodes out so far could fill a few seasons of a drama.\nSpeaker1: Didn’t he just bail when the interview and all that drama got him caught as a fraud and parents and investors started getting suspicious?\nSpeaker2: It's hella funny, but I'm kinda worried it might have a happy ending. Bet they stashed some cash somewhere too."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00025",
+    "dialogue": "화자?: Speaker1: Lately, that Black kid's been going viral with girl groups for some reason.\n화자?: Speaker2: For real, it’s annoying how he keeps popping up in those shorts and related videos when I’m just trying to watch girl group stuff.\n화자?: They might be pushing him in those TV shows because of his background. If he has connections, they can put shows that appeal to black audiences on air.\n화자?: Feels like if they caught one thing already, they’re just trying too. Lots of people ARE trying to hit them.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00025-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00025-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00025-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00025-004",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Lately, that Black kid's been going viral with girl groups for some reason.\nSpeaker2: For real, it’s annoying how he keeps popping up in those shorts and related videos when I’m just trying to watch girl group stuff.\nSpeaker1: They’re probably pushing him on TV 'cause he can cash in on those kinds of shows if he’s got connections.\nSpeaker2: Yeah, but if they catch one thing, it's game over; feels like they're trying too hard, and a lot of people are just waiting to pounce on him."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00026",
+    "dialogue": "화자?: Speaker1: Feels kinda rushed, like a love-at-first-sight vibe, even with a divorce under your belt.\n화자?: Speaker2: Haha, you were all cuddly with Youngcheol, now it's a new guy, huh? Bet you shared a blanket with Youngcheol too.\n화자?: At least she’s better Than Hebe the sea monster.\n화자?: Well, whether it'll be a divorce or remarriage, that's their choice.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00026-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00026-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00026-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00026-004",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Feels kinda rushed, like a love-at-first-sight vibe, even with a divorce under your belt.\nSpeaker2: Haha, you were all cuddly with Youngcheol, now it's a new guy, huh? Bet you shared a blanket with Youngcheol too.\nSpeaker1: At least he's better than that country farm guy.\nSpeaker2: Well, whether she gets divorced or remarried, it's her call."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00027",
+    "dialogue": "화자?: Speaker1: You probably know better, having dedicated your life or youth to it...\n화자?: Speaker2: The worst are the idiots who joke about paying back with the game.\n화자?: Yeah, that's all they’ll get, right?\n화자?: What do they think they’re getting back as compensation for working hard?\n화자?: If you made tons of money in baseball, you should at least donate some of it.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00027-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00027-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00027-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00027-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00027-005",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: You probably know better, having dedicated your life or youth to it...\nSpeaker2: The worst are the idiots who joke about paying back with the game.\nSpeaker1: Yeah, all they get is money for that.\nSpeaker2: What do you mean \"reward with a game,\" you crazy jerk?\nSpeaker1: If you made a ton of money from baseball, at least donate something to give back."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00028",
+    "dialogue": "화자?: Speaker1: Should I give my little bro some allowance? He's already getting it from the folks.\n화자?: Speaker2: If he helps out around the house, sure, but if he’s just a mooch… nah.\n화자?: Not really doing anything, how much Does he want every month?\n화자?: I usually give allowance when I feels like it. My brother'd be grateful if he got it, though. Asking him for it monthly is a little much, you know?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00028-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00028-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00028-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00028-004",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Should I give my little bro some allowance? He's already getting it from the folks.\nSpeaker2: If he helps out around the house, sure, but if he’s just a mooch… nah.\nSpeaker1: Not really doing much... how much does he want each month?\nSpeaker2: I usually give it when I feel like it, but my brother's super grateful when he gets it... Asking for it every month is a bit much though."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00029",
+    "dialogue": "화자?: Speaker1: I seriously don’t get why they’re showing that you gotta go all the way to Europe to eat it.\n화자?: Speaker2: It's 'cause girls keep finding that stuff fun; they love spicy food, and they're the main audience.\n화자?: It's kinda wild to see how proud Koreans are of spicy food when we haven']t even been eating red, spicy dishes for thatlong time historically.\n화자?: Feeling that rush of eating Korean food while traveling abroad is totally a female thing.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00029-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00029-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00029-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00029-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: I seriously don’t get why they’re showing that you gotta go all the way to Europe to eat it.\nSpeaker2: It's 'cause girls keep finding that stuff fun; they love spicy food, and they're the main audience.\nSpeaker1: It's funny how we haven't even had spicy red food for that long in Korea, but every time I see that \"Korean spicy flavor\" stuff, I'm just like, what?\nSpeaker2: It's totally a girl thing to go abroad, eat Korean food, and be like ugh, but then feel all good, haha."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00030",
+    "dialogue": "화자?: Speaker1: Tell any married guys around not to wonder who took their wife's virginity.\n화자?: Speaker2: Honestly, I just hope they didn't have an abortion.\n화자?: Don’tget your hopes UP. These days, I’m pretty sure kids’ have tried ABORTION at least one time.\n화자?: So, at least the girls who dated in college are kinda clean, I suppose.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00030-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00030-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00030-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00030-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Tell any married guys around not to wonder who took their wife's virginity.\nSpeaker2: Honestly, I just hope they didn't have an abortion.\nSpeaker1: Don’t get your hopes up; these days, kids probably have tried abortion at least once.\nSpeaker2: So, girls who met their guys at least in college seem kinda cleaner, I guess."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00031",
+    "dialogue": "화자?: Speaker1: But you don't have to go to Burger King?\n화자?: Speaker2: Not sure, thinking about skipping it.\n화자?: If you like the peopleyou work with, ayear’s fine.\n화자?: I'll text you the Manager's phone number for Now.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00031-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00031-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00031-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00031-004",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: But you don't have to go to Burger King?\nSpeaker2: Not sure, thinking about skipping it.\nSpeaker1: If the people you work with are cool, a year’s not a big deal.\nSpeaker2: I'll send you the manager's number for now."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00032",
+    "dialogue": "화자?: Speaker1: Blocked the haters from my post.\n화자?: Speaker2: Kinda feel bad for them, seeing them freak out just to talk to a girl.\n화자?: Don’t give basement dwellers what they want.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00032-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00032-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00032-003",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Blocked the haters from my post.\nSpeaker2: Kinda feel bad for them, seeing them freak out just to talk to a girl.\nSpeaker1: Don’t feed the basement warriors."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00033",
+    "dialogue": "화자?: Speaker1: Why should I pay for a year-end party I’m not even going to?\n화자?: Speaker2: How are you supposed to go when you're in the hospital?\n화자?: That's exactly what I said. It wouldn't be no difference if I skipped it, but they didn'\n화자?: Are those people even human?\n화자?: They’re saying I gotta drop the job ‘cause they did a meeting and decided to quit.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00033-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00033-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00033-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00033-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00033-005",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Why should I pay for a year-end party I’m not even going to?\nSpeaker2: How are you supposed to go when you're in the hospital?\nSpeaker1: That's what I'm saying. It's not like I'm skipping it on purpose. And they didn't even come to visit me.\nSpeaker2: Are they even human?\nSpeaker1: They said I gotta pay 'cause it was decided in the meeting, so I might as well just quit."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00034",
+    "dialogue": "화자?: Speaker1: Being a working mom for 10 months now, work's manageable, but juggling parenting after hours is still tough.\n화자?: Speaker2: You’re too ambitious, trying to do everything perfectly. It’d be nice if you could just chill a bit.\n화자?: I really respectotherworking momsfor dealingwithmysickdaughteralone.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00034-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00034-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00034-003",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Being a working mom for 10 months now, work's manageable, but juggling parenting after hours is still tough.\nSpeaker2: You’re too ambitious, trying to do everything perfectly. It’d be nice if you could just chill a bit.\nSpeaker1: Dealing with my sick daughter and doing it all alone, I really respect other working moms."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00035",
+    "dialogue": "화자?: Speaker1: Are they seriously gathering all the crazies?\n화자?: Speaker2: Is that even a fair comparison?\n화자?: I bet that person's a 방송통신 grads. No idea why they included dropping out from 서울대.\n화자?: I can't help but notice how much nonsense comes outofine.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00035-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00035-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00035-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00035-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Are they seriously gathering all the crazies?\nSpeaker2: Is that even a fair comparison?\nSpeaker1: Bet they graduated from 방송통신대. No clue why they even mentioned dropping out of 서울대.\nSpeaker2: I'm so over the nonsense that just comes out of their mouths."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00036",
+    "dialogue": "화자?: Speaker1: Those idiots are freaking out in the comments over a 10-year sentence for murder and just a year off for drugs.\n화자?: Speaker2: Is it normal to get a lighter sentence for doing drugs? Not everyone’s as dumb as you, you know?\n화자?: [err] Speaker1: The comments are a mess. Just a bunch of ignorant people.\n화자?: Why are they Getting a lightersentence than the previous ones?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00036-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00036-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00036-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00036-004",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Those idiots are freaking out in the comments over a 10-year sentence for murder and just a year off for drugs.\nSpeaker2: Is it normal to get a lighter sentence for doing drugs? Not everyone’s as dumb as you, you know?\nSpeaker1: The comments are a mess. Just a bunch of ignorant people.\nSpeaker2: Why are they getting a lighter sentence when they're a repeat offender?"
+  },
+  {
+    "id": "nikluge-2025-au-dev-00037",
+    "dialogue": "화자?: Speaker1: Just pathetic losers who dug up my parents' address from a private investigator.\n화자?: Speaker2: Kinda scary if your home address gets leaked.\n화자?: He said the YouTuber felt relieved after getting a lot of texts,like they’re too pathetic to do anything.\n화자?: That YouTber said they’d be safer with just texts, but how can they tell if they’ve gotten bombarded about mental health?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00037-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00037-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00037-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00037-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Just pathetic losers who dug up my parents' address from a private investigator.\nSpeaker2: Kinda scary if your home address gets leaked.\nSpeaker1: That YouTuber said they felt safer after getting bombarded with texts, like they can't really do anything now.\nSpeaker2: For real, how do you know they’re not crazy enough to do something?"
+  },
+  {
+    "id": "nikluge-2025-au-dev-00038",
+    "dialogue": "화자?: Speaker1: What’s the point of asking in group chats or communities when you could just look it up?\n화자?: Speaker2: Maybe 'cause there’s a lot of ads when you search, or they just wanna chat?\n화자?: Yeah, that makes sense. They might just wanna get to know people better through that.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00038-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00038-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00038-003",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: What’s the point of asking in group chats or communities when you could just look it up?\nSpeaker2: Maybe 'cause there’s a lot of ads when you search, or they just wanna chat?\nSpeaker1: That could be it. Maybe they just wanna connect with people through that."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00039",
+    "dialogue": "화자?: Speaker1: I'm done dating broke guys. It's not just the money; their low self-esteem and insecurities are just pathetic.\n화자?: Speaker2: My wife's living with a broke husband, she's something else lol.\n화자?: Your kindness and care are real, though?\n화자?: Money's nothing over you. You can have it one day and be broke the next.\n화자?: But low self_esteem formed during times of being broke can'ts be fixed by getting money.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00039-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00039-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00039-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00039-004",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00039-005",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: I'm done dating broke guys. It's not just the money; their low self-esteem and insecurities are just pathetic.\nSpeaker2: My wife's living with a broke husband, she's something else lol.\nSpeaker1: You don’t act like a fool, though. You’re really kind and caring.\nSpeaker2: Money's not everything. It can come and go, you know.\nSpeaker1: But low self-esteem built during tough times can't be fixed even with money."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00040",
+    "dialogue": "화자?: Speaker1: Lately, those show doctors are just throwing around all this random jargon about accelerated aging and slow aging nonstop.\n화자?: Speaker2: That doctor looks like they’re aging twice as fast, so I’m not buying it.\n화자?: I think the stuff that keeps popping up in TV is just fear marketing selling more to make a profit.\n화자?: Especially that person seems super untrustworthy. The way they talk about aging, they look the oldest themselves.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00040-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00040-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00040-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00040-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Lately, those show doctors are just throwing around all this random jargon about accelerated aging and slow aging nonstop.\nSpeaker2: That doctor looks like they’re aging twice as fast, so I’m not buying it.\nSpeaker1: I think those who keep popping up on TV are just using fear marketing to sell more and squeeze out cash.\nSpeaker2: I especially don’t trust that one; they’re the oldest ones talking about aging and all that lol."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00041",
+    "dialogue": "화자?: Speaker1: They messed up 61 lives and it’s only been 10 years? That’s insane.\n화자?: Speaker2: The main culprit gets 10 years, and the rest only 4... The law is seriously messed up. They'll be out in no time and just do it all over again.\n화자?: It's wild that the victims of the Seoul National Univ. case had to catch the guy themselves while the police were just giving up. This nation lets them serve for like 1 year and then reduces their sentence.\n화자?: In another country, that victim would get 580 years to serve. This makes me think the police and judges here are just irresponsible.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00041-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00041-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00041-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00041-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: They messed up 61 lives and it’s only been 10 years? That’s insane.\nSpeaker2: The main culprit gets 10 years, and the rest only 4... The law is seriously messed up. They'll be out in no time and just do it all over again.\nSpeaker1: It's crazy that the police just gave up on the investigation; the victims from Seoul National University had to figure it out themselves. This country will let them serve like 2 years and then reduce their sentence.\nSpeaker2: In a foreign country, they’d get 610 years. Just shows how trash the cops and judges are here."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00042",
+    "dialogue": "화자?: Speaker1: If you cared that much about the cat, you should've either gone home more often to take care of it yourself or found it a better place.\n화자?: Speaker2: You knew I was a cat mom before we got married, so you went into this knowing.\n화자?: Do you really think choosing a cat Over your own child is a good thing?\n화자?: I think cat moms tend to prioritize cats over people because they're infected with Toxoplasma, so it's kinda just the way it is.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00042-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00042-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00042-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00042-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: If you cared that much about the cat, you should've either gone home more often to take care of it yourself or found it a better place.\nSpeaker2: You knew I was a cat mom before we got married, so you went into this knowing.\nSpeaker1: You really think it makes sense to choose a cat over your own kid?\nSpeaker2: Cat moms are infected with toxoplasmosis, so they think cats come before people—it's just how it is."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00043",
+    "dialogue": "화자?: Speaker1: Just got back from backpacking and now I'm broke. Any chill side gigs out there?\n화자?: Speaker2: How can you say that to me, who's drowning in work day and night? Got any conscience or nah?\n화자?: Don’t act like you’ve lived your life this way. While you’s healthy, you should’ve been traveling and experiencing the world. Don’ts regret it later.\n화자?: Guess I'd be happy to watch you liveit up as some kind of broke traveler, no problem.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00043-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00043-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00043-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00043-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Just got back from backpacking and now I'm broke. Any chill side gigs out there?\nSpeaker2: How can you say that to me, who's drowning in work day and night? Got any conscience or nah?\nSpeaker1: Don’t live your life like that. You gotta travel while you’re still young and healthy. You’ll regret it when you’re old.\nSpeaker2: I'll enjoy watching you live it up as a broke wanderer, so no worries."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00044",
+    "dialogue": "화자?: Speaker1: Sounds like Grandma's just throwing a fit 'cause she thinks I look like her, living in some crazy delusion that their genes are superior.\n화자?: Speaker2: Why do all those in-laws act like that?\n화자?: They're just trying to cut ties 'cause the baby's not perfect.\n화자?: It's really bummed that they can barely express themselves anymore, even after all this time.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00044-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00044-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00044-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00044-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Sounds like Grandma's just throwing a fit 'cause she thinks I look like her, living in some crazy delusion that their genes are superior.\nSpeaker2: Why do all those in-laws act like that?\nSpeaker1: Said they can't show the baby 'cause it's ugly, so they're cutting ties.\nSpeaker2: It's sad they can only express themselves like that after all these years... I'm bummed."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00045",
+    "dialogue": "화자?: Speaker1: The new hires at work just keep getting lazier and lazier.\n화자?: Speaker2: They've got the degrees but no experience and zero patience.\n화자?: It seems like effortandgrit are a things of thepast now.\n화자?: I guess I gotta lower my expectations to feels better.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00045-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00045-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00045-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00045-004",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: The new hires at work just keep getting lazier and lazier.\nSpeaker2: They've got the degrees but no experience and zero patience.\nSpeaker1: Looks like effort and grit are a thing of the past.\nSpeaker2: Gotta let go of expectations to feel better."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00046",
+    "dialogue": "화자?: Speaker1: You know I really care about you, right?\n화자?: Speaker2: Are you outta your mind? You must be drunk.\n화자?: Always sorry and grateful.\n화자?: Just stop and go to sleep.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00046-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00046-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00046-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00046-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: You know I really care about you, right?\nSpeaker2: Are you outta your mind? You must be drunk.\nSpeaker1: I’m always sorry and stuff, thanks.\nSpeaker2: Just stop and crash already."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00047",
+    "dialogue": "화자?: Speaker1: Looks like I got pushed back just 'cause of looks, lol.\n화자?: Speaker2: What do you mean \"behind\"? You got those doll eyes, right?\n화자?: It's frustrating, not saying I've got more teeth, just that I’m kinda ugly, u... can’t even Socialize,right?\n화자?: Whoever's looked at is gonna know they've got an advantage. What are you talkinhg about?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00047-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00047-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00047-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00047-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Looks like I got pushed back just 'cause of looks, lol.\nSpeaker2: What do you mean \"behind\"? You got those doll eyes, right?\nSpeaker1: It's not that I'm uglier, just lagging in the looks department, ugh... Can't even socialize, right?\nSpeaker2: Whoever's looking can see they're better off, what are you talking about?"
+  },
+  {
+    "id": "nikluge-2025-au-dev-00048",
+    "dialogue": "화자?: Speaker1: Whoa, what’s happening? First snow and it’s a blizzard, stuck on the road for 2 hours now.\n화자?: Speaker2: I was stuck in traffic too, cars just lined up everywhere.\n화자?: I don't get what they're doing when this crazy blizzard happens with no prep.\n화자?: I'm more worried since it's an electriccar. No snow chains either. Might be better to just park and wait.\n화자?: Guess I should just go and sleep instead of waiting.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00048-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00048-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00048-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00048-004",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00048-005",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Whoa, what’s happening? First snow and it’s a blizzard, stuck on the road for 2 hours now.\nSpeaker2: I was stuck in traffic too, cars just lined up everywhere.\nSpeaker1: With this crazy weather, stuff like this is gonna keep happening, and no one's prepared? What are they even doing?\nSpeaker2: You're in more trouble with an electric car, no snow chains or anything. Might as well just park it and wait.\nSpeaker1: Guess I should do that. Don’t wait up, just go to bed first."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00049",
+    "dialogue": "화자?: Speaker1: I’ve got trauma from that person.\n화자?: Speaker2: What the hell! Why do you have trauma?\n화자?: So, whenI was reallyinto OjiComput, the first people Imet said they thought I’m gonna like him.\n화자?: That's just hilarious.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00049-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00049-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00049-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00049-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: I’ve got trauma from that person.\nSpeaker2: What the hell! Why do you have trauma?\nSpeaker1: So, when I was really into OjiCom, people I met said I looked like I’d like that person.\nSpeaker2: Lmao, that's hilarious."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00050",
+    "dialogue": "화자?: Speaker1: If Korean guys were all castrated, they wouldn't be pulling that stuff after getting sued.\n화자?: Speaker2: Yeah, in that situation, killing's way better. A few years for murder and then it's over.\n화자?: If you try to settle for a few million won to avoid prison, you end up lost on the money, and still got a sex offenders license, so you can'T win either.\n화자?: If I get into trouble with a Korean girl, it feels like I or she's gonna end up dead.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00050-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00050-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00050-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00050-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: If Korean guys were all castrated, they wouldn't be pulling that stuff after getting sued.\nSpeaker2: Yeah, in that situation, killing's way better. A few years for murder and then it's over.\nSpeaker1: For real, if they ask for a settlement in the millions to avoid jail, they end up losing the money and still get a sex offender record, so they can't win either way.\nSpeaker2: If I get involved with a girl from there, it’s either me or her that ends up dead."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00051",
+    "dialogue": "화자?: Speaker1: Cut it out with the Dongduk jokes already. How long you gonna keep holding the students back?\n화자?: Speaker2: Shut up, Dongduk, and pay back the school already.\n화자?: Yo, Donghaen's just hanging aroundhere, huh?) Just leave ya already.\n화자?: If you gotnothing to say,\\ just bounce around. Classic feminism, huh?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00051-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00051-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00051-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00051-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Cut it out with the Dongduk jokes already. How long you gonna keep holding the students back?\nSpeaker2: Shut up, Dongduk, and pay back the school already.\nSpeaker1: Dang, Donghyun's still hanging around here, huh? Just leave already.\nSpeaker2: If you got nothing to say, just bounce, huh? Classic feminist move."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00052",
+    "dialogue": "화자?: Speaker1: The smell from the guy next to me is really strong.\n화자?: Speaker2: How about gifting them some air freshener or something?\n화자?: I tried that already, but it didn’t help. Just breaking in air makes me gonna gag.\n화자?: Gotta be honest about it, huh? Switching seats could work too.\n화자?: Work'sfun, but this unexpected ISSUE's got me stressed.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00052-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00052-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00052-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00052-004",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00052-005",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: The smell from the guy next to me is really strong.\nSpeaker2: How about gifting them some air freshener or something?\nSpeaker1: Tried that already. No use. Just breathing makes me wanna hurl.\nSpeaker2: Gotta be straight up about it. Either switch seats or something.\nSpeaker1: Work's fun, but I'm stressed over this unexpected issue."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00053",
+    "dialogue": "화자?: Speaker1: There are way too many jerks just starting fights in pressure interviews.\n화자?: Speaker2: These days, if you call them out once, they just bail; it's to weed them out ahead of time.\n화자?: That's just why your companies aren't growing, with those old-style minds.\n화자?: Seems like if you poke at the kids' faces the second time, their true color shows. Handling the MZ generation is easier compared to elementary schoolers.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00053-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00053-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00053-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00053-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: There are way too many jerks just starting fights in pressure interviews.\nSpeaker2: These days, if you call them out once, they just bail; it's to weed them out ahead of time.\nSpeaker1: That's why your company isn't going anywhere, with that old-school thinking.\nSpeaker2: Haha, these kids show their true colors the second you push them; dealing with Gen Z is easier than handling elementary kids."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00054",
+    "dialogue": "화자?: Speaker1: If we pull that crap overseas like we do here, we’d get sued for sure.\n화자?: Speaker2: Can't go global 'cause of lame regulations blocking companies, lol.\n화자?: What are you talkinhg about?I just heard that a Korean executive in theU.S., got sued because he was described as a jerk, and got paid in damages!\n화자?: Are you oneofthewhosextreme liberals?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00054-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00054-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00054-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00054-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: If we pull that crap overseas like we do here, we’d get sued for sure.\nSpeaker2: Can't go global 'cause of lame regulations blocking companies, lol.\nSpeaker1: What are you talking about? I just heard a Korean CEO in the U.S. got sued for being a jerk and got hit with a huge fine!\nSpeaker2: Are you one of those woke lefties?"
+  },
+  {
+    "id": "nikluge-2025-au-dev-00055",
+    "dialogue": "화자?: Speaker1: Why's the office AC on and off like crazy if you're going through menopause?\n화자?: Speaker2: You’re not the only one in the office. Better quit and go see your grandkids already.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00055-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00055-002",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Why's the office AC on and off like crazy if you're going through menopause?\nSpeaker2: You’re not the only one in the office. Better quit and go see your grandkids already."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00056",
+    "dialogue": "화자?: Speaker1: I’d appreciate it if someone would just tell me when someone’s talking trash about me instead of pretending to care and passing it along.\n화자?: Speaker2: They're just passing it on 'cause they like you, not to gross you out. Maybe you're overthinking it?\n화자?: They'rejustusing me for their own amusement, seeing how I react. If they get mad I'll be petty, if I don't react I'LL be fake.\n화자?: Don't get mad about it.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00056-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00056-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00056-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00056-004",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: I’d appreciate it if someone would just tell me when someone’s talking trash about me instead of pretending to care and passing it along.\nSpeaker2: They're just passing it on 'cause they like you, not to gross you out. Maybe you're overthinking it?\nSpeaker1: It's just for their amusement to watch my reaction. If I get mad, I'm petty, and if I'm blank-faced, I'm fake.\nSpeaker2: Don't think so negatively."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00057",
+    "dialogue": "화자?: Speaker1: Is that even a thing?\n화자?: Speaker2: Why do they keep helping people who don’t really contribute to the country’s finances?\n화자?: If we keep codling them like that again, they'll get used to living off handouts.\n화자?: I guess the government thinks forgiving debt and letting those people just get by is good enough.\n화자?: I'm really pissed off, so I won't work.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00057-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00057-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00057-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00057-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00057-005",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Is that even a thing?\nSpeaker2: Why do they keep helping people who don’t really contribute to the country’s finances?\nSpeaker1: If they keep coddling like that, it'll just become a habit to live off others.\nSpeaker2: I guess from the government's perspective, as long as they wipe the debt and those people can take care of themselves, that's good enough.\nSpeaker1: Damn, makes me not wanna work."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00058",
+    "dialogue": "화자?: Speaker1: In a world where teachers' authority is in the gutter, it's only natural for parents to turn to private investigators for revenge when bullying happens.\n화자?: Speaker2: We gotta wipe out those trash bullies. They're a real social menace.\n화자?: I'd much rather go to jail than have my kid leap off the apartment roof.\n화자?: Since the weak get bullied every time, hiring someone really strong to shut them up will totally keep them away.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00058-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00058-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00058-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00058-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: In a world where teachers' authority is in the gutter, it's only natural for parents to turn to private investigators for revenge when bullying happens.\nSpeaker2: We gotta wipe out those trash bullies. They're a real social menace.\nSpeaker1: I'd rather do time than see my kid jump off the roof.\nSpeaker2: Since the weak always get bullied, if you hire someone really tough to keep them in check, they definitely won't mess with you."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00059",
+    "dialogue": "화자?: Speaker1: Going to the recycling bin in our apartment just makes me sigh.\n화자?: Speaker2: So many hopeless people. It ain't getting fixed.\n화자?: Isn't removing all the adhesive common sense before throwing away delivery boxes?\n화자?: That's not nothing. There are so many people who just toss leftover takeout.\n화자?: I don’t get who’s supposed to cleanthat up. Humanity’s really hit rock bottom.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00059-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00059-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00059-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00059-004",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00059-005",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Going to the recycling bin in our apartment just makes me sigh.\nSpeaker2: So many hopeless people. It ain't getting fixed.\nSpeaker1: Isn't it common sense to remove all the tape before tossing out delivery boxes?\nSpeaker2: That's nothing. Half the people throw away takeout with food still in it.\nSpeaker1: Who do they expect to clean that up? Humanity's falling apart."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00060",
+    "dialogue": "화자?: Speaker1: That person’s been at it for 10 years, but doesn’t seem to handle the job right.\n화자?: Speaker2: Is he totally just coasting?\n화자?: He'sjustjustcoasting,usinghissubordinatestokeephisspot.\n화자?: I've seen some people gets promoted and starts slacking more.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00060-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00060-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00060-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00060-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: That person’s been at it for 10 years, but doesn’t seem to handle the job right.\nSpeaker2: Is he totally just coasting?\nSpeaker1: He's just coasting by, using his subordinates to keep his spot.\nSpeaker2: Yikes, some people get promoted and just start slacking off."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00061",
+    "dialogue": "화자?: Speaker1: Who even is this person on Masked Singer? At this point, it feels like anyone can show up lol.\n화자?: Speaker2: Just reading the subtitles, I can smell the blood.\n화자?: Looks like they'd mix steroids into whatever drink the members are having.\n화자?: Guess there really isn’t no star left, now we’re got regular folks coming out.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00061-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00061-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00061-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00061-004",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Who even is this person on Masked Singer? At this point, it feels like anyone can show up lol.\nSpeaker2: Just reading the subtitles, I can smell the blood.\nSpeaker1: Looks like they’d mix in some Lloyd with their drink.\nSpeaker2: Guess there really aren’t any stars left, huh? Now it’s just regular folks."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00062",
+    "dialogue": "화자?: Speaker1: Got roasted for talking about reality TV with a friend. They think it's lame to check out other people's love lives or something.\n화자?: Speaker2: So many self-proclaimed cool people who can't even tell the difference between being cool and being socially awkward.\n화자?: [err] Speaker1: For real. That dude's overconfidence just totally kills the vibe.\n화자?: Best to just laugh It off and talk about something else.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00062-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00062-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00062-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00062-004",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Got roasted for talking about reality TV with a friend. They think it's lame to check out other people's love lives or something.\nSpeaker2: So many self-proclaimed cool people who can't even tell the difference between being cool and being socially awkward.\nSpeaker1: For real. That dude's overconfidence just totally kills the vibe.\nSpeaker2: In those cases, just laugh it off and switch to another topic."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00063",
+    "dialogue": "화자?: Speaker1: Is it true that a woman's pretty face is like passing three bar exams, whether it's natural or surgery?\n화자?: Speaker2: From a guy's perspective, that's been true since the Joseon Dynasty. What were you doing instead of studying for the exams? lol\n화자?: I didn’t have time to work on my Looks because I was busy studying For the exams.\n화자?: What a shame they were wasting their time on something else in this modern day.\n화자?: I'd Rather Make Money Than Look Attractive to a Guy Like You with No Brain.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00063-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00063-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00063-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00063-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00063-005",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Is it true that a woman's pretty face is like passing three bar exams, whether it's natural or surgery?\nSpeaker2: From a guy's perspective, that's been true since the Joseon Dynasty. What were you doing instead of studying for the exams? lol\nSpeaker1: I couldn't focus on my looks 'cause I was too busy studying for the exams, okay!\nSpeaker2: Tsk tsk, what a shame you were wasting your time on the wrong things in this day and age.\nSpeaker1: I'd rather make money than look attractive to a guy like you with no brain."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00064",
+    "dialogue": "화자?: Speaker1: Ugh, so annoying with the neighbor drama.\n화자?: Speaker2: What’s with acting all high and mighty just 'cause you’re older?\n화자?: I wanna yank the keyboard cord and smack something.\n화자?: Isn't It hilarious that you've lost everything just by yourself?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00064-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00064-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00064-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00064-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Ugh, so annoying with the neighbor drama.\nSpeaker2: What’s with acting all high and mighty just 'cause you’re older?\nSpeaker1: Kinda wanna unplug the keyboard and smack 'em.\nSpeaker2: Isn't it hilarious how you're just losing it all by yourself?"
+  },
+  {
+    "id": "nikluge-2025-au-dev-00065",
+    "dialogue": "화자?: Speaker1: Some mom who bought a game console on Carrot Market is being a pain and asking for the account info.\n화자?: Speaker2: Full-time housewife begging on Danggeun Market, lol.\n화자?: I flat out said no.\n화자?: There are more peoplelikethatthan you've seen before. It’s not Just the entitled women.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00065-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00065-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00065-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00065-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Some mom who bought a game console on Carrot Market is being a pain and asking for the account info.\nSpeaker2: Full-time housewife begging on Danggeun Market, lol.\nSpeaker1: I straight up said no.\nSpeaker2: There are way more people like that than you'd think. It's not just the entitled moms."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00066",
+    "dialogue": "화자?: Speaker1: You know the easiest way for a girl to mess up her life?\n화자?: Speaker2: What’s that supposed to mean?\n화자?: They say it’s not good to marry a broke dude with no Social Skills and have kids at your young age.\n화자?: Ugh, I’m really drained by hearing that. What have the kids done to deserve that?\n화자?: In the end, it’s a lesson to value yourself and make smart choices, right?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00066-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00066-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00066-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00066-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00066-005",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: You know the easiest way for a girl to mess up her life?\nSpeaker2: What’s that supposed to mean?\nSpeaker1: They say it's marrying a broke guy with no social skills and having kids at a young age.\nSpeaker2: Ugh, just hearing that drains me. What did the kids do to deserve this?\nSpeaker1: Isn't it basically a lesson not to mess up your own life?"
+  },
+  {
+    "id": "nikluge-2025-au-dev-00067",
+    "dialogue": "화자?: Speaker1: There are way too many losers in this country who get a kick out of other people's failures. They just tear you apart.\n화자?: Speaker2: It's a reality that they mock even without failure, so imagine how bad it gets when you do fail. It's full of insecure people who say stuff like, \"You passed the 9th grade but are just doing loading and unloading, basically a delivery guy,\" lol.\n화자?: It seems like the obsession with comparison and money is a global issue, but it feels especially intense in Korea.\n화자?: They're just mocking and leaving hate commentsto relieve their anxiety and feel better.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00067-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00067-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00067-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00067-004",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: There are way too many losers in this country who get a kick out of other people's failures. They just tear you apart.\nSpeaker2: It's a reality that they mock even without failure, so imagine how bad it gets when you do fail. It's full of insecure people who say stuff like, \"You passed the 9th grade but are just doing loading and unloading, basically a delivery guy,\" lol.\nSpeaker1: It's a global thing to obsess over comparisons and money, but Korea takes it to another level, and this is pretty serious.\nSpeaker2: They just mock and leave hate comments to relieve their stress and feel superior."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00068",
+    "dialogue": "화자?: Speaker1: They say Argentina officially made 'Kimchi Day' a national holiday first in the world.\n화자?: Speaker2: Haha, wait, they have a Kimchi Day and we don’t?\n화자?: I don’tsupport too. Making it a National Holiday seems kinda overthe top, I guess?\n화자?: What's different from the Tanghubai Day we have?\n화자?: Guess we gotta feel proud that Korean food's so great.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00068-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00068-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00068-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00068-004",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00068-005",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: They say Argentina officially made 'Kimchi Day' a national holiday first in the world.\nSpeaker2: Haha, wait, they have a Kimchi Day and we don’t?\nSpeaker1: I don’t get it either lol, making it a national holiday is kinda over the top, right?\nSpeaker2: What's the difference from designating a Tanghulu Day in our country?\nSpeaker1: Guess we gotta be proud that kimchi's that great, huh haha."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00069",
+    "dialogue": "화자?: Speaker1: Sounds like your mom didn't go to college, huh?\n화자?: Speaker2: Why do people leave weird comments on stuff like this? Got some insecurity about their school?\n화자?: Maybe it’s better to reflect on your own shortcomings instead of blaming others? Getting accepted into a Seoul university is toughfor everyone.\n화자?: Anyway, it seems like people with twists always go out of their way to comment weirdly.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00069-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00069-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00069-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00069-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Sounds like your mom didn't go to college, huh?\nSpeaker2: Why do people leave weird comments on stuff like this? Got some insecurity about their school?\nSpeaker1: Why blame others when you’re the one lacking? Getting into Seoul is tough for everyone.\nSpeaker2: Anyway, it’s always the people with twisted personalities who go all out on the comments."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00070",
+    "dialogue": "화자?: Speaker1: They say by 2040, only national and metropolitan universities will be left.\n화자?: Speaker2: Looks like colleges have no choice but to go that way with freshmen dropping like crazy.\n화자?: Maybe the situation up till ahora has been abnormal. Seems like there are so Many companies just cording in names that look like universities, all raking in.\n화자?: It could be that they’ve allocated funding for a lot of those private school CEOs, which is why public and regional universities are struggling.\n화자?: Yeah, with the birthrate dropping, a tonofluids are happening.\n화자?: For real, how can a country survive without its people?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00070-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00070-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00070-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00070-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00070-005",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00070-006",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: They say by 2040, only national and metropolitan universities will be left.\nSpeaker2: Looks like colleges have no choice but to go that way with freshmen dropping like crazy.\nSpeaker1: Maybe everything up till now has been kinda abnormal. There are so many schools just cashing in with names that don’t even feel like real institutions.\nSpeaker2: It could be because they’re handing out funds to those private schools that the national and local universities are doomed.\nSpeaker1: With the birth rate dropping, there are a ton of issues.\nSpeaker2: For real. How's a country without people supposed to survive?"
+  },
+  {
+    "id": "nikluge-2025-au-dev-00071",
+    "dialogue": "화자?: Speaker1: What's up with those comments saying being chubby is better? lol\n화자?: Speaker2: They're just those pig dads, insisting pigs are better than skinny guys lol.\n화자?: The styling down below is really on point.\n화자?: They'rejust pretending to feels better about themselves in the Mirror.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00071-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00071-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00071-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00071-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: What's up with those comments saying being chubby is better? lol\nSpeaker2: They're just those pig dads, insisting pigs are better than skinny guys lol.\nSpeaker1: The styling's just on another level below.\nSpeaker2: They're just pretending to feel better about their chubby selves in the mirror, lol."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00072",
+    "dialogue": "화자?: Speaker1: Heard a girl in her 20s got arrested for hitting a Japanese airport worker.\n화자?: Speaker2: Wait, why would she go all the way to Japan to do that?\n화자?: Heard an airport staff blocked a girl posing with an idol’s staff to prevent her from going to Japan.\n화자?: Yikes, we’re getting crazy with all that fan illegal stuff.\n화자?: I guess you could say a passionate Korea woman is just representing the country.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00072-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00072-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00072-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00072-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00072-005",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Heard a girl in her 20s got arrested for hitting a Japanese airport worker.\nSpeaker2: Wait, why would she go all the way to Japan to do that?\nSpeaker1: A airport staff stopped a girl taking pictures of an idol's staff.\nSpeaker2: Yikes, the craziness just keeps spilling out. Fans' illegal stuff is off the charts.\nSpeaker1: Just a passionate Korean girl repping the country, right?"
+  },
+  {
+    "id": "nikluge-2025-au-dev-00073",
+    "dialogue": "화자?: Speaker1: So, it's just gonna be male and female, no gender X.\n화자?: Speaker2: That kind of dumb identity stuff is just nonsense, man. It's messed up.\n화자?: They should just get recognized without trying to break out fully. Trying to be mainstream will probably lead to more backlash.\n화자?: This is right, listening to those ridiculous people is just messing up the country.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00073-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00073-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00073-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00073-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: So, it's just gonna be male and female, no gender X.\nSpeaker2: That kind of dumb identity stuff is just nonsense, man. It's messed up.\nSpeaker1: They should just be happy with some recognition instead of trying to push their way to the mainstream; they’re gonna get backlash for that.\nSpeaker2: This is right. Listening to those crazy people is why the country's a mess."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00074",
+    "dialogue": "화자?: Speaker1: I seriously wanna run away because of my teenage son. He’s plastering the word \"sex\" in calligraphy all over the moral textbook.\n화자?: Speaker2: Someone said to think of it like raising a big lizard and just let it go.\n화자?: It's kinda frustrating to realize I've lost my mind to that kid who's still young when I\"m in menopause.\n화자?: Since common sense isn't gonna work, just got him some hen eggs. That seems like all you can do, mom.\n화자?: I don'tsupport kids who wanna eat, but why would you wanna buy them chicken?\n화자?: They say adolescence isn't a one-time thing, it's a phase. Hanging out and keeping your head down should be fine.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00074-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00074-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00074-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00074-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00074-005",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00074-006",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: I seriously wanna run away because of my teenage son. He’s plastering the word \"sex\" in calligraphy all over the moral textbook.\nSpeaker2: Someone said to think of it like raising a big lizard and just let it go.\nSpeaker1: It's frustrating to think I'm losing it to that teenager when I'm going through menopause.\nSpeaker2: Since common sense ain't working, just get him some chicken. That's all a mom's gotta do.\nSpeaker1: I don't even wanna see him eat, so why would I buy him chicken?\nSpeaker2: They say adolescence is just a phase of madness. Hang in there and keep your cool."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00075",
+    "dialogue": "화자?: Speaker1: Typical writing of a schizophrenic.\n화자?: Speaker2: It's all over the place, full of suspicion and paranoia, right?\n화자?: Got no family? Seems like you need some help.\n화자?: [err] Speaker2: Total idiot, for real.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00075-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00075-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00075-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00075-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Typical writing of a schizophrenic.\nSpeaker2: It's all over the place, full of suspicion and paranoia, right?\nSpeaker1: Got family? Looks like they need help.\nSpeaker2: Total idiot, for real."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00076",
+    "dialogue": "화자?: Speaker1: Seems like a lot of kids just ignore their parents once they turn twenty.\n화자?: Speaker2: That’d be a problem after getting 20 years of care from your parents and then acting like that.\n화자?: I think age and being adult should be something to expect, so that idea doesn’t make sense. You got to act your angle to be a real adult.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00076-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00076-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00076-003",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Seems like a lot of kids just ignore their parents once they turn twenty.\nSpeaker2: That’d be a problem after getting 20 years of care from your parents and then acting like that.\nSpeaker1: Age and being an adult don’t really match up. You gotta act your age to be an adult."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00077",
+    "dialogue": "화자?: Speaker1: What were they thinking removing the arrow button on Street View and adding touch? It just takes you to weird places.\n화자?: Speaker2: Yikes, I thought it was just me acting weird.\n화자?: It's super frustrating trying to switch between neighborhoods and it lags a lot.\n화자?: I seriously wonder if they're making this update just to mess up navigation and force us to use Google Maps instead.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00077-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00077-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00077-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00077-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: What were they thinking removing the arrow button on Street View and adding touch? It just takes you to weird places.\nSpeaker2: Yikes, I thought it was just me acting weird.\nSpeaker1: And it lags like crazy when trying to move by neighborhood instead of street view. So frustrating.\nSpeaker2: Kinda feels like they’re making the update trash on purpose to get us to switch, for real…"
+  },
+  {
+    "id": "nikluge-2025-au-dev-00078",
+    "dialogue": "화자?: Speaker1: Is my girlfriend saying I smell like a white guy a diss or a compliment?\n화자?: Speaker2: Haha, how does your girlfriend even know what a white person smells like? She must've hooked up with a straight-up white dude.\n화자?: Stop joking around, I've got a lot of white guys around. Don'tstderr.\n화자?: Isn't that just a blend of cheese smell and butter scent?\n화자?: It’snot a stumpy smell,right? Isshe hintingI smell likebodyodor?\n화자?: Just ask straight up, no need to stress over it.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00078-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00078-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00078-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00078-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00078-005",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00078-006",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Is my girlfriend saying I smell like a white guy a diss or a compliment?\nSpeaker2: Haha, how does your girlfriend even know what a white person smells like? She must've hooked up with a straight-up white dude.\nSpeaker1: Don't make me curse. I'm being serious here.\nSpeaker2: Isn't it just a mix of cheese and butter smell?\nSpeaker1: It’s not a stinky smell, right? Is she hinting I smell like body odor?\nSpeaker2: Haha, just ask her straight up. Why stress over that?"
+  },
+  {
+    "id": "nikluge-2025-au-dev-00079",
+    "dialogue": "화자?: Speaker1: I just wanna do my job quietly and get paid, no praise from the boss.\n화자?: Speaker2: Haha, it’s a classic move for older bosses to praise you and then pile on more work.\n화자?: It's so frustrating seeing coworkers who act dumb rely on me to slack off just because I keepmy head down.\n화자?: Lately, it seems like those kids are figuring out their manners themselves. Can't really see them knowing everything.\n화자?: I just wanna win the lottery quietly and leave this countrywithout anyone knowing.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00079-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00079-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00079-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00079-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00079-005",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: I just wanna do my job quietly and get paid, no praise from the boss.\nSpeaker2: Haha, it’s a classic move for older bosses to praise you and then pile on more work.\nSpeaker1: It's frustrating seeing my coworkers act dumb and push their work off just 'cause I keep my head down.\nSpeaker2: These kids today must've learned their manners on their own, 'cause they act like they don't know anything.\nSpeaker1: I just wanna hit the lottery and bounce from this country without anyone noticing."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00080",
+    "dialogue": "화자?: Speaker1: That cocky jerk, people need to see his true colors.\n화자?: Speaker2: For real, it's a total mess.\n화자?: Yikes, the face of that guy is really gross.\n화자?: I feel like there'll be some serious trouble.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00080-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00080-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00080-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00080-004",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: That cocky jerk, people need to see his true colors.\nSpeaker2: For real, it's a total mess.\nSpeaker1: Dude's face is seriously nauseating.\nSpeaker2: Big trouble ahead."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00081",
+    "dialogue": "화자?: Speaker1: I just wish the media wouldn’t treat disabled people as special. They’re not extra nice or smart, just one of 8 billion people living their lives.\n화자?: Speaker2: Yeah, they say disability isn't something to overcome. It's just living life.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00081-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00081-002",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: I just wish the media wouldn’t treat disabled people as special. They’re not extra nice or smart, just one of 8 billion people living their lives.\nSpeaker2: Yeah, they say disability isn't something to overcome. It's just living life."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00082",
+    "dialogue": "화자?: Speaker1: I’m not into super good-looking guys, anyway.\n화자?: Speaker2: When I was really into him, everyone totally dissed him as a total loser.\n화자?: But now everyone says he're good-Looking.\n화자?: I’m already tired.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00082-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00082-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00082-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00082-004",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: I’m not into super good-looking guys, anyway.\nSpeaker2: When I was really into him, everyone totally dissed him as a total loser.\nSpeaker1: But now everyone thinks he's good-looking.\nSpeaker2: I'm already over it."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00083",
+    "dialogue": "화자?: Speaker1: Sorry, I guess baseball is a sport after all. They won't sue over just some trash talk...\n화자?: Speaker2: People who watch baseball see players as just athletes, but gamers treat their players like they're on the same level as Jesus.\n화자?: In the face of esport, leisure seems like another sport to me. Who cares about the actual sports?\n화자?: But honestly, I think some of those regional slides come from baseball fans.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00083-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00083-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00083-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00083-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Sorry, I guess baseball is a sport after all. They won't sue over just some trash talk...\nSpeaker2: People who watch baseball see players as just athletes, but gamers treat their players like they're on the same level as Jesus.\nSpeaker1: Haha, I guess leisure is a sport in front of esports, huh? Who cares what sports really are~\nSpeaker2: But honestly, all those regional slurs are totally because of baseball fans, haha."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00084",
+    "dialogue": "화자?: Speaker1: My makeup looks on point today.\n화자?: Speaker2: Yikes, but you kinda look like a bunny.\n화자?: What tint did you buy?\n화자?: Yeah, that color totally looked like junk. I just threw it in the trash.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00084-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00084-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00084-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00084-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: My makeup looks on point today.\nSpeaker2: Yikes, but you kinda look like a bunny.\nSpeaker1: My self-makeup is on point... what about that tint you bought?\nSpeaker2: Yeah, that was a total fail, so I threw it out."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00085",
+    "dialogue": "화자?: Speaker1: Is it really okay for a major economy like Japan to have such a high child poverty rate?\n화자?: Speaker2: They totally took all the money during the bubble, so the rest are basically just broke, lol.\n화자?: Yeah, China andIndia are kinda doing the same thing.\n화자?: True, it doesn’t depend on the country but who’s actually sharing that money.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00085-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00085-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00085-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00085-004",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Is it really okay for a major economy like Japan to have such a high child poverty rate?\nSpeaker2: They totally took all the money during the bubble, so the rest are basically just broke, lol.\nSpeaker1: Yeah, I guess China and India are kinda in the same boat.\nSpeaker2: For real, it’s not about the country’s ranking or whatever, it’s about how many people are sharing that wealth."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00086",
+    "dialogue": "화자?: Speaker1: The sound issues are just content to show off my idol live skills!\n화자?: Speaker2: Lmao, otherwise I'd be running around defending them every time there's a skill debate, and then we'd end up fighting—life gets super exhausting.\n화자?: It's hilarious to be shielding them, though. They're just showcasing their cutness on stage on those days when they totally think of themselves as uncles.\n화자?: We've definitely not been that kind of thing before.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00086-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00086-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00086-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00086-004",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: The sound issues are just content to show off my idol live skills!\nSpeaker2: Lmao, otherwise I'd be running around defending them every time there's a skill debate, and then we'd end up fighting—life gets super exhausting.\nSpeaker1: Haha, right? Defending them is so funny, lmao. They just flaunt their cuteness on stage and got picked because they fit that weird uncle vibe, haha.\nSpeaker2: We've never been that way lol."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00087",
+    "dialogue": "화자?: Speaker1: What a waste of money.\n화자?: Speaker2: They say to get Botox as soon as you start seeing wrinkles. If you wait until you're older, it doesn't work as well and lasts less.\n화자?: Aging's a bummer, and I don't get why everything costs so much.\n화자?: At least it ain't a painful injection, so that's a relief.\n화자?: Yeah, evenif it works well, it's just not that great, soI guessI just gottaliveformyownsatisfaction.\n화자?: That's a great way tosave money and reduce stress.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00087-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00087-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00087-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00087-004",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00087-005",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00087-006",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: What a waste of money.\nSpeaker2: They say to get Botox as soon as you start seeing wrinkles. If you wait until you're older, it doesn't work as well and lasts less.\nSpeaker1: Aging's rough enough, but why's everything so expensive?\nSpeaker2: At least it’s not a painful shot, thank goodness.\nSpeaker1: Yeah, even if it works, it’s not much, so I guess I just gotta live for my own satisfaction.\nSpeaker2: That's the best way to save money and stress less."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00088",
+    "dialogue": "화자?: Speaker1: Why's it so hard to get in touch?\n화자?: Speaker2: I was at the store getting cucumbers. My phone was in my bag.\n화자?: Why'd they buy cucinders?\n화자?: Of course I buy cucinders to eat. What else wouldI get it from?\n화자?: I meant whatsidedishyouweregating. You're kinda pushy.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00088-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00088-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00088-003",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00088-004",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00088-005",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Why's it so hard to get in touch?\nSpeaker2: I was at the store getting cucumbers. My phone was in my bag.\nSpeaker1: Why'd you buy cucumbers?\nSpeaker2: Of course I bought it to eat, what else would I get it for?\nSpeaker1: I meant what side dish you’re making. Chill out."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00089",
+    "dialogue": "화자?: Speaker1: They’re just reaping what they sow. Acting like they can’t make money is weak.\n화자?: Speaker2: Selfish groups for real lol, and the nursing program's enrollment has more than doubled since 2008 lol.\n화자?: They'rejustblinded by money. If doctors really made bank like lawyers,they'dprobablyjustgoworkforabigcompany.\n화자?: It's funny how doctors were all about patient care when nurses weren't just striking for staff numbers.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00089-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00089-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00089-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00089-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: They’re just reaping what they sow. Acting like they can’t make money is weak.\nSpeaker2: Selfish groups for real lol, and the nursing program's enrollment has more than doubled since 2008 lol.\nSpeaker1: They're just blinded by money; if doctors made as much as lawyers, they'd probably just go work for a big company.\nSpeaker2: They were all worried about patients when nurses were striking for more staff, huh? lol."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00090",
+    "dialogue": "화자?: Speaker1: Gotta just turn it off and coast, no way to stop those reckless kids.\n화자?: Speaker2: You're totally missing the point. We're talking about crossing the street normally right now.\n화자?: Is it normal for people to hit a bike at that time? Please just keep silent if you ain't got it.\n화자?: Are you saying I shouldn't cross the crossing box on a bicycle?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00090-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00090-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00090-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00090-004",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Gotta just turn it off and coast, no way to stop those reckless kids.\nSpeaker2: You're totally missing the point. We're talking about crossing the street normally right now.\nSpeaker1: Is it normal to crash on a bike? Seriously, if you don’t get it, just keep quiet lol.\nSpeaker2: Are you saying it's not normal to cross the crosswalk on a bike?"
+  },
+  {
+    "id": "nikluge-2025-au-dev-00091",
+    "dialogue": "화자?: Speaker1: Korean strawberries are seriously so good.\n화자?: Speaker2: In the U.S., you gotta eat strawberries in season or go for the greenhouse ones.\n화자?: Nah, I’m just saying Korean strawberries taste super delicious, no matter what.\n화자?: That's the variety developed by Japan.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00091-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00091-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00091-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00091-004",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Korean strawberries are seriously so good.\nSpeaker2: In the U.S., you gotta eat strawberries in season or go for the greenhouse ones.\nSpeaker1: Nah, whatever it is, Korean strawberries are just bomb.\nSpeaker2: That's a variety developed in Japan."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00092",
+    "dialogue": "화자?: Speaker1: Almost turned my morning commute into a nightmare because of those bikers.\n화자?: Speaker2: Gotta be thankful for those future organ donors, I guess.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00092-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00092-002",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Almost turned my morning commute into a nightmare because of those bikers.\nSpeaker2: Gotta be thankful for those future organ donors, I guess."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00093",
+    "dialogue": "화자?: Speaker1: If they just give out some good handshakes at the fan signing, no one's gonna say anything.\n화자?: Speaker1: I seriously don’t get why they’re making it so hard when it’s that easy.\n화자?: It's just pathetic to see them fighting over whether we said hi.\n화자?: The country's really going downhill.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00093-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00093-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00093-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00093-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: If they just give out some good handshakes at the fan signing, no one's gonna say anything.\nSpeaker1: I seriously don’t get why they’re making it so hard when it’s that easy.\nSpeaker2: It's so pathetic watching them fight over whether they said hi or not.\nSpeaker2: We're regressing to a real low level here."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00094",
+    "dialogue": "화자?: Speaker1: What?? Negotiating with the Chinks??? Isn’t that some leftist move???\n화자?: Speaker2: Are you dumb? Gotta negotiate, or are we just gonna let the nuke-holding idiots fight it out?\n화자?: Wasn'ot TikTok really damaged in Congress when they leaked their info to China?\n화자?: They decided to give TikTok a 55% stake and a 60-month grace period, then briefly loosened things up.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00094-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00094-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00094-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00094-004",
+        "label": "appropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: What?? Negotiating with the Chinks??? Isn’t that some leftist move???\nSpeaker2: Are you dumb? Gotta negotiate, or are we just gonna let the nuke-holding idiots fight it out?\nSpeaker1: Wasn't TikTok getting wrecked in Congress over data leaks to China?\nSpeaker2: They said they’d take 50% of TikTok and gave a 90-day grace period to decide, then just let it go for a bit."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00095",
+    "dialogue": "화자?: Speaker1: Aren't they supposed to do mandatory service at daycares or nursing homes since girls don't go to the military anyway?\n화자?: Speaker2: Nah, don’t you know girls just abuse the weak when no one's watching?\n화자?: I guess it's all about treating weaklings the same, whether in abuse cases or military hazing.\n화자?: At this point it feels like being bornweak in Hellis a basic human right that's basically a sin and a punishment.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00095-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00095-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00095-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00095-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Aren't they supposed to do mandatory service at daycares or nursing homes since girls don't go to the military anyway?\nSpeaker2: Nah, don’t you know girls just abuse the weak when no one's watching?\nSpeaker1: I guess it’s all the same for weaklings, whether it’s abuse or military hazing.\nSpeaker2: At this point, being born weak in Hell is basically a crime and a curse, lol."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00096",
+    "dialogue": "화자?: Speaker1: I'm about to lose it over that guy on the subway.\n화자?: Speaker2: Gotta feel sorry for me, though; my legs are all messed up now.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00096-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00096-002",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: I'm about to lose it over that guy on the subway.\nSpeaker2: Gotta feel sorry for me, though; my legs are all messed up now."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00097",
+    "dialogue": "화자?: Speaker1: What’s up with all these cat ladies being the last single women in the world?\n화자?: Speaker2: What is it about cats that drives people to lose their minds?\n화자?: But seriously, breaking their food bowl makes no sense. It’s just gonna get their shoes dirty. They could just pour in some fish Sauce, and if a cockroach shows up, the public opinion will take care of itself.\n화자?: It really makes me mad seeing what those feline moms do or write. Ijust wanna help them with their mental issues.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00097-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00097-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00097-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00097-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: What’s up with all these cat ladies being the last single women in the world?\nSpeaker2: What is it about cats that drives people to lose their minds?\nSpeaker1: But breaking the cat's food bowl is just dumb. It just gets its own shoes dirty lol. Just pour some fish sauce and let the roaches handle it; they'll create the outrage themselves lol.\nSpeaker2: For real, reading what those cat moms do and write makes me wanna get violent. I just wanna beat some sense into them and help fix that crazy."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00098",
+    "dialogue": "화자?: Speaker1: What kind of logic is that... read a book, man.\n화자?: Speaker2: No way to measure how dumb they are.\n화자?: They must be from somewhere else's minds.\n화자?: They were already weird, butnow they seem even crazier.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00098-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00098-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00098-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00098-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: What kind of logic is that... read a book, man.\nSpeaker2: No way to measure how dumb they are.\nSpeaker1: They must be out of their minds lol.\nSpeaker2: They were already crazy, but now it’s like next level lol."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00099",
+    "dialogue": "화자?: Speaker1: I got totally roasted at the café while I was holding my dog and getting coffee to go.\n화자?: Speaker2: Aren't pets usually banned in regular cafes by law?\n화자?: They were so loud about it when I just ordered and stepped out.\n화자?: I can see how that might bother other customers if someone has a pet allergy.\n화자?: They're making such a bigdeal about ordering coffee when no one's even out there waiting.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00099-001",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00099-002",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00099-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00099-004",
+        "label": "appropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00099-005",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: I got totally roasted at the café while I was holding my dog and getting coffee to go.\nSpeaker2: Aren't pets usually banned in regular cafes by law?\nSpeaker1: They freaked out even though I just went in to order and came right back out.\nSpeaker2: I get that it might be annoying for other customers, especially if someone’s allergic to fur.\nSpeaker1: Seriously, they’re making a big deal out of nothing."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00100",
+    "dialogue": "화자?: Speaker1: Ugh, I’m so ready to quit.\n화자?: Speaker2: Yikes, at least you guys have a decent boss. We’ve got a newbie acting like that. Totally kills the vibe.",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00100-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00100-002",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: Ugh, I’m so ready to quit.\nSpeaker2: Yikes, at least you guys have a decent boss. We’ve got a newbie acting like that. Totally kills the vibe."
+  },
+  {
+    "id": "nikluge-2025-au-dev-00101",
+    "dialogue": "화자?: Speaker1: It's crazy how they're blasting high beams from way back, like they should be hitting the brakes instead of telling the car in front to move.\n화자?: Speaker2: For real, the answer's just to smash their head with a hammer and put 'em to death.\n화자?: I’d probably just keep Driving and mess around with the brakes before taking off.\n화자?: Isn't killing cars just a death want?",
+    "output": [
+      {
+        "id": "nikluge-2025-au-dev-00101-001",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00101-002",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00101-003",
+        "label": "inappropriate"
+      },
+      {
+        "id": "nikluge-2025-au-dev-00101-004",
+        "label": "inappropriate"
+      }
+    ],
+    "dialogue_orig": "Speaker1: It's crazy how they're blasting high beams from way back, like they should be hitting the brakes instead of telling the car in front to move.\nSpeaker2: For real, the answer's just to smash their head with a hammer and put 'em to death.\nSpeaker1: If it were me, I’d just keep driving and mess with them while hitting the brakes, then bail.\nSpeaker2: Isn't that basically a death wish?"
+  }
+]
